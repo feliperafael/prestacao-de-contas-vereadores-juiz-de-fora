@@ -8,4 +8,4 @@ Esse repositorio tem como objetivo a extração e analise dos dados presentes no
   - Para pegar a lista de vereadores
     -     python3 extract_vereadores_list.py
   - Para pegar os dados de prestação de contas desde 2017/01
-  -     python3 extract_prestacao_de_contas
+  -     python3 extract_prestacao_de_contas.py
