@@ -2,10 +2,6 @@
 
 Esse repositorio tem como objetivo a extração e analise dos dados presentes no site  da [câmara](http://www.camarajf.mg.gov.br/) dos vereadores de Juiz de Fora
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 # Como rodar
  -     git clone https://github.com/feliperafael/prestacao-de-contas-vereadores-juiz-de-fora.git
   -     pip install -r requirements.txt
