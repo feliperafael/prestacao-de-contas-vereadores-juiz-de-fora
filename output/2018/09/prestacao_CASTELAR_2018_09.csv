@@ -1,15 +1,15 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 009/2018,25/09/2018,Vandenilce da Mata,71981276653,"500,00"
-1,Documento Auxiliar da Nota Fiscal Eletrônica 759,30/09/2018,Posto de Gasolina Fox Ltda,18898724000160,"240,08"
-2,Recibo de Pagamento a Autônomo 05,25/09/2018,LUIDGI GOMES PEREIRA MARTINS,09905141618,"3.000,00"
-3,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000022,28/09/2018,Guilherme Leão Sociedade Individual de Advocacia,24655350000154,"1.500,00"
-4,Documento da Nota Fiscal Eletrônica 5273,27/09/2018,Ribeiro de Oliveira & CIA LTDA,21562897000117,"8,80"
-5,Fatura de Fornecimento de Água - Cesama E15003026,28/09/2018,Companhia de Saneamento Municipal,21572243000174,"50,69"
-6,Nota Fiscal de Prestação de Serviços 3447,28/09/2018,Industria Juizforana de Imprena LTDA,21614557000192,"1.550,00"
-7,Documento Auxiliar da Nota Fiscal Eletrônica 5273,27/09/2018,Ribeiro de Oliveira &  Cia LTDA,21562897000117,"217,35"
-8,Nota Fiscal Eletrõnica de Serviços 201800000001863,21/09/2018,Apoio Desenhos LTDA,09102205000152,"150,00"
-9,Nota Fiscal Eletronica de Serviços 201800000001891,21/09/2018,Apoio Desenhos LTDA,09102205000152,"150,00"
-10,Documento Auxiliar da Nota Fiscal Eletrônica 5273,27/09/2018,Ribeiro de Oliveira & CIA LTDA,21562897000117,"101,80"
-11,Nota Fiscal de Serviços de Telecomunicações 16378825,28/09/2018,Oi,33000118000179,"108,94"
-12,Nota Fiscal de Serviços de Telecomunicações 16378825,28/09/2018,OI,33000118000179,"142,08"
-13,Fatura de Serviços de Telecomunicações 1700423613986,28/09/2018,OI Fixo,33000118000179,"107,35"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 009/2018,2018-09-25,Vandenilce da Mata,71981276653,500.0
+1,Documento Auxiliar da Nota Fiscal Eletrônica 759,2018-09-30,Posto de Gasolina Fox Ltda,18898724000160,240.08
+2,Recibo de Pagamento a Autônomo 05,2018-09-25,LUIDGI GOMES PEREIRA MARTINS,09905141618,3000.0
+3,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000022,2018-09-28,Guilherme Leão Sociedade Individual de Advocacia,24655350000154,1500.0
+4,Documento da Nota Fiscal Eletrônica 5273,2018-09-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,8.8
+5,Fatura de Fornecimento de Água - Cesama E15003026,2018-09-28,Companhia de Saneamento Municipal,21572243000174,50.69
+6,Nota Fiscal de Prestação de Serviços 3447,2018-09-28,Industria Juizforana de Imprena LTDA,21614557000192,1550.0
+7,Documento Auxiliar da Nota Fiscal Eletrônica 5273,2018-09-27,Ribeiro de Oliveira &  Cia LTDA,21562897000117,217.35
+8,Nota Fiscal Eletrõnica de Serviços 201800000001863,2018-09-21,Apoio Desenhos LTDA,09102205000152,150.0
+9,Nota Fiscal Eletronica de Serviços 201800000001891,2018-09-21,Apoio Desenhos LTDA,09102205000152,150.0
+10,Documento Auxiliar da Nota Fiscal Eletrônica 5273,2018-09-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,101.8
+11,Nota Fiscal de Serviços de Telecomunicações 16378825,2018-09-28,Oi,33000118000179,108.94
+12,Nota Fiscal de Serviços de Telecomunicações 16378825,2018-09-28,OI,33000118000179,142.08
+13,Fatura de Serviços de Telecomunicações 1700423613986,2018-09-28,OI Fixo,33000118000179,107.35

@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 000018194,09/03/2018,Solar Comunicação S/A,21561725000129,"35,60"
-1,Nota Fiscal Eletronica 000013660,26/03/2018,Posto Rumualdo LTDA,66343930000156,"240,03"
-2,Nota Fiscal Eletronica 000004149,26/03/2018,Posto Visão LTDA,25408964000102,"100,00"
-3,Nota Fiscal Eletronica 000000167,28/03/2018,Posto Central LTTDA,21549407000142,"858,77"
-4,Nota Fiscal Eletronica de Serviços 201800000000027,28/03/2018,Aristides Ribeiro Advogados Associados S/C,04504649000109,"3.000,00"
-5,Nota Fiscal Eletronica de Serviços 201800000000156,27/03/2018,ERV Revistas e Promoções Eireli,20876409000183,"400,00"
-6,Nota Fiscal de Serviços de Telecomunicaçoes 0304814216,09/03/2018,VIVO,02558157000162,"393,06"
-7,Nota Fiscal de Serviços de Telecomunicaçãoes 1700416853428,28/03/2018,OI,33000118000179,"142,84"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 000018194,2018-03-09,Solar Comunicação S/A,21561725000129,35.6
+1,Nota Fiscal Eletronica 000013660,2018-03-26,Posto Rumualdo LTDA,66343930000156,240.03
+2,Nota Fiscal Eletronica 000004149,2018-03-26,Posto Visão LTDA,25408964000102,100.0
+3,Nota Fiscal Eletronica 000000167,2018-03-28,Posto Central LTTDA,21549407000142,858.77
+4,Nota Fiscal Eletronica de Serviços 201800000000027,2018-03-28,Aristides Ribeiro Advogados Associados S/C,04504649000109,3000.0
+5,Nota Fiscal Eletronica de Serviços 201800000000156,2018-03-27,ERV Revistas e Promoções Eireli,20876409000183,400.0
+6,Nota Fiscal de Serviços de Telecomunicaçoes 0304814216,2018-03-09,VIVO,02558157000162,393.06
+7,Nota Fiscal de Serviços de Telecomunicaçãoes 1700416853428,2018-03-28,OI,33000118000179,142.84

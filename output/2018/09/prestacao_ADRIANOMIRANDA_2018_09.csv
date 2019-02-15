@@ -1,4 +1,4 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,NFe 10076,18/09/2018,Teixeira e Chaves Ltda,21339965001902,"16,35"
-1,NFe 10076,18/09/2018,Teixeira e Chaves Ltda,21339965001902,"48,65"
-2,Nota Fiscal de Serviços de Telecomunicação 1700423613986,26/09/2018,Telemar Norte Leste S/A,33000118000179,"755,83"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,NFe 10076,2018-09-18,Teixeira e Chaves Ltda,21339965001902,16.35
+1,NFe 10076,2018-09-18,Teixeira e Chaves Ltda,21339965001902,48.65
+2,Nota Fiscal de Serviços de Telecomunicação 1700423613986,2018-09-26,Telemar Norte Leste S/A,33000118000179,755.83

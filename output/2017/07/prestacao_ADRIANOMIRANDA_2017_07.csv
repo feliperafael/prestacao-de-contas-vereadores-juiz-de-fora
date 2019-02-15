@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo/Fatura numerada 173501,03/07/2017,Infoline Comunicações e Informações Eletronicas Ltda,00958288000101,"40,14"
-1,Nota Fiscal de Seviços de Comunicação 807209,03/07/2017,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,"26,76"
-2,Recibo 6,04/07/2017,Tendencias Comerciais em Imoveis Eireli,07697040000183,"800,00"
-3,Danfe 12696,24/07/2017,Posto Romualdo Ltda,66343930000156,"1.519,06"
-4,Recibo do Pagador 240000000008259848,05/07/2017,Cond Ed Rossi Rio Branco Corporate,20291262000160,"258,25"
-5,NFe 3692,11/07/2017,Teixeira e Chaves Ltda,21339965001902,"17,96"
-6,NFSe 201700000000122,24/07/2017,Posto Romualdo Ltda,66343930000156,"40,00"
-7,Nota Fiscal Série U1 808433,10/07/2017,Cemig Distribuição S/A,06981180000116,"40,52"
-8,Documento de Lançamento de Arrecadação do IPTU 002644/144,04/07/2017,Prefeitura de Juiz de Fora,17783192000152,"107,92"
-9,Fatura de Locação 213,25/07/2017,Locadora Hermon Ltda,04569904000193,"2.000,00"
-10,NFe 3692,11/07/2017,Teixeira e Chaves Ltda,21339965001902,"18,95"
-11,NFSe 201700000000082,13/07/2017,Evolução Plotagem Ltda,04441666000136,"100,00"
-12,Nota Fiscal de Serviços de Telecomunicação 1700405526945,31/07/2017,Telemar Norte Leste  SA,33000118000179,"463,86"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo/Fatura numerada 173501,2017-07-03,Infoline Comunicações e Informações Eletronicas Ltda,00958288000101,40.14
+1,Nota Fiscal de Seviços de Comunicação 807209,2017-07-03,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
+2,Recibo 6,2017-07-04,Tendencias Comerciais em Imoveis Eireli,07697040000183,800.0
+3,Danfe 12696,2017-07-24,Posto Romualdo Ltda,66343930000156,1519.06
+4,Recibo do Pagador 240000000008259848,2017-07-05,Cond Ed Rossi Rio Branco Corporate,20291262000160,258.25
+5,NFe 3692,2017-07-11,Teixeira e Chaves Ltda,21339965001902,17.96
+6,NFSe 201700000000122,2017-07-24,Posto Romualdo Ltda,66343930000156,40.0
+7,Nota Fiscal Série U1 808433,2017-07-10,Cemig Distribuição S/A,06981180000116,40.52
+8,Documento de Lançamento de Arrecadação do IPTU 002644/144,2017-07-04,Prefeitura de Juiz de Fora,17783192000152,107.92
+9,Fatura de Locação 213,2017-07-25,Locadora Hermon Ltda,04569904000193,2000.0
+10,NFe 3692,2017-07-11,Teixeira e Chaves Ltda,21339965001902,18.95
+11,NFSe 201700000000082,2017-07-13,Evolução Plotagem Ltda,04441666000136,100.0
+12,Nota Fiscal de Serviços de Telecomunicação 1700405526945,2017-07-31,Telemar Norte Leste  SA,33000118000179,463.86

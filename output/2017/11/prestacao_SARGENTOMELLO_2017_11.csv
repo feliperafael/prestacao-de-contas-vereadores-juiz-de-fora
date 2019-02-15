@@ -1,10 +1,10 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,DANFE-documento auxiliar da nota fiscal eletronica 5661- serie 1,30/11/2017,Papagaio Comercio e derivados  de petroleo ltda,10515414000107,"1.327,82"
-1,RPA-recibo  de pagamento autonomo 07,30/11/2017,Marilene de Almeida Rachel,99861356649,"3.300,00"
-2,DANFE-documento auxiliar da nota fiscal eletronica 000.000.974,28/11/2017,Acarbonaro agua mineral ltda,24488698000102,"46,00"
-3,Nota Fiscal de Serviço-NFS-e 201700000000063,07/11/2017,Ricardo Teixeira de Aguiar,66464488000116,"260,00"
-4,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000038,30/11/2017,Wander luiz de Souza Senra,19371304000193,"600,00"
-5,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000148,20/11/2017,Ambiente Comunicação ltda,09662777000196,"750,00"
-6,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000131,30/11/2017,Interurb serviços postais ltda,42933416000102,"1.040,20"
-7,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000034,06/11/2017,Onofre de Matos Guedes,26632032000101,"350,00"
-8,fatura operadora oi fixo 1700411982602,30/11/2017,Operadora tefonia Oi,33000118000179,"314,36"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,DANFE-documento auxiliar da nota fiscal eletronica 5661- serie 1,2017-11-30,Papagaio Comercio e derivados  de petroleo ltda,10515414000107,1327.82
+1,RPA-recibo  de pagamento autonomo 07,2017-11-30,Marilene de Almeida Rachel,99861356649,3300.0
+2,DANFE-documento auxiliar da nota fiscal eletronica 000.000.974,2017-11-28,Acarbonaro agua mineral ltda,24488698000102,46.0
+3,Nota Fiscal de Serviço-NFS-e 201700000000063,2017-11-07,Ricardo Teixeira de Aguiar,66464488000116,260.0
+4,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000038,2017-11-30,Wander luiz de Souza Senra,19371304000193,600.0
+5,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000148,2017-11-20,Ambiente Comunicação ltda,09662777000196,750.0
+6,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000131,2017-11-30,Interurb serviços postais ltda,42933416000102,1040.2
+7,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000034,2017-11-06,Onofre de Matos Guedes,26632032000101,350.0
+8,fatura operadora oi fixo 1700411982602,2017-11-30,Operadora tefonia Oi,33000118000179,314.36

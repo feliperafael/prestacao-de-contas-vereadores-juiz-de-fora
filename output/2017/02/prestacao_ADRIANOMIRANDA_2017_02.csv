@@ -1,13 +1,13 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo 01,01/02/2017,Tendencias Comerciais em Imoveis Eireli,07697040000183,"800,00"
-1,NFeletrônica 12114,21/02/2017,Posto Romualdo Ltda,66343930000156,"1.207,73"
-2,Recibo do Sacado 240000000007786925,07/02/2017,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,"362,67"
-3,NFe 1401,13/02/2017,Teixeira e Chaves Ltda,21339965001902,"9,90"
-4,NFSe 2017/18,21/02/2017,Posto Romualdo Ltda,66343930000156,"80,00"
-5,Nota Fiscal CEMIG série U 279300,21/02/2017,Cemig Distribuição S.A,06981180000116,"41,68"
-6,NFSe 2017.00000000034,02/02/2017,W. Collor Editora Gráfica Ltda,05033125000131,"500,00"
-7,Fatura de locação 000151,23/02/2017,Locadora Hermon Ltda,04569904000193,"2.000,00"
-8,NFe 1401,13/02/2017,Teixeira e Chaves Ltda,21339965001902,"4,40"
-9,NFSe 2017/10,02/02/2017,Ambiente Comunicação Ltda,09662777000196,"1.440,00"
-10,NFe 96631,08/02/2017,Set Serviços Técnicos em Informática Ltda,23393267000787,"19,00"
-11,NF de Serviço de Telecomunicações 667233,24/02/2017,Telemar Norte leste SA,33000118000179,"616,16"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo 01,2017-02-01,Tendencias Comerciais em Imoveis Eireli,07697040000183,800.0
+1,NFeletrônica 12114,2017-02-21,Posto Romualdo Ltda,66343930000156,1207.73
+2,Recibo do Sacado 240000000007786925,2017-02-07,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,362.67
+3,NFe 1401,2017-02-13,Teixeira e Chaves Ltda,21339965001902,9.9
+4,NFSe 2017/18,2017-02-21,Posto Romualdo Ltda,66343930000156,80.0
+5,Nota Fiscal CEMIG série U 279300,2017-02-21,Cemig Distribuição S.A,06981180000116,41.68
+6,NFSe 2017.00000000034,2017-02-02,W. Collor Editora Gráfica Ltda,05033125000131,500.0
+7,Fatura de locação 000151,2017-02-23,Locadora Hermon Ltda,04569904000193,2000.0
+8,NFe 1401,2017-02-13,Teixeira e Chaves Ltda,21339965001902,4.4
+9,NFSe 2017/10,2017-02-02,Ambiente Comunicação Ltda,09662777000196,1440.0
+10,NFe 96631,2017-02-08,Set Serviços Técnicos em Informática Ltda,23393267000787,19.0
+11,NF de Serviço de Telecomunicações 667233,2017-02-24,Telemar Norte leste SA,33000118000179,616.16

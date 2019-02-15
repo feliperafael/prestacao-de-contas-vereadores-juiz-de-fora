@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo 14,28/02/2018,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 11395,26/02/2018,Auto Posto Petrogas LTDA,03862967000170,"763,66"
-2,Recibo de Pagamento a Autônomo - RPA 08,23/02/2018,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,Documento Auxiliar da Nota Fiscal Eletrônica 4851,28/02/2018,Ribeiro de Oliveira & CIA - LTDA,21562897000117,"19,60"
-4,Nota Fiscal - Conta de Energia Eletrica 002727989,28/02/2018,Cemig Distribuição S.A.,06981180000116,"39,94"
-5,Nota Fiscal Eletrônica de Serviço -NFS-e 201800000000089,23/02/2018,Estacionamento Salve Jorge - LTDA - ME,17509454000195,"300,00"
-6,Fatura de Serviços de Saneamento A/518278-93,28/02/2018,CESAMA,21572243000174,"49,39"
-7,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 014.488.703,27/02/2018,Daniel Rogério Magela Meirelles,19086676000178,"456,00"
-8,Fatura 162,23/02/2018,Estacionamento Salve Jorge LTDA - ME,17509454000195,"1.500,00"
-9,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 4851,28/02/2018,Ribeiro de Oliveira & CIA LTDA,21562897000117,"461,99"
-10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 1500,28/02/2018,JF Escrita Artigos p/ Escritório LTDA,07316990000110,"255,20"
-11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 2054,22/02/2018,Infotoner,02017219000129,"39,00"
-12,Fatura 1700415674971,28/02/2018,Oi Fixo,33000118000179,"323,76"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo 14,2018-02-28,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 11395,2018-02-26,Auto Posto Petrogas LTDA,03862967000170,763.66
+2,Recibo de Pagamento a Autônomo - RPA 08,2018-02-23,Carlos Henrique Bruce João,05036074602,2000.0
+3,Documento Auxiliar da Nota Fiscal Eletrônica 4851,2018-02-28,Ribeiro de Oliveira & CIA - LTDA,21562897000117,19.6
+4,Nota Fiscal - Conta de Energia Eletrica 002727989,2018-02-28,Cemig Distribuição S.A.,06981180000116,39.94
+5,Nota Fiscal Eletrônica de Serviço -NFS-e 201800000000089,2018-02-23,Estacionamento Salve Jorge - LTDA - ME,17509454000195,300.0
+6,Fatura de Serviços de Saneamento A/518278-93,2018-02-28,CESAMA,21572243000174,49.39
+7,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 014.488.703,2018-02-27,Daniel Rogério Magela Meirelles,19086676000178,456.0
+8,Fatura 162,2018-02-23,Estacionamento Salve Jorge LTDA - ME,17509454000195,1500.0
+9,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 4851,2018-02-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,461.99
+10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 1500,2018-02-28,JF Escrita Artigos p/ Escritório LTDA,07316990000110,255.2
+11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 2054,2018-02-22,Infotoner,02017219000129,39.0
+12,Fatura 1700415674971,2018-02-28,Oi Fixo,33000118000179,323.76

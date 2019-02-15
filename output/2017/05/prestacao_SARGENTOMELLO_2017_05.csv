@@ -1,12 +1,12 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,DANFE-documento auxiliar da nota fiscal eletronica 00005356,31/05/2017,papagaio comercio e derivados de petroleo ltda,10515414000107,"1.280,21"
-1,Recibo de Pagamento a Autonomo- RPA 01,30/05/2017,MARILENE DE ALMEIDA RACHEL,99861356649,"2.250,00"
-2,RPA- recibo de pagamento a autonomo 05/2017,31/05/2017,geraldo maximiano da silva,45350825615,"3.000,00"
-3,DANFE-documento auxiliar da nota fiscal eletronica 000000647,02/05/2017,A CARBONARO AGUA MINERAL  ME,24488698000102,"31,00"
-4,DANFE- DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRONICA 000000673,29/05/2017,A CARBONARO AGUA MINERAL ME,24488698000102,"31,00"
-5,DANFE-documento auxiliar da nota fiscal eletronica 4314,29/05/2017,ribeiro de oliveira&cia ltda,21562897000117,"33,20"
-6,nota fiscal eletronica de serviço- NFS-e 201700000000033,29/05/2017,ricardo teixeira de aguiar,66464488000116,"260,00"
-7,danfe- documento auxiliar da nota fical eletronica 4314,29/05/2017,ribeiro de oliveira & cia ltda,21562897000117,"383,80"
-8,nota fiscal eletronica de serviço - NFS-e 201700000000013,02/05/2017,Onofre de matos guedes,26632032000101,"300,00"
-9,danfe-documento auxiliar da nota fiscal eletronica 4314,29/05/2017,ribeiro de oliveira & cia ltda,21562897000117,"34,90"
-10,fatura 1700403894827,31/05/2017,oi,33000118000179,"191,04"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,DANFE-documento auxiliar da nota fiscal eletronica 00005356,2017-05-31,papagaio comercio e derivados de petroleo ltda,10515414000107,1280.21
+1,Recibo de Pagamento a Autonomo- RPA 01,2017-05-30,MARILENE DE ALMEIDA RACHEL,99861356649,2250.0
+2,RPA- recibo de pagamento a autonomo 05/2017,2017-05-31,geraldo maximiano da silva,45350825615,3000.0
+3,DANFE-documento auxiliar da nota fiscal eletronica 000000647,2017-05-02,A CARBONARO AGUA MINERAL  ME,24488698000102,31.0
+4,DANFE- DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRONICA 000000673,2017-05-29,A CARBONARO AGUA MINERAL ME,24488698000102,31.0
+5,DANFE-documento auxiliar da nota fiscal eletronica 4314,2017-05-29,ribeiro de oliveira&cia ltda,21562897000117,33.2
+6,nota fiscal eletronica de serviço- NFS-e 201700000000033,2017-05-29,ricardo teixeira de aguiar,66464488000116,260.0
+7,danfe- documento auxiliar da nota fical eletronica 4314,2017-05-29,ribeiro de oliveira & cia ltda,21562897000117,383.8
+8,nota fiscal eletronica de serviço - NFS-e 201700000000013,2017-05-02,Onofre de matos guedes,26632032000101,300.0
+9,danfe-documento auxiliar da nota fiscal eletronica 4314,2017-05-29,ribeiro de oliveira & cia ltda,21562897000117,34.9
+10,fatura 1700403894827,2017-05-31,oi,33000118000179,191.04

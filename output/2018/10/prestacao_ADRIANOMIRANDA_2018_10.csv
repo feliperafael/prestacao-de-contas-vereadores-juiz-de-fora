@@ -1,5 +1,5 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,NFe 10526,26/10/2018,Teixeira e Chaves Ltda,21339965001902,"10,90"
-1,NFe 10526,26/10/2018,Teizeira e Chaves Ltda,21339965001902,"39,90"
-2,NFe 10526,26/10/2018,Teixeira e Chaves Ltda,21339965001902,"37,50"
-3,Nota Fiscal de Serviços de Telecomunicação 1700424703821,25/10/2018,Telemar Norte Leste S/A,33000118000179,"523,24"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,NFe 10526,2018-10-26,Teixeira e Chaves Ltda,21339965001902,10.9
+1,NFe 10526,2018-10-26,Teizeira e Chaves Ltda,21339965001902,39.9
+2,NFe 10526,2018-10-26,Teixeira e Chaves Ltda,21339965001902,37.5
+3,Nota Fiscal de Serviços de Telecomunicação 1700424703821,2018-10-25,Telemar Norte Leste S/A,33000118000179,523.24

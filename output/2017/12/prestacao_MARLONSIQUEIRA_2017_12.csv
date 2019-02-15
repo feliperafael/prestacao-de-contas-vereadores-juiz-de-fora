@@ -1,7 +1,7 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 000018194,05/12/2017,Solar Comunicação SA,21561725000129,"35,60"
-1,Nota Fiscal Eletronica 000000143,19/12/2017,Posto Central LTDA,21549407000142,"520,39"
-2,Nota Fiscal Eletronica 000013270,19/12/2017,Posto Rumualdo LTDA,66343930000156,"335,28"
-3,Nota Fiscal Eletronica de Serviço 201700000000022,15/12/2017,Aristides Ribeiro Advogados Associados S/C,04504649000109,"3.000,00"
-4,Nota Fiscal Eletronica 0000001996,12/12/2017,Aloisio Costa Ferreira-ME Infotoner,02017219000129,"84,96"
-5,Nora Fiscal de Telecomunicação 0304814216,05/12/2017,Vivo,02558157000162,"389,67"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 000018194,2017-12-05,Solar Comunicação SA,21561725000129,35.6
+1,Nota Fiscal Eletronica 000000143,2017-12-19,Posto Central LTDA,21549407000142,520.39
+2,Nota Fiscal Eletronica 000013270,2017-12-19,Posto Rumualdo LTDA,66343930000156,335.28
+3,Nota Fiscal Eletronica de Serviço 201700000000022,2017-12-15,Aristides Ribeiro Advogados Associados S/C,04504649000109,3000.0
+4,Nota Fiscal Eletronica 0000001996,2017-12-12,Aloisio Costa Ferreira-ME Infotoner,02017219000129,84.96
+5,Nora Fiscal de Telecomunicação 0304814216,2017-12-05,Vivo,02558157000162,389.67

@@ -11,7 +11,7 @@ import pandas as pd
 import os
 
 output_path = 'output/'
-os.makedirs( output_path )
+#os.makedirs( output_path )
 
 
 def get_raw_data():
@@ -22,13 +22,13 @@ def get_raw_data():
 
 def parse_html(html):
     soup = BeautifulSoup(html)
-    vereadores = {'nome': [],  'link': [], 'link_name': []}
+    vereadores = {'nome': [],  'link': [], 'nome_link': []}
     for a in soup.findAll("a", href=True):
         if len(a.text) > 2:
             vereadores['nome'].append(a.text)
             url = a['href']
             vereadores['link'].append(url)
-            vereadores['link_name'].append(url[url.find('vereador')+9:url.find('&ano')])
+            vereadores['nome_link'].append(url[url.find('vereador')+9:url.find('&ano')])
     df = pd.DataFrame.from_dict(vereadores)
     return df
 

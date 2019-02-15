@@ -1,15 +1,15 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal de Serviços de Telecomunicações 0660901314-0,13/08/2018,Telefônica Brasil S/A,02558157000162,"115,99"
-1,Cobrança Bancária Caixa 051,30/08/2018,Condomínio do Edifícil Sulacap,26128371000147,"950,00"
-2,Nota Fiscal Eletrônica 14301,15/08/2018,Posto Romualdo Ltda,66343930000156,"617,27"
-3,Nota Fiscal Eletrônica 1393,28/08/2018,A Carbonaro Agua Mineral,24488698000102,"24,00"
-4,Nota Fiscal Eleônica 5190,28/08/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"27,80"
-5,Nota Fiscal - Conta de Energia Elétrica 048730108,13/08/2018,Cemig Distribuição S.A.,06981180000116,"139,50"
-6,Recibo S/Nº,30/08/2018,Condomínio Parking Saggioro,20439212000187,"370,00"
-7,Fatura de Locação 000017,15/08/2018,Empreiteira Transtech T&D Ltda - ME,14496365000163,"900,00"
-8,Nota Fiscal Eletrônica 5190,28/08/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"77,70"
-9,Nota Fiscal Eletrônica 5190,28/08/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"79,80"
-10,Nota Fiscal de Serviços de Telecomunicações 0237757587,13/08/2018,Telefônica Brasil S.A.,02558157000162,"269,99"
-11,Nota Fiscal de Serviços de Telecomunicações 306359472,13/08/2018,Claro S/A,40432544011262,"9,57"
-12,Nota Fiscal de Serviços de Telecomunicações 991803633,13/08/2018,Telemar norte Leste S/A.,33000118000330,"328,12"
-13,Nota Fiscal de Serviços de Telecomunicações 1700422515815,30/08/2018,Oi Fixo,33000118000179,"80,53"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal de Serviços de Telecomunicações 0660901314-0,2018-08-13,Telefônica Brasil S/A,02558157000162,115.99
+1,Cobrança Bancária Caixa 051,2018-08-30,Condomínio do Edifícil Sulacap,26128371000147,950.0
+2,Nota Fiscal Eletrônica 14301,2018-08-15,Posto Romualdo Ltda,66343930000156,617.27
+3,Nota Fiscal Eletrônica 1393,2018-08-28,A Carbonaro Agua Mineral,24488698000102,24.0
+4,Nota Fiscal Eleônica 5190,2018-08-28,Ribeiro de Oliveira & Cia Ltda,21562897000117,27.8
+5,Nota Fiscal - Conta de Energia Elétrica 048730108,2018-08-13,Cemig Distribuição S.A.,06981180000116,139.5
+6,Recibo S/Nº,2018-08-30,Condomínio Parking Saggioro,20439212000187,370.0
+7,Fatura de Locação 000017,2018-08-15,Empreiteira Transtech T&D Ltda - ME,14496365000163,900.0
+8,Nota Fiscal Eletrônica 5190,2018-08-28,Ribeiro de Oliveira & Cia Ltda,21562897000117,77.7
+9,Nota Fiscal Eletrônica 5190,2018-08-28,Ribeiro de Oliveira & Cia Ltda,21562897000117,79.8
+10,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-08-13,Telefônica Brasil S.A.,02558157000162,269.99
+11,Nota Fiscal de Serviços de Telecomunicações 306359472,2018-08-13,Claro S/A,40432544011262,9.57
+12,Nota Fiscal de Serviços de Telecomunicações 991803633,2018-08-13,Telemar norte Leste S/A.,33000118000330,328.12
+13,Nota Fiscal de Serviços de Telecomunicações 1700422515815,2018-08-30,Oi Fixo,33000118000179,80.53

@@ -1,12 +1,12 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,recibo de pagamento autonomo - RPA 01,24/02/2017,geraldo maximiano da silva,45350825615,"3.000,00"
-1,danfe- documento auxiliar da nota fiscal eletronica 4164,23/02/2017,ribeiro de oliveira & cia ltda,21562897000117,"5,80"
-2,danfe- documento auxiliar da nota fiscal eletronica 4164,23/02/2017,ribeiro de oliveira & cia ltda,21562897000117,"9,80"
-3,nota fiscal de serviço eletronico 2017/15,24/02/2017,ricardo teixeira de aguiar,66464488000116,"260,00"
-4,danfe- documento auxiliar da nota fiscal eletronica 4164,23/02/2017,ribeiro de oliveira & cia ltda,21562897000117,"178,40"
-5,nota fiscal de serviços eletronicos 2017/3,02/02/2017,onofre de matos guedes,26632032000101,"300,00"
-6,"DANFE, documento auxiliar da nota fiscal eletronica 50172",23/02/2017,eletro guimaraes irmaos ltda,21576749000151,"39,52"
-7,danfe documento auxiliar da nota fiscal eletronica 4164,23/02/2017,ribeiro de oliveira & cia ltda,21562897000117,"29,90"
-8,danfe 4164,23/02/2017,ribeiro de oliveira & cia ltda,21562897000117,"55,00"
-9,danfe- documento auxiliar da nota fiscal eletronica 4164,23/02/2017,ribeiro de oliveira & cia ltda,21562897000117,"29,90"
-10,fatura 00667233,24/02/2017,oi fixo,33000118000179,"152,60"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,recibo de pagamento autonomo - RPA 01,2017-02-24,geraldo maximiano da silva,45350825615,3000.0
+1,danfe- documento auxiliar da nota fiscal eletronica 4164,2017-02-23,ribeiro de oliveira & cia ltda,21562897000117,5.8
+2,danfe- documento auxiliar da nota fiscal eletronica 4164,2017-02-23,ribeiro de oliveira & cia ltda,21562897000117,9.8
+3,nota fiscal de serviço eletronico 2017/15,2017-02-24,ricardo teixeira de aguiar,66464488000116,260.0
+4,danfe- documento auxiliar da nota fiscal eletronica 4164,2017-02-23,ribeiro de oliveira & cia ltda,21562897000117,178.4
+5,nota fiscal de serviços eletronicos 2017/3,2017-02-02,onofre de matos guedes,26632032000101,300.0
+6,"DANFE, documento auxiliar da nota fiscal eletronica 50172",2017-02-23,eletro guimaraes irmaos ltda,21576749000151,39.52
+7,danfe documento auxiliar da nota fiscal eletronica 4164,2017-02-23,ribeiro de oliveira & cia ltda,21562897000117,29.9
+8,danfe 4164,2017-02-23,ribeiro de oliveira & cia ltda,21562897000117,55.0
+9,danfe- documento auxiliar da nota fiscal eletronica 4164,2017-02-23,ribeiro de oliveira & cia ltda,21562897000117,29.9
+10,fatura 00667233,2017-02-24,oi fixo,33000118000179,152.6

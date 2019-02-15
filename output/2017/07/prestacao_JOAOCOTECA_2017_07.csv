@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo 007,28/07/2017,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 10443,28/07/2017,Auto Posto Petrogas LTDA,03862967000170,"834,87"
-2,RPA - Recibo de Pagamento Autonomo 02,28/07/2017,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,Danfe - Documento Auxiliar da Nota Fiscal Eleltronica 4420,27/07/2017,Ribeiro de Oliveira & CIA LTDA,21562897000117,"31,20"
-4,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 765,28/07/2017,A Carbonaro Agua Mineral,24488698000102,"312,00"
-5,Nota Fiscal - Conta de Energia Eletrica 2514630,27/07/2017,Cemig,06981180000116,"40,77"
-6,NFS-e - Nota fiscal Eletronica de Serviço 201700000000047,25/07/2017,Estacionamento Salve Jorge LTDA-ME,17509454000195,"300,00"
-7,Fatura de Serviços de Saneamento 51827893,27/07/2017,Cesama,21572243000174,"49,39"
-8,Danfe - Documento Auxiliar da Nota Fiscal Eleltronica 000.000.626,24/07/2017,Grafica KN- Eirelli - ME,21545945000169,"340,00"
-9,Fatura 000.131,27/07/2017,Estacinamento Salve Jorge LTDA  - ME,17509454000195,"1.800,00"
-10,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4420,27/07/2017,Ribeiro de Oliveira & CIA LTDA,21562897000117,"156,90"
-11,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4420,27/07/2017,Ribeiro de Oliveira & CIA LTDA,21562897000117,"26,50"
-12,Fatura 1700405526945,28/07/2017,Oi Fixo,33000118000179,"176,70"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo 007,2017-07-28,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 10443,2017-07-28,Auto Posto Petrogas LTDA,03862967000170,834.87
+2,RPA - Recibo de Pagamento Autonomo 02,2017-07-28,Carlos Henrique Bruce João,05036074602,2000.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eleltronica 4420,2017-07-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,31.2
+4,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 765,2017-07-28,A Carbonaro Agua Mineral,24488698000102,312.0
+5,Nota Fiscal - Conta de Energia Eletrica 2514630,2017-07-27,Cemig,06981180000116,40.77
+6,NFS-e - Nota fiscal Eletronica de Serviço 201700000000047,2017-07-25,Estacionamento Salve Jorge LTDA-ME,17509454000195,300.0
+7,Fatura de Serviços de Saneamento 51827893,2017-07-27,Cesama,21572243000174,49.39
+8,Danfe - Documento Auxiliar da Nota Fiscal Eleltronica 000.000.626,2017-07-24,Grafica KN- Eirelli - ME,21545945000169,340.0
+9,Fatura 000.131,2017-07-27,Estacinamento Salve Jorge LTDA  - ME,17509454000195,1800.0
+10,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4420,2017-07-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,156.9
+11,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4420,2017-07-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,26.5
+12,Fatura 1700405526945,2017-07-28,Oi Fixo,33000118000179,176.7

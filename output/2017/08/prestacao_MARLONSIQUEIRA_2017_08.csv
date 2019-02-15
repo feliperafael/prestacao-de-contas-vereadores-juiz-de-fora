@@ -1,8 +1,8 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 00105,30/08/2017,Posto Central LTDA,21549407000142,"710,05"
-1,Nota Fiscal Eletronica de Serviço 201700000000015,31/08/2017,Aristides Ribeiro Advogados Associados S/A,04504649000109,"3.000,00"
-2,Cupom Fiscal 390404,24/08/2017,Descartaveis Santa Rita LTDA- EPP,17559832000145,"7,40"
-3,Nota Fiscal Eletronica de Serviço 201700000000443,07/08/2017,Real Copias de Juiz de Fora LTDA,04316977000173,"35,60"
-4,Nota Fiscal eletronica 00276,18/08/2017,Pneus Erodas,10527405000136,"660,00"
-5,Nota Fiscal Eletronica de Serviços de Telecomunicação 0304814216,04/08/2017,VIVO,02558157000162,"440,62"
-6,Nota Fiscal de Serviç de Telecomunicação 1700407982540,30/08/2017,OI,33000118000179,"151,81"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 00105,2017-08-30,Posto Central LTDA,21549407000142,710.05
+1,Nota Fiscal Eletronica de Serviço 201700000000015,2017-08-31,Aristides Ribeiro Advogados Associados S/A,04504649000109,3000.0
+2,Cupom Fiscal 390404,2017-08-24,Descartaveis Santa Rita LTDA- EPP,17559832000145,7.4
+3,Nota Fiscal Eletronica de Serviço 201700000000443,2017-08-07,Real Copias de Juiz de Fora LTDA,04316977000173,35.6
+4,Nota Fiscal eletronica 00276,2017-08-18,Pneus Erodas,10527405000136,660.0
+5,Nota Fiscal Eletronica de Serviços de Telecomunicação 0304814216,2017-08-04,VIVO,02558157000162,440.62
+6,Nota Fiscal de Serviç de Telecomunicação 1700407982540,2017-08-30,OI,33000118000179,151.81

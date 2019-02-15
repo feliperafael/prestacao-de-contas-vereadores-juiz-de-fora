@@ -1,12 +1,12 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal de Comunicações Modelo 21 1107629,11/05/2018,Infoline Comunicações e informações Eletrônicas Ltda,00958288000101,"26,76"
-1,Recibo/Fatura 000474706,11/05/2018,Infoline Comunicações e Informações,00958288000101,"40,14"
-2,Recibo do Sacado 61756,02/05/2018,Diretrans Ltda,19490812000190,"720,00"
-3,Danfe 00003982,30/05/2018,Auto Posto Bandeirantes Ltda,21058508000110,"750,00"
-4,Recibo do Pagador 14000000001046784-5,09/05/2018,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,"246,06"
-5,Recibo de Pagamento a Autônomo 18,30/05/2018,Elaine Araújo Gonzaga,05499740674,"1.600,00"
-6,Nota Fiscal 027877835,09/05/2018,Cemig Distribuição S.A.,06981180000116,"37,26"
-7,Nota Fiscal Serviços Eletrônica 201800000001042,29/05/2018,WCollor editora Gráfica Ltda,05033125000131,"1.750,00"
-8,Fatura 000175,28/05/2018,Estacionamento Salve Jorge Ltda.- ME,17509454000195,"2.300,00"
-9,DANFE 8814,30/05/2018,Teixeiras e Chaves Ltda,21339965001902,"230,00"
-10,Fatura 1700419157952,30/05/2018,Oi Fixo,33000118000179,"170,56"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal de Comunicações Modelo 21 1107629,2018-05-11,Infoline Comunicações e informações Eletrônicas Ltda,00958288000101,26.76
+1,Recibo/Fatura 000474706,2018-05-11,Infoline Comunicações e Informações,00958288000101,40.14
+2,Recibo do Sacado 61756,2018-05-02,Diretrans Ltda,19490812000190,720.0
+3,Danfe 00003982,2018-05-30,Auto Posto Bandeirantes Ltda,21058508000110,750.0
+4,Recibo do Pagador 14000000001046784-5,2018-05-09,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,246.06
+5,Recibo de Pagamento a Autônomo 18,2018-05-30,Elaine Araújo Gonzaga,05499740674,1600.0
+6,Nota Fiscal 027877835,2018-05-09,Cemig Distribuição S.A.,06981180000116,37.26
+7,Nota Fiscal Serviços Eletrônica 201800000001042,2018-05-29,WCollor editora Gráfica Ltda,05033125000131,1750.0
+8,Fatura 000175,2018-05-28,Estacionamento Salve Jorge Ltda.- ME,17509454000195,2300.0
+9,DANFE 8814,2018-05-30,Teixeiras e Chaves Ltda,21339965001902,230.0
+10,Fatura 1700419157952,2018-05-30,Oi Fixo,33000118000179,170.56

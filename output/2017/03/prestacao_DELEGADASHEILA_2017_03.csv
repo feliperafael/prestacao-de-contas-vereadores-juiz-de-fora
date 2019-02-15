@@ -1,13 +1,13 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,danfe 736,29/03/2017,posto centro choferes,21575972000184,"1.318,60"
-1,recibo rpa 001,31/03/2017,maria tereza lamego genevam,10147971608,"1.500,00"
-2,danfe 5376,13/03/2017,nagen comercio e serviços ltda,02283746000185,"732,00"
-3,nfs-e 2017/87,13/03/2017,nagen comercio e serviços ltda,02283746000185,"249,00"
-4,nfse 2017/20,02/03/2017,ricardo teixeira de aguiar,66464488000116,"260,00"
-5,nfs-e 201700000000049,27/03/2017,w. collor editora grafica ltda,05033125000131,"150,00"
-6,nfs-e 201700000000062,28/03/2017,w.collor editora grafica ltda,05033125000131,"470,00"
-7,nfse 1229,09/03/2017,vizion gestao de negocios empresariais ltda epp,07979987000187,"586,00"
-8,recibo 3577822/1,31/03/2017,movida locaçao de veiculos s/a,07976147020609,"2.118,00"
-9,cupom fiscal 382118,03/03/2017,parco papelaria ltda,05214053001109,"33,64"
-10,comprovante do cliente 1276155464,16/03/2017,emp. bras de correios e telegrafos,42933416000102,"41,40"
-11,nota fiscal de serviços de telecomunicação 1700401096287,31/03/2017,oi fixo,33000118000179,"168,24"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,danfe 736,2017-03-29,posto centro choferes,21575972000184,1318.6
+1,recibo rpa 001,2017-03-31,maria tereza lamego genevam,10147971608,1500.0
+2,danfe 5376,2017-03-13,nagen comercio e serviços ltda,02283746000185,732.0
+3,nfs-e 2017/87,2017-03-13,nagen comercio e serviços ltda,02283746000185,249.0
+4,nfse 2017/20,2017-03-02,ricardo teixeira de aguiar,66464488000116,260.0
+5,nfs-e 201700000000049,2017-03-27,w. collor editora grafica ltda,05033125000131,150.0
+6,nfs-e 201700000000062,2017-03-28,w.collor editora grafica ltda,05033125000131,470.0
+7,nfse 1229,2017-03-09,vizion gestao de negocios empresariais ltda epp,07979987000187,586.0
+8,recibo 3577822/1,2017-03-31,movida locaçao de veiculos s/a,07976147020609,2118.0
+9,cupom fiscal 382118,2017-03-03,parco papelaria ltda,05214053001109,33.64
+10,comprovante do cliente 1276155464,2017-03-16,emp. bras de correios e telegrafos,42933416000102,41.4
+11,nota fiscal de serviços de telecomunicação 1700401096287,2017-03-31,oi fixo,33000118000179,168.24

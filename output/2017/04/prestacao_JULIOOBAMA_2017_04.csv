@@ -1,10 +1,10 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo do sacado 57756,27/04/2017,Diretrans Ltda,19490812000190,"720,00"
-1,Documento Auxiliar da Nota Fiscal Eletrônica 00003313,27/04/2017,Auto Posto Bandeirantes Ltda,21058508000110,"438,38"
-2,Recibo do Pagador 24000000000796471-8,05/04/2017,Condomínio Edifício Rossi Rio Branco Corporate,20291262000160,"267,61"
-3,Nota Fiscal Eletrônica de Serviço 201700000000005,28/04/2017,Insight Consultoria Ped Eireli,24547262000139,"1.600,00"
-4,Nota Fiscal 000778667,05/04/2017,Cemig Distribuição S.A.,06981180000116,"42,74"
-5,Fatura 000120,25/04/2017,Estacionamento Salve Jorge Ltda.- ME,17509454000195,"2.300,00"
-6,Cupom Fiscal 073830,05/04/2017,Papelaria Fazza Ltda,01953452000150,"39,00"
-7,Cupom Fiscal 528174,27/04/2017,Parco Papelaria Ltda,05214053001109,"49,68"
-8,Fatura 1700402510631,28/04/2017,Oi Fixo,33000118000179,"343,51"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo do sacado 57756,2017-04-27,Diretrans Ltda,19490812000190,720.0
+1,Documento Auxiliar da Nota Fiscal Eletrônica 00003313,2017-04-27,Auto Posto Bandeirantes Ltda,21058508000110,438.38
+2,Recibo do Pagador 24000000000796471-8,2017-04-05,Condomínio Edifício Rossi Rio Branco Corporate,20291262000160,267.61
+3,Nota Fiscal Eletrônica de Serviço 201700000000005,2017-04-28,Insight Consultoria Ped Eireli,24547262000139,1600.0
+4,Nota Fiscal 000778667,2017-04-05,Cemig Distribuição S.A.,06981180000116,42.74
+5,Fatura 000120,2017-04-25,Estacionamento Salve Jorge Ltda.- ME,17509454000195,2300.0
+6,Cupom Fiscal 073830,2017-04-05,Papelaria Fazza Ltda,01953452000150,39.0
+7,Cupom Fiscal 528174,2017-04-27,Parco Papelaria Ltda,05214053001109,49.68
+8,Fatura 1700402510631,2017-04-28,Oi Fixo,33000118000179,343.51

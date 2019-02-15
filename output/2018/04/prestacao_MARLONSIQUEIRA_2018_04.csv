@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 000018194,04/04/2018,Solar Comunicação S/A,21561725000129,"35,60"
-1,Nota Fiscal Eletronica 172,26/04/2018,Posto Central LTDA,21549407000142,"799,04"
-2,Nota Fiscal Eletronica 13771,26/04/2018,Posto Rumualdo,66343930000156,"264,31"
-3,Nota Fiscal Eletronica de Serviços 201800000000028,26/04/2018,Aristedes Ribeiro Advogados Associados S/C,04504649000109,"3.000,00"
-4,Nota Fiscal Eletronica de Serviço 201800000001007,26/04/2018,Real Copias de Juiz de Fora LTDA,04316977000173,"45,00"
-5,Nota Fiscal de Venda a Consumidor Série D 000639,26/04/2018,Ana Claudia Magalhães Curinga Computadores,24862271000114,"110,00"
-6,Nota Fiscal de Serviços de Telecomunicações 0304814216,03/04/2018,VIVO,02558157000162,"400,11"
-7,Nota Fiscal de Serviços de Telecomunicações 17004188019588,27/04/2018,Oi,33000118000179,"170,78"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 000018194,2018-04-04,Solar Comunicação S/A,21561725000129,35.6
+1,Nota Fiscal Eletronica 172,2018-04-26,Posto Central LTDA,21549407000142,799.04
+2,Nota Fiscal Eletronica 13771,2018-04-26,Posto Rumualdo,66343930000156,264.31
+3,Nota Fiscal Eletronica de Serviços 201800000000028,2018-04-26,Aristedes Ribeiro Advogados Associados S/C,04504649000109,3000.0
+4,Nota Fiscal Eletronica de Serviço 201800000001007,2018-04-26,Real Copias de Juiz de Fora LTDA,04316977000173,45.0
+5,Nota Fiscal de Venda a Consumidor Série D 000639,2018-04-26,Ana Claudia Magalhães Curinga Computadores,24862271000114,110.0
+6,Nota Fiscal de Serviços de Telecomunicações 0304814216,2018-04-03,VIVO,02558157000162,400.11
+7,Nota Fiscal de Serviços de Telecomunicações 17004188019588,2018-04-27,Oi,33000118000179,170.78

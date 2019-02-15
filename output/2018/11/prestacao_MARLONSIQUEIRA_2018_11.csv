@@ -1,10 +1,10 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletrônica 208,27/11/2018,Posto Central LTDA,21549407000142,"836,35"
-1,Nota Fiscal Eletrônica de Serviço 201800000000044,29/11/2018,Aristides Ribeiro Advogados associados S/C,04504649000109,"3.000,00"
-2,Nota Fiscal Eletrônica 55,27/11/2018,Freire Papelaria LTDA,07403078000104,"28,50"
-3,Nota Fiscal Eletrônica de Serviço 201800000004727,17/11/2018,Curinga dos Pneus LTDA,00041327002660,"74,00"
-4,Nota Fiscal Eletrônica 15728,20/11/2018,Curinga dos Pneus LTDA,00041327002660,"632,00"
-5,Nota Fiscal Eletrônica de Serviço 201800000000174,30/11/2018,Estacionamento Coelho Vale LTDA,41938937000190,"215,00"
-6,Nota Fiscal Eletrônica 55,27/11/2018,Freire PapelariaLTDA,07403078000104,"154,80"
-7,Nota Fiscal de Serviço de Telecomunicação 0304814216,13/11/2018,VIVO,02558157000162,"399,28"
-8,Nota Fiscal de Serviço de Telecomunicações 1700425769980,30/11/2018,OI Fixo,33000118000179,"97,36"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletrônica 208,2018-11-27,Posto Central LTDA,21549407000142,836.35
+1,Nota Fiscal Eletrônica de Serviço 201800000000044,2018-11-29,Aristides Ribeiro Advogados associados S/C,04504649000109,3000.0
+2,Nota Fiscal Eletrônica 55,2018-11-27,Freire Papelaria LTDA,07403078000104,28.5
+3,Nota Fiscal Eletrônica de Serviço 201800000004727,2018-11-17,Curinga dos Pneus LTDA,00041327002660,74.0
+4,Nota Fiscal Eletrônica 15728,2018-11-20,Curinga dos Pneus LTDA,00041327002660,632.0
+5,Nota Fiscal Eletrônica de Serviço 201800000000174,2018-11-30,Estacionamento Coelho Vale LTDA,41938937000190,215.0
+6,Nota Fiscal Eletrônica 55,2018-11-27,Freire PapelariaLTDA,07403078000104,154.8
+7,Nota Fiscal de Serviço de Telecomunicação 0304814216,2018-11-13,VIVO,02558157000162,399.28
+8,Nota Fiscal de Serviço de Telecomunicações 1700425769980,2018-11-30,OI Fixo,33000118000179,97.36

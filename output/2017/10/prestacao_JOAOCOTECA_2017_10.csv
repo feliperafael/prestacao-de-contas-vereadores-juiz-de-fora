@@ -1,10 +1,10 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 10,31/10/2017,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,DANFE - Documento Auxiliar da Nota Fiscal Eletrônica 00010898,30/10/2017,Auto Posto Petrogas LTDA,03862967000170,"1.502,29"
-2,RPA - Recibo de Pagamento a Autônomo 05,30/10/2017,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,DANFE - Documento Auxiliar da Nota Fiscal Eletrônica 4595,27/10/2017,Ribeiro de Oliveira & Cia LTDA,21562897000117,"49,00"
-4,NFS-e - Nota Fiscal Eletrônica de Serviço 201700000000061,25/10/2017,Estacionamento Salve Jorge LTDA-ME,17509454000195,"300,00"
-5,Fatura de Serviços de Saneamento A/518278-93,30/10/2017,CESAMA,21572243000174,"49,39"
-6,Fatura 000142,25/10/2017,Estacionamento Salve Jorge Ltda - ME,17509454000195,"1.800,00"
-7,DANFE -  Documento Auxiliar da Nota Fiscal Eletrônica 4595,27/10/2017,Ribeiro de Oliveira & Cia LTDA,21562897000117,"142,80"
-8,Fatura 1700410705412,31/10/2017,OI Fixo,33000118000179,"389,44"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 10,2017-10-31,Geraldo Laudelino de Castilho,04308381665,600.0
+1,DANFE - Documento Auxiliar da Nota Fiscal Eletrônica 00010898,2017-10-30,Auto Posto Petrogas LTDA,03862967000170,1502.29
+2,RPA - Recibo de Pagamento a Autônomo 05,2017-10-30,Carlos Henrique Bruce João,05036074602,2000.0
+3,DANFE - Documento Auxiliar da Nota Fiscal Eletrônica 4595,2017-10-27,Ribeiro de Oliveira & Cia LTDA,21562897000117,49.0
+4,NFS-e - Nota Fiscal Eletrônica de Serviço 201700000000061,2017-10-25,Estacionamento Salve Jorge LTDA-ME,17509454000195,300.0
+5,Fatura de Serviços de Saneamento A/518278-93,2017-10-30,CESAMA,21572243000174,49.39
+6,Fatura 000142,2017-10-25,Estacionamento Salve Jorge Ltda - ME,17509454000195,1800.0
+7,DANFE -  Documento Auxiliar da Nota Fiscal Eletrônica 4595,2017-10-27,Ribeiro de Oliveira & Cia LTDA,21562897000117,142.8
+8,Fatura 1700410705412,2017-10-31,OI Fixo,33000118000179,389.44

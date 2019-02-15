@@ -1,19 +1,19 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 07,01/08/2018,Leonardo Gudziki Hábel,62819313604,"800,00"
-1,DANFE- Documento Auxiliar da Nota Fiscal Eletronica. 0006186,30/08/2018,Papagaio Com e Derivados de Petroleo Ltda,10515414000107,"1.105,62"
-2,Recibo do Pagador 08/2018,20/08/2018,Condominio do Edificio Top Center,20439162000138,"240,00"
-3,DANFE/ Documento Auxiliar da Nota Fiscal Eletronica 000.0001.394,28/08/2018,A Carbonaro Agua Mineral,24488698000102,"23,00"
-4,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 82163,31/08/2018,Carrefour Com e Ind Ltda,45543915007194,"638,00"
-5,DANFE - Documento Auxiliar da Nota Fiscal Eletrônica 175399,31/08/2018,Thema Veículos Ltda,21550231000149,"273,76"
-6,Nota Fiscal Eletrônica de Serviço 201800000007455,31/08/2018,Thema Veículos Ltda,21550231000149,"220,00"
-7,Nota Fiscal 041480036,09/08/2018,Cemig,06981180000116,"51,99"
-8,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000098,07/08/2018,Ricardo Teixeira de Aguiar,66464488000116,"290,00"
-9,Documento de Arrecadação do Imposto Predial e Territorial Urbano 002668/206,09/08/2018,Prefeitura de Juiz de Fora,18338178000102,"41,25"
-10,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000337,28/08/2018,Ambiente Comunicqção LTDA,09662777000196,"750,00"
-11,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 5208,29/08/2018,Ribeiro de Oliveira & Cia LTDA,21562897000117,"102,90"
-12,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000248,29/08/2018,Interrurb Serviços Postais Ltda,42933416000102,"38,88"
-13,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000071,01/08/2018,Onofre de Matos Guedes,26632032000101,"350,00"
-14,DANFE- Documento Auxiliar da Not Fiscal Eletronica 5208,29/08/2018,Ribeiro de Oliveira & Cia LTDA,21562897000117,"65,90"
-15,Fatura 0313572750,17/08/2018,Operadora VIVO,02558157000910,"269,99"
-16,Fatura 0660516139-0,23/08/2018,Vivo telefônica Brasil S/A,02558157000162,"167,50"
-17,Fatura 1700422515815,30/08/2018,Operadora Oi,33000118000179,"414,99"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 07,2018-08-01,Leonardo Gudziki Hábel,62819313604,800.0
+1,DANFE- Documento Auxiliar da Nota Fiscal Eletronica. 0006186,2018-08-30,Papagaio Com e Derivados de Petroleo Ltda,10515414000107,1105.62
+2,Recibo do Pagador 08/2018,2018-08-20,Condominio do Edificio Top Center,20439162000138,240.0
+3,DANFE/ Documento Auxiliar da Nota Fiscal Eletronica 000.0001.394,2018-08-28,A Carbonaro Agua Mineral,24488698000102,23.0
+4,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 82163,2018-08-31,Carrefour Com e Ind Ltda,45543915007194,638.0
+5,DANFE - Documento Auxiliar da Nota Fiscal Eletrônica 175399,2018-08-31,Thema Veículos Ltda,21550231000149,273.76
+6,Nota Fiscal Eletrônica de Serviço 201800000007455,2018-08-31,Thema Veículos Ltda,21550231000149,220.0
+7,Nota Fiscal 041480036,2018-08-09,Cemig,06981180000116,51.99
+8,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000098,2018-08-07,Ricardo Teixeira de Aguiar,66464488000116,290.0
+9,Documento de Arrecadação do Imposto Predial e Territorial Urbano 002668/206,2018-08-09,Prefeitura de Juiz de Fora,18338178000102,41.25
+10,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000337,2018-08-28,Ambiente Comunicqção LTDA,09662777000196,750.0
+11,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 5208,2018-08-29,Ribeiro de Oliveira & Cia LTDA,21562897000117,102.9
+12,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000248,2018-08-29,Interrurb Serviços Postais Ltda,42933416000102,38.88
+13,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000071,2018-08-01,Onofre de Matos Guedes,26632032000101,350.0
+14,DANFE- Documento Auxiliar da Not Fiscal Eletronica 5208,2018-08-29,Ribeiro de Oliveira & Cia LTDA,21562897000117,65.9
+15,Fatura 0313572750,2018-08-17,Operadora VIVO,02558157000910,269.99
+16,Fatura 0660516139-0,2018-08-23,Vivo telefônica Brasil S/A,02558157000162,167.5
+17,Fatura 1700422515815,2018-08-30,Operadora Oi,33000118000179,414.99

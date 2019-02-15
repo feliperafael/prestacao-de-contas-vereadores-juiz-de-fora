@@ -1,7 +1,7 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 00001585,30/05/2017,Auto Posto Valentina - LTDA,17817687000155,"1.159,48"
-1,Recibo de Pagamento Autonomo - RPA 005,31/05/2017,Danielle Barros Possa,90798783672,"3.200,00"
-2,Nota Fiscal Eletronica 0000003072,30/05/2017,Papelaria Fazza LTDA - ME - ANAPEL,01953452000150,"196,20"
-3,Nota Fiscal Eletronica 201700000000348,29/05/2017,Casa do Grafico - LTDA,25527805000119,"551,65"
-4,Nota Fiscal Eletronica 0000003072,30/05/2017,Papelaria Fazza LTDA -ME - ANAPEL,01953452000150,"166,50"
-5,Nota Fiscal de Serviços de Telecomunicações 1700403894827,31/05/2017,Oi Fixo,33000118000179,"110,86"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 00001585,2017-05-30,Auto Posto Valentina - LTDA,17817687000155,1159.48
+1,Recibo de Pagamento Autonomo - RPA 005,2017-05-31,Danielle Barros Possa,90798783672,3200.0
+2,Nota Fiscal Eletronica 0000003072,2017-05-30,Papelaria Fazza LTDA - ME - ANAPEL,01953452000150,196.2
+3,Nota Fiscal Eletronica 201700000000348,2017-05-29,Casa do Grafico - LTDA,25527805000119,551.65
+4,Nota Fiscal Eletronica 0000003072,2017-05-30,Papelaria Fazza LTDA -ME - ANAPEL,01953452000150,166.5
+5,Nota Fiscal de Serviços de Telecomunicações 1700403894827,2017-05-31,Oi Fixo,33000118000179,110.86

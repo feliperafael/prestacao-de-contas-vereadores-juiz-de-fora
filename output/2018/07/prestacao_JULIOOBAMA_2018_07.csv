@@ -1,17 +1,17 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal de Comunicações Modelo 21 1177507,11/07/2018,Infoline Comunicações e informações Eletrônicas Ltda,00958288000101,"26,76"
-1,Recibo/ Fatura Numerada 000544711,11/07/2018,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,"40,14"
-2,Recibo do Sacado 62532,31/07/2018,Diretrans Ltda,19490812000190,"720,00"
-3,Danfe 0004069,31/07/2018,Auto Posto Bandeirantes Ltda,21058508000110,"795,56"
-4,Recibo do Pagador 14000000001065852-7,09/07/2018,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,"292,14"
-5,Recibo de pagamento a Autônomo - RPA 20,31/07/2018,Elaine Araújo Gonzaga,05499740674,"1.600,00"
-6,Cupom Fiscal 086780,04/07/2018,Parco Papelaria Ltda,05214053001109,"17,61"
-7,Nota Fiscal Eletrônica de Serviço 201800000000183,27/07/2018,Gráfica e Copiadora Ferreira Rodrigues Ltda,13045649000170,"43,20"
-8,Nota Fiscal 041510270,09/07/2018,Cemig Distribuição S.A,06981180000116,"50,70"
-9,Nota Fiscal 2018000000000241,12/07/2018,W. Collor Editora Gráfica Ltda,05033125000131,"140,00"
-10,Fatura 000185,26/07/2018,Estacionamento Salve Jorge,17509454000195,"2.300,00"
-11,Cupom Fiscal 086778,04/07/2018,Parco Papelaria Ltda,05214053001109,"59,70"
-12,Cupom Fiscal 046519,04/07/2018,Teixeiras e Chaves Ltda,21339965001902,"9,90"
-13,Cupom Fiscal 086779,04/07/2018,Parco Papelaria Ltda,05214053001109,"4,96"
-14,Cupom Fiscal 086779,04/07/2018,Parco Papelaria Ltda,05214053001109,"45,22"
-15,Fatura 1700421406453,31/07/2018,Oi Fixo,33000118000179,"317,91"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal de Comunicações Modelo 21 1177507,2018-07-11,Infoline Comunicações e informações Eletrônicas Ltda,00958288000101,26.76
+1,Recibo/ Fatura Numerada 000544711,2018-07-11,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
+2,Recibo do Sacado 62532,2018-07-31,Diretrans Ltda,19490812000190,720.0
+3,Danfe 0004069,2018-07-31,Auto Posto Bandeirantes Ltda,21058508000110,795.56
+4,Recibo do Pagador 14000000001065852-7,2018-07-09,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,292.14
+5,Recibo de pagamento a Autônomo - RPA 20,2018-07-31,Elaine Araújo Gonzaga,05499740674,1600.0
+6,Cupom Fiscal 086780,2018-07-04,Parco Papelaria Ltda,05214053001109,17.61
+7,Nota Fiscal Eletrônica de Serviço 201800000000183,2018-07-27,Gráfica e Copiadora Ferreira Rodrigues Ltda,13045649000170,43.2
+8,Nota Fiscal 041510270,2018-07-09,Cemig Distribuição S.A,06981180000116,50.7
+9,Nota Fiscal 2018000000000241,2018-07-12,W. Collor Editora Gráfica Ltda,05033125000131,140.0
+10,Fatura 000185,2018-07-26,Estacionamento Salve Jorge,17509454000195,2300.0
+11,Cupom Fiscal 086778,2018-07-04,Parco Papelaria Ltda,05214053001109,59.7
+12,Cupom Fiscal 046519,2018-07-04,Teixeiras e Chaves Ltda,21339965001902,9.9
+13,Cupom Fiscal 086779,2018-07-04,Parco Papelaria Ltda,05214053001109,4.96
+14,Cupom Fiscal 086779,2018-07-04,Parco Papelaria Ltda,05214053001109,45.22
+15,Fatura 1700421406453,2018-07-31,Oi Fixo,33000118000179,317.91

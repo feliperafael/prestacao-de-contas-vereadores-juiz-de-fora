@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Boleto 051,30/11/2017,Condomínio do edifício Sulacap,26128371000147,"950,00"
-1,Nota Fiscal Eletrônica 13179,30/11/2017,Posto Romualdo Ltda.,66343930000156,"771,41"
-2,Nota Fiscal Eletrônica 970,27/11/2017,A Carbonaro Água Mineral - ME,24488698000102,"24,00"
-3,Nota Fiscal Eletrônica 4645,28/11/2017,Ribeiro de Oliveira & Cia Ltda.,21562897000117,"24,50"
-4,Nota Fiscal Eletrônica 201700000000682,10/11/2017,Real Cópias de Juiz de Fora Ltda,04316977000173,"399,60"
-5,Nota Fiscal - Conta de Energia Elétrica 793087,14/11/2017,Cemig Distribuição S.A.,06981180000116,"103,93"
-6,Recibo S/Nº,30/11/2017,Condomínio Parking Saggioro,20439212000187,"370,00"
-7,Nota Fiscal 201700000000720,27/11/2017,União Artes Gráficas Ltda,20741559000180,"753,00"
-8,Fatura de Locação 000008,28/11/2017,Empreiteira Transtech T&D Ltda - ME,14496365000163,"1.800,00"
-9,Nota Fiscal Eletrônica 4645,28/11/2017,Ribeiro de Oliveira & Cia Ltda.,21562897000117,"185,75"
-10,Nota Fiscal de Serviços de Telecomunições 0237757587,14/11/2017,Telefônica Brasil S.A.,02558157000162,"305,26"
-11,Nota Fiscal de Serviços de Telecomunições 834857810,14/11/2017,Telemar Norte Leste S/A.,33000118000330,"462,37"
-12,Nota Fiscal de Serviços de Telecomunições 1700411982602,29/11/2017,Oi Fixo,33000118000179,"100,74"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Boleto 051,2017-11-30,Condomínio do edifício Sulacap,26128371000147,950.0
+1,Nota Fiscal Eletrônica 13179,2017-11-30,Posto Romualdo Ltda.,66343930000156,771.41
+2,Nota Fiscal Eletrônica 970,2017-11-27,A Carbonaro Água Mineral - ME,24488698000102,24.0
+3,Nota Fiscal Eletrônica 4645,2017-11-28,Ribeiro de Oliveira & Cia Ltda.,21562897000117,24.5
+4,Nota Fiscal Eletrônica 201700000000682,2017-11-10,Real Cópias de Juiz de Fora Ltda,04316977000173,399.6
+5,Nota Fiscal - Conta de Energia Elétrica 793087,2017-11-14,Cemig Distribuição S.A.,06981180000116,103.93
+6,Recibo S/Nº,2017-11-30,Condomínio Parking Saggioro,20439212000187,370.0
+7,Nota Fiscal 201700000000720,2017-11-27,União Artes Gráficas Ltda,20741559000180,753.0
+8,Fatura de Locação 000008,2017-11-28,Empreiteira Transtech T&D Ltda - ME,14496365000163,1800.0
+9,Nota Fiscal Eletrônica 4645,2017-11-28,Ribeiro de Oliveira & Cia Ltda.,21562897000117,185.75
+10,Nota Fiscal de Serviços de Telecomunições 0237757587,2017-11-14,Telefônica Brasil S.A.,02558157000162,305.26
+11,Nota Fiscal de Serviços de Telecomunições 834857810,2017-11-14,Telemar Norte Leste S/A.,33000118000330,462.37
+12,Nota Fiscal de Serviços de Telecomunições 1700411982602,2017-11-29,Oi Fixo,33000118000179,100.74

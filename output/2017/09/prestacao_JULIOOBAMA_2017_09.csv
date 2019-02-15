@@ -1,12 +1,12 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal de Serviço de Comunicação 000865637,15/09/2017,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,"26,76"
-1,Recibo/Fatura Numerada 000232091,15/09/2017,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,"40,14"
-2,Recibo do sacado 59471,29/09/2017,Diretrans ltda,19490812000190,"720,00"
-3,Documento Auxiliar da Nota Fiscal Eletrônica 00003643,29/09/2017,Auto Posto bandeirantes Ltda,21058508000110,"500,00"
-4,Recibo do Pagador 24000000000845957-0,11/09/2017,Cond. E. Rossi Rio Branco Corporate,20291262000160,"568,85"
-5,Recibo de pagamento a Autônomo 08,30/09/2017,ELAINE ARAUJO GONZAGA,05499740674,"1.600,00"
-6,Cupom fiscal 055075,19/09/2017,Teixeira e chaves Ltda,21339965001902,"14,80"
-7,Nota Fiscal 000854032,25/09/2017,Cemig Distribuição S.A.,06981180000116,"39,48"
-8,Fatura 000140,27/09/2017,Estacionamento Salve Jorge Ltda.- ME,17509454000195,"2.300,00"
-9,Cupom Fiscal 003899,22/09/2017,RG Com. e Manut. de Equip. de Telefonia Ltda,23876886000137,"49,00"
-10,Fatura 1700409330654,29/09/2017,Oi Fixo,33000118000179,"306,86"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal de Serviço de Comunicação 000865637,2017-09-15,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
+1,Recibo/Fatura Numerada 000232091,2017-09-15,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
+2,Recibo do sacado 59471,2017-09-29,Diretrans ltda,19490812000190,720.0
+3,Documento Auxiliar da Nota Fiscal Eletrônica 00003643,2017-09-29,Auto Posto bandeirantes Ltda,21058508000110,500.0
+4,Recibo do Pagador 24000000000845957-0,2017-09-11,Cond. E. Rossi Rio Branco Corporate,20291262000160,568.85
+5,Recibo de pagamento a Autônomo 08,2017-09-30,ELAINE ARAUJO GONZAGA,05499740674,1600.0
+6,Cupom fiscal 055075,2017-09-19,Teixeira e chaves Ltda,21339965001902,14.8
+7,Nota Fiscal 000854032,2017-09-25,Cemig Distribuição S.A.,06981180000116,39.48
+8,Fatura 000140,2017-09-27,Estacionamento Salve Jorge Ltda.- ME,17509454000195,2300.0
+9,Cupom Fiscal 003899,2017-09-22,RG Com. e Manut. de Equip. de Telefonia Ltda,23876886000137,49.0
+10,Fatura 1700409330654,2017-09-29,Oi Fixo,33000118000179,306.86

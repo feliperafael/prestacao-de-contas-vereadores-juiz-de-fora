@@ -1,11 +1,11 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo 002,28/02/2017,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 9718,28/02/2017,Auto Posto Petrogas LTDA,03862967000170,"1.015,13"
-2,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,21/02/2017,Ribeiro De Oliveira & Cia Ltda,21562897000117,"18,50"
-3,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 530,22/02/2017,A Carbonaro Agua Mineral - ME,24488698000102,"120,00"
-4,Nota Fiscal de Serviços Eletronica 2017/14,22/02/2017,Estacionamento Salve Jorge Ltda-ME,17509454000195,"300,00"
-5,Fatura 111,22/02/2017,Estacionamento Salve Jorge Ltda-ME,17509454000195,"1.800,00"
-6,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,21/02/2017,Ribeiro De Oliveira &Cia Ltda,21562897000117,"743,20"
-7,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,21/02/2017,Ribeiro De Oliveira & Cia Ltda,21562897000117,"89,30"
-8,Danfe 1857,23/02/2017,Aloisio Costa Ferreira - ME - Infotoner,02017219000129,"55,00"
-9,Nota Fiscal de Serviços de Telecomunicações 667233,24/02/2017,Telemar Norte Leste S/A,33000118000179,"649,99"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo 002,2017-02-28,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 9718,2017-02-28,Auto Posto Petrogas LTDA,03862967000170,1015.13
+2,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira & Cia Ltda,21562897000117,18.5
+3,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 530,2017-02-22,A Carbonaro Agua Mineral - ME,24488698000102,120.0
+4,Nota Fiscal de Serviços Eletronica 2017/14,2017-02-22,Estacionamento Salve Jorge Ltda-ME,17509454000195,300.0
+5,Fatura 111,2017-02-22,Estacionamento Salve Jorge Ltda-ME,17509454000195,1800.0
+6,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira &Cia Ltda,21562897000117,743.2
+7,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira & Cia Ltda,21562897000117,89.3
+8,Danfe 1857,2017-02-23,Aloisio Costa Ferreira - ME - Infotoner,02017219000129,55.0
+9,Nota Fiscal de Serviços de Telecomunicações 667233,2017-02-24,Telemar Norte Leste S/A,33000118000179,649.99

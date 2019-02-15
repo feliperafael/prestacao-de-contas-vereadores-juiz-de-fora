@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Cobrança Bancária Caixa 051,29/06/2018,Condomínio do Edifício Sulacap,26128371000147,"950,00"
-1,Nota Fiscal Eletrônica 14059,29/06/2018,Posto Romualdo Ltda,66343930000156,"1.191,58"
-2,Nota Fiscal Eletrônica 1299,26/06/2018,A Carbonaro Agua Mineral,24488698000102,"24,00"
-3,Nota Fiscal - Conta de Energia Elétrica 034701176,14/06/2018,Cemig Distribuição S.A.,06981180000116,"84,43"
-4,Recibo S/Nº,30/06/2018,Condomínio Parking Saggioro,20439212000187,"370,00"
-5,Nota Fiscal Eletrônica 201800000001180,27/06/2018,União Artes Gráficas Ltda.,20741559000180,"926,00"
-6,Fatura de Locação 000015,26/06/2018,Empreiteira Transtech T&D Ltda.,14496365000163,"1.800,00"
-7,Nota Fiscal Eletrônica 5063,27/06/2018,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"173,90"
-8,Nota Fiscal Eletrônica 5063,27/06/2018,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"79,80"
-9,Nota Fiscal Eletrônica 201800000000092,27/06/2018,Aloisio Costa Ferreira,02017219000129,"70,00"
-10,Nota Fiscal de Serviços de Telecomunicações 0237757587,14/06/2018,Telefônica Brasil S.A.,02558157000162,"269,99"
-11,Nota Fiscal de Serviços de Telecomunicações 953274916,14/06/2018,Telemar Norte Leste S/A.,33000118000330,"358,10"
-12,Nota Fiscal de Serviços de Telecomunicações 1700420283987,28/06/2018,Oi Fixo,33000118000179,"107,88"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Cobrança Bancária Caixa 051,2018-06-29,Condomínio do Edifício Sulacap,26128371000147,950.0
+1,Nota Fiscal Eletrônica 14059,2018-06-29,Posto Romualdo Ltda,66343930000156,1191.58
+2,Nota Fiscal Eletrônica 1299,2018-06-26,A Carbonaro Agua Mineral,24488698000102,24.0
+3,Nota Fiscal - Conta de Energia Elétrica 034701176,2018-06-14,Cemig Distribuição S.A.,06981180000116,84.43
+4,Recibo S/Nº,2018-06-30,Condomínio Parking Saggioro,20439212000187,370.0
+5,Nota Fiscal Eletrônica 201800000001180,2018-06-27,União Artes Gráficas Ltda.,20741559000180,926.0
+6,Fatura de Locação 000015,2018-06-26,Empreiteira Transtech T&D Ltda.,14496365000163,1800.0
+7,Nota Fiscal Eletrônica 5063,2018-06-27,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,173.9
+8,Nota Fiscal Eletrônica 5063,2018-06-27,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,79.8
+9,Nota Fiscal Eletrônica 201800000000092,2018-06-27,Aloisio Costa Ferreira,02017219000129,70.0
+10,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-06-14,Telefônica Brasil S.A.,02558157000162,269.99
+11,Nota Fiscal de Serviços de Telecomunicações 953274916,2018-06-14,Telemar Norte Leste S/A.,33000118000330,358.1
+12,Nota Fiscal de Serviços de Telecomunicações 1700420283987,2018-06-28,Oi Fixo,33000118000179,107.88

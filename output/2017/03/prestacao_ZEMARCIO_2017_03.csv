@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 00001498,27/03/2017,Auto Posto Valentina LTDA,17817687000155,"908,42"
-1,Recibo de Pagamento Autonomo 003,30/03/2017,Danielle Barros Possa,90798783672,"3.200,00"
-2,Nota Fiscal Eletronica 011.562.754,07/03/2017,Carlos Henrique Reinck,13124397000175,"122,00"
-3,Nota Fiscal Eletronica 0000002955,28/03/2017,Papelaria Fazza LTDA - ME - ANAPEL,01953452000150,"116,90"
-4,Nota Fiscal Eletronica 2017/201,30/03/2017,Casa do Grafico LTDA,25527805000119,"566,30"
-5,Nota Fiscal Eletronica 0000002955,28/03/2017,Papelaria Fazza - ME - ANAPEL,01953452000150,"374,40"
-6,Nota Fiscal Eletronica 0000002955,28/03/2017,Papelaria Fazza LTDA - ME  - ANAPEL,01953452000150,"14,90"
-7,Nota Fiscal de Serviços de Telecomunicação 1700401096287,30/03/2017,Oi Fixo,33000118000179,"76,36"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 00001498,2017-03-27,Auto Posto Valentina LTDA,17817687000155,908.42
+1,Recibo de Pagamento Autonomo 003,2017-03-30,Danielle Barros Possa,90798783672,3200.0
+2,Nota Fiscal Eletronica 011.562.754,2017-03-07,Carlos Henrique Reinck,13124397000175,122.0
+3,Nota Fiscal Eletronica 0000002955,2017-03-28,Papelaria Fazza LTDA - ME - ANAPEL,01953452000150,116.9
+4,Nota Fiscal Eletronica 2017/201,2017-03-30,Casa do Grafico LTDA,25527805000119,566.3
+5,Nota Fiscal Eletronica 0000002955,2017-03-28,Papelaria Fazza - ME - ANAPEL,01953452000150,374.4
+6,Nota Fiscal Eletronica 0000002955,2017-03-28,Papelaria Fazza LTDA - ME  - ANAPEL,01953452000150,14.9
+7,Nota Fiscal de Serviços de Telecomunicação 1700401096287,2017-03-30,Oi Fixo,33000118000179,76.36

@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 23,30/11/2018,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 12658,20/11/2018,Auto Posto Petrogas Ltda,03862967000170,"1.229,21"
-2,RPA - Recibo de Pagamento a Autônomo 25,22/11/2018,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 000.001.588,26/11/2018,A Carbonaro Agua Mineral,24488698000102,"130,00"
-4,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 5394,27/11/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"44,00"
-5,Nota Fiscal - Conta de Energia Eletrica 065276991,27/11/2018,Cemig Distribuição - S.A.,06981180000116,"49,04"
-6,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000139,23/11/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"300,00"
-7,Fatura de Serviços de Saneamento A/518278-93,27/11/2018,Cesama - Companhia de Saneamento Municipal,21572243000174,"46,49"
-8,Documento de Lançamento de Arrecadação de IPTU e TX Coleta de Resíduos Sólidos 033574002,10/11/2018,Prefeitura de Juiz de Fora,17783192000152,"51,97"
-9,Fatura 200,23/11/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"1.500,00"
-10,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 5394,27/11/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"69,70"
-11,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000233,28/11/2018,InfoToner - Aloisio Costa Ferreira,02017219000129,"69,00"
-12,Fatura 1700425769980,30/11/2018,Oi Fixo,33000118000179,"162,32"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 23,2018-11-30,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 12658,2018-11-20,Auto Posto Petrogas Ltda,03862967000170,1229.21
+2,RPA - Recibo de Pagamento a Autônomo 25,2018-11-22,Carlos Henrique Bruce João,05036074602,2000.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 000.001.588,2018-11-26,A Carbonaro Agua Mineral,24488698000102,130.0
+4,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 5394,2018-11-27,Ribeiro de Oliveira & Cia Ltda,21562897000117,44.0
+5,Nota Fiscal - Conta de Energia Eletrica 065276991,2018-11-27,Cemig Distribuição - S.A.,06981180000116,49.04
+6,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000139,2018-11-23,Estacionamento Salve Jorge Ltda - ME,17509454000195,300.0
+7,Fatura de Serviços de Saneamento A/518278-93,2018-11-27,Cesama - Companhia de Saneamento Municipal,21572243000174,46.49
+8,Documento de Lançamento de Arrecadação de IPTU e TX Coleta de Resíduos Sólidos 033574002,2018-11-10,Prefeitura de Juiz de Fora,17783192000152,51.97
+9,Fatura 200,2018-11-23,Estacionamento Salve Jorge Ltda - ME,17509454000195,1500.0
+10,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 5394,2018-11-27,Ribeiro de Oliveira & Cia Ltda,21562897000117,69.7
+11,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000233,2018-11-28,InfoToner - Aloisio Costa Ferreira,02017219000129,69.0
+12,Fatura 1700425769980,2018-11-30,Oi Fixo,33000118000179,162.32

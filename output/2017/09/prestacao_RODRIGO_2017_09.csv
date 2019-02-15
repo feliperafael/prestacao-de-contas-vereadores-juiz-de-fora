@@ -1,10 +1,10 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,DANFE 000012948,29/09/2017,Posto Romualdo LTDA,66343930000156,"1.716,40"
-1,Nota Fiscal Eletrõnica de Serviços 201700000000047,29/09/2017,"Alvim Soares, Junqueira e Advogados Associados",03853408000102,"1.500,00"
-2,DANFE 4551,29/09/2017,Ribeiro de Oliveira & Cia Ltda,21562897000117,"7,80"
-3,Nota Fiscal de Serviços Eletrônicas 201700000000574,29/09/2017,Real Copias de juiz de fora LTDA,04316977000173,"401,00"
-4,Nota Fiscal de Serviços Eletrônica 201700000000614,29/09/2017,União Artes Graficas LTDA,20741559000180,"700,00"
-5,Fatura de Locação FL19721,19/09/2017,Themauto Veiculos LTDA,01957100000173,"1.900,00"
-6,DANFE 4551,29/09/2017,Ribeiro de Oliveira & CIA LTDA,21562897000117,"213,10"
-7,DANFE 0000001960,29/09/2017,Aloisio Costa Ferreira- ME Infotoner,02017219000129,"50,00"
-8,Nota Fiscal de Telecomunicações 1700409330654,29/09/2017,OI FIXO,33000118000179,"343,24"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,DANFE 000012948,2017-09-29,Posto Romualdo LTDA,66343930000156,1716.4
+1,Nota Fiscal Eletrõnica de Serviços 201700000000047,2017-09-29,"Alvim Soares, Junqueira e Advogados Associados",03853408000102,1500.0
+2,DANFE 4551,2017-09-29,Ribeiro de Oliveira & Cia Ltda,21562897000117,7.8
+3,Nota Fiscal de Serviços Eletrônicas 201700000000574,2017-09-29,Real Copias de juiz de fora LTDA,04316977000173,401.0
+4,Nota Fiscal de Serviços Eletrônica 201700000000614,2017-09-29,União Artes Graficas LTDA,20741559000180,700.0
+5,Fatura de Locação FL19721,2017-09-19,Themauto Veiculos LTDA,01957100000173,1900.0
+6,DANFE 4551,2017-09-29,Ribeiro de Oliveira & CIA LTDA,21562897000117,213.1
+7,DANFE 0000001960,2017-09-29,Aloisio Costa Ferreira- ME Infotoner,02017219000129,50.0
+8,Nota Fiscal de Telecomunicações 1700409330654,2017-09-29,OI FIXO,33000118000179,343.24

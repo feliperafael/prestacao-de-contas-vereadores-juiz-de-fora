@@ -1,12 +1,12 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,DANFE 4455315,07/03/2017,Infoglobo Comunicação e Partic S/A,60452752002916,"93,90"
-1,DANFE 000012239,30/03/2017,Posto Romualdo,66343930000156,"912,00"
-2,RPA 01,31/03/2017,Rodrigo Alexandre Homem de Faria,99495082668,"1.500,00"
-3,DANFE 000.000.584,29/03/2017,A Carbonaro Agua Mineral ME,24488698000102,"96,00"
-4,Nota Fiscal de Serviçõs Eletrônica 2017/167,30/03/2017,Real Copias de Juiz de Fora LTDA,04316977000173,"311,80"
-5,Nota Fiscal de Serviços Eletrônica 2017/192,30/03/2017,União Artes Graficas LTDA,20741559000180,"900,00"
-6,DANFE 4224,31/03/2017,Ribeiro de Oliveira &Cia LTDA,21562897000117,"532,05"
-7,Recibo de Vendas Produtos 294448,17/03/2017,ECT-EMP.Bras.Correios e Telegrafos,07840632000102,"243,10"
-8,Recibo de Vendas de Produtos 007580000,28/03/2017,ECT-EMP.Bras.Correios e Telegrafos,07840632000102,"19,70"
-9,DANFE 0000001880,30/03/2017,Aloisio Costa Ferreira-ME Infotoner,02017219000129,"55,00"
-10,Nota Fiscal de Telecomunicações 1700401096287,30/03/2017,OI FIXO,33000118000179,"456,45"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,DANFE 4455315,2017-03-07,Infoglobo Comunicação e Partic S/A,60452752002916,93.9
+1,DANFE 000012239,2017-03-30,Posto Romualdo,66343930000156,912.0
+2,RPA 01,2017-03-31,Rodrigo Alexandre Homem de Faria,99495082668,1500.0
+3,DANFE 000.000.584,2017-03-29,A Carbonaro Agua Mineral ME,24488698000102,96.0
+4,Nota Fiscal de Serviçõs Eletrônica 2017/167,2017-03-30,Real Copias de Juiz de Fora LTDA,04316977000173,311.8
+5,Nota Fiscal de Serviços Eletrônica 2017/192,2017-03-30,União Artes Graficas LTDA,20741559000180,900.0
+6,DANFE 4224,2017-03-31,Ribeiro de Oliveira &Cia LTDA,21562897000117,532.05
+7,Recibo de Vendas Produtos 294448,2017-03-17,ECT-EMP.Bras.Correios e Telegrafos,07840632000102,243.1
+8,Recibo de Vendas de Produtos 007580000,2017-03-28,ECT-EMP.Bras.Correios e Telegrafos,07840632000102,19.7
+9,DANFE 0000001880,2017-03-30,Aloisio Costa Ferreira-ME Infotoner,02017219000129,55.0
+10,Nota Fiscal de Telecomunicações 1700401096287,2017-03-30,OI FIXO,33000118000179,456.45

@@ -1,11 +1,11 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal de Serviços de Telecomunicações 0753931232-0,15/01/2019,Telefônica Brasil S.A.,02558157000162,"144,99"
-1,Cobrança Bancária Caixa 051,15/01/2019,Condomínio do Edifício Sulacap,26128371000147,"950,00"
-2,Danfe 000015046,28/01/2019,Posto Romualdo Ltda,66343930000156,"1.386,91"
-3,Nota Fiscal - Conta de Energia Elétrica 085134597,15/01/2019,Cemig Distribuição S.A.,06981180000116,"97,94"
-4,Recibo S/Nº,17/01/2019,Condomínio Parking Saggioro,20439212000187,"370,00"
-5,Fatura de Locação 000022,15/01/2019,Empreiteira Transtech T&D Ltda.,14496365000163,"1.800,00"
-6,Nota Fiscal de Serviços de Telecomunicações 0237757587,15/01/2019,Telefônica Brasil S.A,02558157000162,"289,99"
-7,Nota Fiscal de Serviços de Telecomunicações 1812295268031,15/01/2019,Claro S.A.,40432544011262,"41,05"
-8,Nota Fiscal de Srviços de Telecomunicações 1700426832955,02/01/2019,Oi Fixo,33000118000179,"110,02"
-9,Nota Fiscal Serviços de Telecomunicação 1700427876863,25/01/2019,OI Fixo,33000118000179,"59,48"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal de Serviços de Telecomunicações 0753931232-0,2019-01-15,Telefônica Brasil S.A.,02558157000162,144.99
+1,Cobrança Bancária Caixa 051,2019-01-15,Condomínio do Edifício Sulacap,26128371000147,950.0
+2,Danfe 000015046,2019-01-28,Posto Romualdo Ltda,66343930000156,1386.91
+3,Nota Fiscal - Conta de Energia Elétrica 085134597,2019-01-15,Cemig Distribuição S.A.,06981180000116,97.94
+4,Recibo S/Nº,2019-01-17,Condomínio Parking Saggioro,20439212000187,370.0
+5,Fatura de Locação 000022,2019-01-15,Empreiteira Transtech T&D Ltda.,14496365000163,1800.0
+6,Nota Fiscal de Serviços de Telecomunicações 0237757587,2019-01-15,Telefônica Brasil S.A,02558157000162,289.99
+7,Nota Fiscal de Serviços de Telecomunicações 1812295268031,2019-01-15,Claro S.A.,40432544011262,41.05
+8,Nota Fiscal de Srviços de Telecomunicações 1700426832955,2019-01-02,Oi Fixo,33000118000179,110.02
+9,Nota Fiscal Serviços de Telecomunicação 1700427876863,2019-01-25,OI Fixo,33000118000179,59.48

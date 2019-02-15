@@ -1,10 +1,10 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,DANFE 000012838,30/08/2017,Posto Romualdo LTDA,66343930000156,"1.117,14"
-1,Nota Fiscal Eletrõnica de serviços 201700000000041,28/08/2017,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,"1.500,00"
-2,DANFE 000.000.815,29/08/2017,A Carbonaro Agua Mineral LTDA,24488698000102,"104,00"
-3,DANFE 4494,31/08/2017,Ribeiro de Oliveira &CIA LTDA,21562897000117,"39,20"
-4,Nota Fiscal de Serviços Eletrônica 201700000000488,30/08/2017,Real Copias de juiz de fora LTDA,04316977000173,"669,20"
-5,Nota Fiscal de Serviços Eletrônica 201700000000539,30/08/2017,União Artes Graficas LTDA,20741559000180,"1.800,00"
-6,DANFE 4494,31/08/2017,Ribeiro de Oliveira & CIA LTDA,21562897000117,"389,20"
-7,DANFE 1427,30/08/2017,P/JF Escrita Artigos P/ Escritorio LTDA,07316990000110,"499,00"
-8,Nota Fiscal de Telecomunicações 1700407982540,30/08/2017,OI FIXO,33000118000179,"254,77"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,DANFE 000012838,2017-08-30,Posto Romualdo LTDA,66343930000156,1117.14
+1,Nota Fiscal Eletrõnica de serviços 201700000000041,2017-08-28,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,1500.0
+2,DANFE 000.000.815,2017-08-29,A Carbonaro Agua Mineral LTDA,24488698000102,104.0
+3,DANFE 4494,2017-08-31,Ribeiro de Oliveira &CIA LTDA,21562897000117,39.2
+4,Nota Fiscal de Serviços Eletrônica 201700000000488,2017-08-30,Real Copias de juiz de fora LTDA,04316977000173,669.2
+5,Nota Fiscal de Serviços Eletrônica 201700000000539,2017-08-30,União Artes Graficas LTDA,20741559000180,1800.0
+6,DANFE 4494,2017-08-31,Ribeiro de Oliveira & CIA LTDA,21562897000117,389.2
+7,DANFE 1427,2017-08-30,P/JF Escrita Artigos P/ Escritorio LTDA,07316990000110,499.0
+8,Nota Fiscal de Telecomunicações 1700407982540,2017-08-30,OI FIXO,33000118000179,254.77

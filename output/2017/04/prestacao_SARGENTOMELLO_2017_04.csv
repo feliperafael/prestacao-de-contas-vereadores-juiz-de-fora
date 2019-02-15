@@ -1,11 +1,11 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,DNFE-documento auxiliar da nota fiscal eletronica 00005304,29/04/2017,papagaio com e derivados de petroleo ltda,10515414000107,"637,02"
-1,recibo de pagamento a autonomo- RPA 004/2017,28/04/2017,geraldo maximiano da silva,45350825615,"3.000,00"
-2,DANFE-documento auxiliar da nota fiscal eletronica 4258,26/04/2017,ribeiro de oliveira & cia ltda,21562897000117,"14,70"
-3,nota fiscal eletronica de serviço-nfs-e 201700000000028,28/04/2017,ricardo teixeira de aguiar,66464488000116,"260,00"
-4,nota fiscal eletronica de serviço-nfs-e 201700000000017,29/04/2017,wander luiz de souza senra,19371304000193,"400,00"
-5,DANFE-documento auxiliar da nota fiscal eletronica 4258,26/04/2017,ribeiro de oliveira & cia ltda,21562897000117,"123,20"
-6,nota fiscal  eletronica de serviço- nfs-e 201700000000012,04/04/2017,onofre de matos guedes,26632032000101,"300,00"
-7,nota fiscal eletronica de serviço-nfs-e 201700000000015,13/04/2017,wander luiz de souza senra,19371304000193,"1.350,00"
-8,DANFE-documento auxiliar da nota fiscal eletronica 4258,26/04/2017,ribeiro de oliveira & cia ltda,21562897000117,"218,30"
-9,fatura 1700402510631,29/04/2017,telemar norte leste s/a,33000118000179,"230,51"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,DNFE-documento auxiliar da nota fiscal eletronica 00005304,2017-04-29,papagaio com e derivados de petroleo ltda,10515414000107,637.02
+1,recibo de pagamento a autonomo- RPA 004/2017,2017-04-28,geraldo maximiano da silva,45350825615,3000.0
+2,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,14.7
+3,nota fiscal eletronica de serviço-nfs-e 201700000000028,2017-04-28,ricardo teixeira de aguiar,66464488000116,260.0
+4,nota fiscal eletronica de serviço-nfs-e 201700000000017,2017-04-29,wander luiz de souza senra,19371304000193,400.0
+5,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,123.2
+6,nota fiscal  eletronica de serviço- nfs-e 201700000000012,2017-04-04,onofre de matos guedes,26632032000101,300.0
+7,nota fiscal eletronica de serviço-nfs-e 201700000000015,2017-04-13,wander luiz de souza senra,19371304000193,1350.0
+8,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,218.3
+9,fatura 1700402510631,2017-04-29,telemar norte leste s/a,33000118000179,230.51

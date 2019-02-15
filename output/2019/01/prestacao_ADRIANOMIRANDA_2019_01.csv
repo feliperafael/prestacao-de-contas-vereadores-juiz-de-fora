@@ -1,5 +1,5 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,NFe 15043,25/01/2019,Posto Romualdo Ltda,66343930000156,"1.285,66"
-1,Fatura de Locação 666,29/01/2019,Locadora Hermon Ltda,04569904000193,"2.000,00"
-2,Nota Fiscal de Serviços de Telecomunicação 1700426832955,10/01/2019,Telemar Norte Leste SA,33000118000179,"323,43"
-3,Nota Fiscal de Serviços de Telecomunicação 1700427876863,25/01/2019,Telemar Norte Leste SA,33000118000179,"342,54"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,NFe 15043,2019-01-25,Posto Romualdo Ltda,66343930000156,1285.66
+1,Fatura de Locação 666,2019-01-29,Locadora Hermon Ltda,04569904000193,2000.0
+2,Nota Fiscal de Serviços de Telecomunicação 1700426832955,2019-01-10,Telemar Norte Leste SA,33000118000179,323.43
+3,Nota Fiscal de Serviços de Telecomunicação 1700427876863,2019-01-25,Telemar Norte Leste SA,33000118000179,342.54

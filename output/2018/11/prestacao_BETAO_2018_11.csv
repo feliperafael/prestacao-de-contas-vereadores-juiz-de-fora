@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal de Serviços de Telecomunicações 0715133467-0,23/11/2018,Telefônica Brasil S/A,02558157000162,"144,99"
-1,Boleto Bancário 051,30/11/2018,Condomínio do Edifícil Sulacap,26128371000147,"950,00"
-2,Nota Fiscal Eletrônica 14788,30/11/2018,Posto Romualdo Ltda,66343930000156,"1.227,94"
-3,Nota Fiscal Eletrônica 1586,26/11/2018,A Carbonaro Agua Mineral,24488698000102,"32,00"
-4,Nota Fiscal - Conta de Energia Elétrica 070513850,23/11/2018,Cemig Distribuição S.A.,06981180000116,"172,79"
-5,Recibo S/Nº,30/11/2018,Condomínio Parking Saggioro,20439212000187,"370,00"
-6,Nota Fiscal Eletrônica 201800000001514,28/11/2018,Real Cópias de Juiz de Fora Ltda,04316977000173,"500,00"
-7,Fatura de Locação 000020,26/11/2018,Empreiteira Transtech T&D Ltda - ME,14496365000163,"1.800,00"
-8,Nota Fiscal Eletrônica 5392,27/11/2018,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"89,70"
-9,Nota Fiscal Eletrônica 5392,27/11/2018,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"49,90"
-10,Nota Fiscal de Serviços de Telecomunicações 0237757587,12/11/2018,Telefônica Brasil S.A.,02558157000162,"289,99"
-11,Nota Fiscal de Serviços de Telecomunicações 315178840,23/11/2018,Claro S/A.,40432544011262,"41,55"
-12,Nota Fiscal de Serviços de Telecomunicações 1700425769980,30/11/2018,Oi Fixo,33000118000179,"98,27"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal de Serviços de Telecomunicações 0715133467-0,2018-11-23,Telefônica Brasil S/A,02558157000162,144.99
+1,Boleto Bancário 051,2018-11-30,Condomínio do Edifícil Sulacap,26128371000147,950.0
+2,Nota Fiscal Eletrônica 14788,2018-11-30,Posto Romualdo Ltda,66343930000156,1227.94
+3,Nota Fiscal Eletrônica 1586,2018-11-26,A Carbonaro Agua Mineral,24488698000102,32.0
+4,Nota Fiscal - Conta de Energia Elétrica 070513850,2018-11-23,Cemig Distribuição S.A.,06981180000116,172.79
+5,Recibo S/Nº,2018-11-30,Condomínio Parking Saggioro,20439212000187,370.0
+6,Nota Fiscal Eletrônica 201800000001514,2018-11-28,Real Cópias de Juiz de Fora Ltda,04316977000173,500.0
+7,Fatura de Locação 000020,2018-11-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,1800.0
+8,Nota Fiscal Eletrônica 5392,2018-11-27,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,89.7
+9,Nota Fiscal Eletrônica 5392,2018-11-27,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,49.9
+10,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-11-12,Telefônica Brasil S.A.,02558157000162,289.99
+11,Nota Fiscal de Serviços de Telecomunicações 315178840,2018-11-23,Claro S/A.,40432544011262,41.55
+12,Nota Fiscal de Serviços de Telecomunicações 1700425769980,2018-11-30,Oi Fixo,33000118000179,98.27

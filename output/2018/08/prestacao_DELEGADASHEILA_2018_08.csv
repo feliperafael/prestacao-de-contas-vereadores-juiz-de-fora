@@ -1,7 +1,7 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,danfe 832,28/08/2018,posto centro choferes ltda,21575972000184,"1.787,28"
-1,danfe 4991,22/08/2018,sl pack embalagens ltda me,11827845000171,"231,50"
-2,nfse 201800000000097,07/08/2018,ricardo teixeira de aguiar,66464488000116,"290,00"
-3,nfse 00001483,14/08/2018,vizion gestao de negocios empresariais ltda epp,07979987000187,"586,00"
-4,nota fiscal 0321261148,14/08/2018,telefonica do brasil s/a,02558157000162,"170,98"
-5,nota fiscal 1700422515815,30/08/2018,oi fixo,33000118000179,"523,54"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,danfe 832,2018-08-28,posto centro choferes ltda,21575972000184,1787.28
+1,danfe 4991,2018-08-22,sl pack embalagens ltda me,11827845000171,231.5
+2,nfse 201800000000097,2018-08-07,ricardo teixeira de aguiar,66464488000116,290.0
+3,nfse 00001483,2018-08-14,vizion gestao de negocios empresariais ltda epp,07979987000187,586.0
+4,nota fiscal 0321261148,2018-08-14,telefonica do brasil s/a,02558157000162,170.98
+5,nota fiscal 1700422515815,2018-08-30,oi fixo,33000118000179,523.54

@@ -1,12 +1,12 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Boleto 051,30/05/2017,Condomínio do Edifício Sulacap,26128371000147,"950,00"
-1,Nota Fiscal Eletrônica 4319,30/05/2017,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"39,00"
-2,Nota Fiscal - Conta de Energia Elétrica 749804,30/05/2017,Cemig Distribuição S.A.,06981180000116,"82,24"
-3,Fatura de Locação 2,26/05/2017,Empreiteira Transtech T&D Ltda - ME,14496365000163,"1.800,00"
-4,Nota Fiscal Eletrônica 4319,30/05/2017,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"341,50"
-5,Comprovante do Cliente 0001,10/05/2017,Empresa Brasileira de Correios e Telégrafos,86555109000100,"3.425,80"
-6,Nota Fiscal Eletrônica 4319,30/05/2017,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"169,00"
-7,Nota Fiscal de Serviços de Telecomunicações 0237757587,10/05/2017,Telefônica Brasil S.A.,02558157000162,"442,65"
-8,Nota Fiscal de Serviços de Telecomunicações 0237763334,10/05/2017,Telefônica Brasil S.A.,02558157000162,"94,05"
-9,Nota Fiscal de Serviços de Telecomunicações 778209493,15/05/2017,Telemar Norte Leste S/A.,33000118000330,"425,70"
-10,Nota Fiscal de Serviços de Telecomunicações 1700403894827,30/05/2017,Oi Fixo,33000118000179,"146,91"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Boleto 051,2017-05-30,Condomínio do Edifício Sulacap,26128371000147,950.0
+1,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,39.0
+2,Nota Fiscal - Conta de Energia Elétrica 749804,2017-05-30,Cemig Distribuição S.A.,06981180000116,82.24
+3,Fatura de Locação 2,2017-05-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,1800.0
+4,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,341.5
+5,Comprovante do Cliente 0001,2017-05-10,Empresa Brasileira de Correios e Telégrafos,86555109000100,3425.8
+6,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,169.0
+7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-05-10,Telefônica Brasil S.A.,02558157000162,442.65
+8,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-05-10,Telefônica Brasil S.A.,02558157000162,94.05
+9,Nota Fiscal de Serviços de Telecomunicações 778209493,2017-05-15,Telemar Norte Leste S/A.,33000118000330,425.7
+10,Nota Fiscal de Serviços de Telecomunicações 1700403894827,2017-05-30,Oi Fixo,33000118000179,146.91

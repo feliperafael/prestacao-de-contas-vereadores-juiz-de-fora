@@ -1,8 +1,8 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 6065,25/07/2017,Posto Paraibuna LTDA,22388292000114,"235,57"
-1,Nota Fiscal Eletronica 0090,25/07/2017,Posto Central LTDA,21549407000142,"292,06"
-2,Nota Fiscal Eletrônica de Serviços 2101700000000012,31/07/2017,Aristides Ribeiro Advogados Associados S/A,04504649000109,"3.000,00"
-3,Nota Fiscal Eletronica 3427,28/07/2017,Getiline Produtos de Informatica LTDA Jetiline Cartuchos,03785499000188,"83,60"
-4,Nota Fiscal Eletronica 3666,10/07/2017,Teixeiras e Chaves LTDA,21339965001902,"59,50"
-5,Nota fiscal de Serviço de Telecomunicação 0304814216,20/07/2017,Vivo,02558157000910,"394,63"
-6,Nota Fiscal de Serviços de Telecomunicação 1700405526945,31/07/2017,OI,33000118000179,"199,32"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 6065,2017-07-25,Posto Paraibuna LTDA,22388292000114,235.57
+1,Nota Fiscal Eletronica 0090,2017-07-25,Posto Central LTDA,21549407000142,292.06
+2,Nota Fiscal Eletrônica de Serviços 2101700000000012,2017-07-31,Aristides Ribeiro Advogados Associados S/A,04504649000109,3000.0
+3,Nota Fiscal Eletronica 3427,2017-07-28,Getiline Produtos de Informatica LTDA Jetiline Cartuchos,03785499000188,83.6
+4,Nota Fiscal Eletronica 3666,2017-07-10,Teixeiras e Chaves LTDA,21339965001902,59.5
+5,Nota fiscal de Serviço de Telecomunicação 0304814216,2017-07-20,Vivo,02558157000910,394.63
+6,Nota Fiscal de Serviços de Telecomunicação 1700405526945,2017-07-31,OI,33000118000179,199.32

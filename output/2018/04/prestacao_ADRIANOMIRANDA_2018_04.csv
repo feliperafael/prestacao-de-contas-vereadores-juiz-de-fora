@@ -1,7 +1,7 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,NFe 13748,23/04/2018,Posto Romualdo Ltda,66343930000156,"1.904,85"
-1,NFe 8108,10/04/2018,Teixeira e Chaves Ltda,21339965001902,"16,35"
-2,Fatura de Locação/Duplicata 363,27/04/2018,Locadora Hermon Ltda,04569904000193,"2.000,00"
-3,NFe 8108,10/04/2018,Teixeira e Chaves Ltda,21339965001902,"39,90"
-4,NFSe 201800000000944,03/04/2018,W Collor Editora Gráfica Ltda,05033125000131,"1.385,00"
-5,Nota Fiscal de Serviços de Telecomunicação 1700418019588,23/04/2018,Telemar Norte Leste SA,33000118000179,"393,59"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,NFe 13748,2018-04-23,Posto Romualdo Ltda,66343930000156,1904.85
+1,NFe 8108,2018-04-10,Teixeira e Chaves Ltda,21339965001902,16.35
+2,Fatura de Locação/Duplicata 363,2018-04-27,Locadora Hermon Ltda,04569904000193,2000.0
+3,NFe 8108,2018-04-10,Teixeira e Chaves Ltda,21339965001902,39.9
+4,NFSe 201800000000944,2018-04-03,W Collor Editora Gráfica Ltda,05033125000131,1385.0
+5,Nota Fiscal de Serviços de Telecomunicação 1700418019588,2018-04-23,Telemar Norte Leste SA,33000118000179,393.59

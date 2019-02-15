@@ -1,8 +1,8 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 00001658,26/07/2017,Auto Posto Valentina LTDA,17817687000155,"838,17"
-1,RPA - Recibo de Pagamento Autonomo 007,28/07/2017,Danille Barros Possa,90798783672,"3.200,00"
-2,Nota Fiscal Eletronica 000001678,13/07/2017,Perfect Paper Informatica LTDA - ME,19857923000192,"128,67"
-3,Nota Fiscal Eletronica 201700000000504,27/07/2017,Casa do Grafico LTDA,25527805000119,"682,60"
-4,Nota Fiscal Eletronica de Serviços 201700000000005,26/07/2017,Gerley Ricardo de Menezes,19995892000136,"1.875,00"
-5,Nota Fiscal Eletronica 000001719,24/07/2017,Perfect Paper Informatica LTDA - ME,19857923000192,"80,00"
-6,Nota Fiscal de Serviços de Telecomunicações 1700405526945,28/07/2017,Oi Fixo,33000118000179,"131,02"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 00001658,2017-07-26,Auto Posto Valentina LTDA,17817687000155,838.17
+1,RPA - Recibo de Pagamento Autonomo 007,2017-07-28,Danille Barros Possa,90798783672,3200.0
+2,Nota Fiscal Eletronica 000001678,2017-07-13,Perfect Paper Informatica LTDA - ME,19857923000192,128.67
+3,Nota Fiscal Eletronica 201700000000504,2017-07-27,Casa do Grafico LTDA,25527805000119,682.6
+4,Nota Fiscal Eletronica de Serviços 201700000000005,2017-07-26,Gerley Ricardo de Menezes,19995892000136,1875.0
+5,Nota Fiscal Eletronica 000001719,2017-07-24,Perfect Paper Informatica LTDA - ME,19857923000192,80.0
+6,Nota Fiscal de Serviços de Telecomunicações 1700405526945,2017-07-28,Oi Fixo,33000118000179,131.02

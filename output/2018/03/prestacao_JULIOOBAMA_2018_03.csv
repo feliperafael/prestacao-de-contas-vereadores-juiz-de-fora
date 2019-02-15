@@ -1,10 +1,10 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo / Fatura 000402888,09/03/2018,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,"40,14"
-1,Nota Fiscal de Comunicações Modelo 21 1036001,09/03/2018,Infoline Comunicações e Informaçoes Eletrônicas Ltda,00958288000101,"26,76"
-2,Recibo do Sacado 61461,27/03/2018,Diretrans Ltda,19490812000190,"720,00"
-3,Documento Auxiliar da Nota Fiscal Eletrônica 00003904,28/03/2018,Auto Posto Bandeirantes Ltda,21058508000110,"600,00"
-4,Recido do Pagador 14000000001027980-1,07/03/2018,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,"274,74"
-5,Recibo de pagamento a Autônomo 16,30/03/2018,Elaine Araújo Gonzaga,05499740674,"1.600,00"
-6,Nota Fiscal 014298214,26/03/2018,Cemig Distribuição S.A.,06981180000116,"39,10"
-7,Fatura 000170,26/03/2018,Estacionamento Salve Jorge Ltda.-ME,17509454000195,"2.300,00"
-8,Fatura 1700416853428,30/03/2018,Oi Fixo,33000118000179,"204,31"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo / Fatura 000402888,2018-03-09,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
+1,Nota Fiscal de Comunicações Modelo 21 1036001,2018-03-09,Infoline Comunicações e Informaçoes Eletrônicas Ltda,00958288000101,26.76
+2,Recibo do Sacado 61461,2018-03-27,Diretrans Ltda,19490812000190,720.0
+3,Documento Auxiliar da Nota Fiscal Eletrônica 00003904,2018-03-28,Auto Posto Bandeirantes Ltda,21058508000110,600.0
+4,Recido do Pagador 14000000001027980-1,2018-03-07,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,274.74
+5,Recibo de pagamento a Autônomo 16,2018-03-30,Elaine Araújo Gonzaga,05499740674,1600.0
+6,Nota Fiscal 014298214,2018-03-26,Cemig Distribuição S.A.,06981180000116,39.1
+7,Fatura 000170,2018-03-26,Estacionamento Salve Jorge Ltda.-ME,17509454000195,2300.0
+8,Fatura 1700416853428,2018-03-30,Oi Fixo,33000118000179,204.31

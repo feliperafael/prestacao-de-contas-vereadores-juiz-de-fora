@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 0734,30/03/2017,Posto Centro Choferes LTDA,21575972000184,"769,17"
-1,Nota Fiscal Eletronica 3340,30/03/2017,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,"35,20"
-2,Nota Fiscal Eletronica de serviços 2017/13,30/03/2017,Maria Aparecida Arcanjo Coelho,10983896000120,"300,00"
-3,Nota Fiscal Eletronica de Serviços 2017/25,28/03/2017,Oliveira e Moreira Grafica e Editora LTDA,04947397000184,"90,00"
-4,Nota Fiscal Eletronica 3340,30/03/2017,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,"92,50"
-5,Nota Fiscal Eletronica 3340,30/03/2017,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,"39,00"
-6,Nota Fiscal de Serviço de Telecomunicação 896497896,21/03/2017,Claro,40432544000147,"214,32"
-7,Nota Fiscal de Serviço de Telecomunicação 1700401096287,30/03/2017,OI,33000118000179,"353,13"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 0734,2017-03-30,Posto Centro Choferes LTDA,21575972000184,769.17
+1,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,35.2
+2,Nota Fiscal Eletronica de serviços 2017/13,2017-03-30,Maria Aparecida Arcanjo Coelho,10983896000120,300.0
+3,Nota Fiscal Eletronica de Serviços 2017/25,2017-03-28,Oliveira e Moreira Grafica e Editora LTDA,04947397000184,90.0
+4,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,92.5
+5,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,39.0
+6,Nota Fiscal de Serviço de Telecomunicação 896497896,2017-03-21,Claro,40432544000147,214.32
+7,Nota Fiscal de Serviço de Telecomunicação 1700401096287,2017-03-30,OI,33000118000179,353.13

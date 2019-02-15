@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo 008,31/08/2017,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 00010585,25/08/2017,Auto Posto Petrogas LTDA,03862967000170,"975,36"
-2,Recibo de Pagamento Autônomo - RPA 03,29/08/2017,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,Danfe - Documento Auxiliar da Nota fiscal Eletronica 4476,25/08/2017,Ribeiro de Oliveira & Cia LTDA,21562897000117,"26,30"
-4,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 000.000.814,29/08/2017,A Carbonaro Agua Mineral ME,24488698000102,"468,00"
-5,Nota Fiscal - Conta de Energia Eletrica 002585747,29/08/2017,CEMIG,06981180000116,"40,86"
-6,Nota Fiscal Eletronica de Serviço -NFS-e 201700000000052,25/08/2017,Estacionamento Salve Jorge,17509454000195,"300,00"
-7,Fatura de Serviços de Saneamento A/518278-93,29/08/2017,CESAMA,21572243000174,"49,39"
-8,Fatura 000135,25/08/2017,Estacionamento Salve Jorge,17509454000195,"1.800,00"
-9,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4476,25/08/2017,Ribeiro de Oliveira & CIA LTDA,21562897000117,"338,00"
-10,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4476,25/08/2017,Ribeiro de Oliveira & CIA LTDA,21562897000117,"79,80"
-11,Danfe 013062172,29/08/2017,Daniel Vieira Zeferino,22931874000103,"376,00"
-12,Fatura 1700407982540,30/08/2017,Oi Fixo,33000118000179,"134,24"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo 008,2017-08-31,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 00010585,2017-08-25,Auto Posto Petrogas LTDA,03862967000170,975.36
+2,Recibo de Pagamento Autônomo - RPA 03,2017-08-29,Carlos Henrique Bruce João,05036074602,2000.0
+3,Danfe - Documento Auxiliar da Nota fiscal Eletronica 4476,2017-08-25,Ribeiro de Oliveira & Cia LTDA,21562897000117,26.3
+4,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 000.000.814,2017-08-29,A Carbonaro Agua Mineral ME,24488698000102,468.0
+5,Nota Fiscal - Conta de Energia Eletrica 002585747,2017-08-29,CEMIG,06981180000116,40.86
+6,Nota Fiscal Eletronica de Serviço -NFS-e 201700000000052,2017-08-25,Estacionamento Salve Jorge,17509454000195,300.0
+7,Fatura de Serviços de Saneamento A/518278-93,2017-08-29,CESAMA,21572243000174,49.39
+8,Fatura 000135,2017-08-25,Estacionamento Salve Jorge,17509454000195,1800.0
+9,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4476,2017-08-25,Ribeiro de Oliveira & CIA LTDA,21562897000117,338.0
+10,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4476,2017-08-25,Ribeiro de Oliveira & CIA LTDA,21562897000117,79.8
+11,Danfe 013062172,2017-08-29,Daniel Vieira Zeferino,22931874000103,376.0
+12,Fatura 1700407982540,2017-08-30,Oi Fixo,33000118000179,134.24

@@ -39,10 +39,20 @@ def build_url(link_name, ano, mes):
     url_base = 'http://www.camarajf.mg.gov.br/verba.php?leg=2017-2020&verba=1&vereador={}&ano={}&mes={}'.format(link_name, str(ano), str(mes))
     return url_base
 
+def valor2Float(valor_column):
+    valor_column = [val.replace(".", "") for val in valor_column]
+    valor_column = [float(val.replace(",", ".")) for val in valor_column]
+    return valor_column
+
+def formatDataFrame(df):
+    df['valor'] = valor2Float(df['valor'])
+    df['data_emissao'] = pd.to_datetime(df['data_emissao'], format='%d/%m/%Y', errors='coerce')
+    return df
+
 def parse_html(html):
     soup = BeautifulSoup(html)
     table = soup.findAll("table", id="AutoNumber2")[0]
-    contas = {'Documento': [], 'Data Emissão': [], 'Emitente': [], 'CPF/CNPJ': [], 'Valor': []}
+    contas = {'documento': [], 'data_emissao': [], 'emitente': [], 'cpf_cnpj': [], 'valor': []}
     cont = 0
     for tr in table.findAll('tr')[4:]:
         if cont % 2 != 0:
@@ -61,10 +71,11 @@ if __name__ == "__main__":
     years = ['2017','2018','2019']
     months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
     
-    for vereador in df['link_name']:
+    for vereador in df['nome_link']:
         for year in years:
             for month in months: 
                 url = build_url(vereador, year, month)
                 html = get_raw_data(url)
                 df = parse_html(html)
+                df = formatDataFrame(df)
                 df.to_csv(output_path+'{}/{}/prestacao_{}_{}_{}.csv'.format(year, month, vereador, year, month))

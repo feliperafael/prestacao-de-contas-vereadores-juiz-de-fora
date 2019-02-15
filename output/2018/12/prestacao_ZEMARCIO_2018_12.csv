@@ -1,6 +1,6 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Danfe 00002205,19/12/2018,Auto Posto Valentina Ltda,17817687000155,"974,51"
-1,Nota Fiscal Eletrônica 201800000000842,11/12/2018,Ato Interativo Ltda,07793203000121,"1.900,00"
-2,RPA -Recibo de Pagamento Autônomo 12,18/12/2018,Paulo Sérgio Gomes Aroni,52148270672,"1.500,00"
-3,Nota Fiscal 201800000001690,18/12/2018,W.Collor Editora Gráfica Ltda.,05033125000131,"1.500,00"
-4,Recibo 7020894,19/12/2018,Movida Aluguel de Carros,07976147020609,"1.386,82"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Danfe 00002205,2018-12-19,Auto Posto Valentina Ltda,17817687000155,974.51
+1,Nota Fiscal Eletrônica 201800000000842,2018-12-11,Ato Interativo Ltda,07793203000121,1900.0
+2,RPA -Recibo de Pagamento Autônomo 12,2018-12-18,Paulo Sérgio Gomes Aroni,52148270672,1500.0
+3,Nota Fiscal 201800000001690,2018-12-18,W.Collor Editora Gráfica Ltda.,05033125000131,1500.0
+4,Recibo 7020894,2018-12-19,Movida Aluguel de Carros,07976147020609,1386.82

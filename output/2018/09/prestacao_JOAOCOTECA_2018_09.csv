@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 21,28/09/2018,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 12379,29/09/2018,Auto Posto Petrogas Ltda,03862967000170,"1.305,40"
-2,RPA - Recibo de Pagamento a Autônomo 22,28/09/2018,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 1449,25/09/2018,A Carbonaro Agua Mineral,24488698000102,"338,00"
-4,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 5264,26/09/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"65,80"
-5,Nota Fiscal - Conta de Energia Eletrica 050801999,12/09/2018,Cemig Distribuição S.A.,06981180000116,"53,42"
-6,Fatura Serviços de Saneamento A/518278-93,26/09/2018,Cesama - Companhia de Saneamento Municipal,21572243000174,"50,69"
-7,Documento de Lançamento e Arrecadação do Imposto Predial e Territorial Urbano 033574/002,21/09/2018,Geraldo Laudelino de Castilho,04308381665,"51,97"
-8,Fatura 192,27/09/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"1.500,00"
-9,Danfe - Documento Auxiliar da Nota Fiscal Eletrõnica 5264,26/09/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"102,10"
-10,Nota Fiscal Eletrônica de Serviço NFS-e 201800000000175,25/09/2018,Aloisio Costa Ferreira,02017219000129,"42,00"
-11,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 016673791,27/09/2018,Daniel Vieira Zeferino,22931874000103,"236,00"
-12,Fatura 1700423613986,28/09/2018,Oi Fixo,33000118000179,"203,81"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 21,2018-09-28,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 12379,2018-09-29,Auto Posto Petrogas Ltda,03862967000170,1305.4
+2,RPA - Recibo de Pagamento a Autônomo 22,2018-09-28,Carlos Henrique Bruce João,05036074602,2000.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 1449,2018-09-25,A Carbonaro Agua Mineral,24488698000102,338.0
+4,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 5264,2018-09-26,Ribeiro de Oliveira & Cia Ltda,21562897000117,65.8
+5,Nota Fiscal - Conta de Energia Eletrica 050801999,2018-09-12,Cemig Distribuição S.A.,06981180000116,53.42
+6,Fatura Serviços de Saneamento A/518278-93,2018-09-26,Cesama - Companhia de Saneamento Municipal,21572243000174,50.69
+7,Documento de Lançamento e Arrecadação do Imposto Predial e Territorial Urbano 033574/002,2018-09-21,Geraldo Laudelino de Castilho,04308381665,51.97
+8,Fatura 192,2018-09-27,Estacionamento Salve Jorge Ltda - ME,17509454000195,1500.0
+9,Danfe - Documento Auxiliar da Nota Fiscal Eletrõnica 5264,2018-09-26,Ribeiro de Oliveira & Cia Ltda,21562897000117,102.1
+10,Nota Fiscal Eletrônica de Serviço NFS-e 201800000000175,2018-09-25,Aloisio Costa Ferreira,02017219000129,42.0
+11,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 016673791,2018-09-27,Daniel Vieira Zeferino,22931874000103,236.0
+12,Fatura 1700423613986,2018-09-28,Oi Fixo,33000118000179,203.81

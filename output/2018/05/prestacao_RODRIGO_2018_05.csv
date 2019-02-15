@@ -1,13 +1,13 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Cupom Fiscal 048005,11/05/2018,Posto Universitario de juiz de fora LTDA,10430012000100,"200,00"
-1,DANFE 00008679,30/05/2018,Auto posto Aeroporto LTDA,00587496000141,"367,05"
-2,DANFE 000013918,30/05/2018,Posto Romualdo LTDA,66343930000156,"243,60"
-3,Nota Fiscal de Serviços 201800000000092,29/05/2018,"Alvim Soares, Junqueira e Advogados Associados",03853408000102,"1.500,00"
-4,DANFE 000.001.258,30/05/2018,A Carbonaro Agua Mineral,24488698000102,"104,00"
-5,Danfe 5021,30/05/2018,Ribeiro de Oliveira & Cia LTDA,21562897000117,"144,60"
-6,Nota Fiscal Eletrônica de Serviços-NFS-e 201800000001087,30/05/2018,Real Copias de Juiz de fora,04316977000173,"546,80"
-7,Nota Fiscal de Serviços Eletrônica 201800000001097,30/05/2018,União Artes Graficas LTDA,20741559000180,"350,00"
-8,cupom fiscal 069388,15/05/2018,Teixeiras e Chaves LTDA,21339965001821,"3,00"
-9,Cupom Fiscal 069387,15/05/2018,Teixeira e chaves LTDA,21339965001821,"25,40"
-10,DANFE 5021,30/05/2018,Ribeiro de Oliveira & Cia LTDA,21562897000117,"246,90"
-11,Nota Fiscal de Telecomunicações 1700419157952,30/05/2018,OI FIXO,33000118000179,"249,78"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Cupom Fiscal 048005,2018-05-11,Posto Universitario de juiz de fora LTDA,10430012000100,200.0
+1,DANFE 00008679,2018-05-30,Auto posto Aeroporto LTDA,00587496000141,367.05
+2,DANFE 000013918,2018-05-30,Posto Romualdo LTDA,66343930000156,243.6
+3,Nota Fiscal de Serviços 201800000000092,2018-05-29,"Alvim Soares, Junqueira e Advogados Associados",03853408000102,1500.0
+4,DANFE 000.001.258,2018-05-30,A Carbonaro Agua Mineral,24488698000102,104.0
+5,Danfe 5021,2018-05-30,Ribeiro de Oliveira & Cia LTDA,21562897000117,144.6
+6,Nota Fiscal Eletrônica de Serviços-NFS-e 201800000001087,2018-05-30,Real Copias de Juiz de fora,04316977000173,546.8
+7,Nota Fiscal de Serviços Eletrônica 201800000001097,2018-05-30,União Artes Graficas LTDA,20741559000180,350.0
+8,cupom fiscal 069388,2018-05-15,Teixeiras e Chaves LTDA,21339965001821,3.0
+9,Cupom Fiscal 069387,2018-05-15,Teixeira e chaves LTDA,21339965001821,25.4
+10,DANFE 5021,2018-05-30,Ribeiro de Oliveira & Cia LTDA,21562897000117,246.9
+11,Nota Fiscal de Telecomunicações 1700419157952,2018-05-30,OI FIXO,33000118000179,249.78

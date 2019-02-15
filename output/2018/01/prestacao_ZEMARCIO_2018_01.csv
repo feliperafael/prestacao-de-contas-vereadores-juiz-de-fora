@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 00001866,30/01/2018,Auto Posto Valentina LTDA,17817687000155,"789,92"
-1,Recibo de Pagamento Autonomo 001,31/01/2018,Paulo Sergio Gomes Aroni,52148270672,"2.500,00"
-2,Nota Fiscal Eletronica 000002601,18/01/2018,Perfect Paper Informatica LTDA - ME,19857923000192,"40,20"
-3,Nota Fiscal Eletronica 201800000000936,31/01/2018,Casa do Grafica LTDA,25527805000119,"579,40"
-4,Nota Fiscal Eletronica 000002601,18/01/2018,Perfect Paper Informatica LTDA - ME,19857923000192,"158,60"
-5,Nota Fiscal Eletronica 000002601,18/01/2018,Perfect Paper Informatica LTDA - ME,19857923000192,"88,70"
-6,Nota Fiscal de Serviço de Telecomunicação 1700413241416,31/01/2018,Oi Fixo,33000118000179,"66,56"
-7,Nota Fiscal de Serviços de Telecomunicação 170041473024,31/01/2018,Oi Fixo,33000118000179,"56,70"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 00001866,2018-01-30,Auto Posto Valentina LTDA,17817687000155,789.92
+1,Recibo de Pagamento Autonomo 001,2018-01-31,Paulo Sergio Gomes Aroni,52148270672,2500.0
+2,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,40.2
+3,Nota Fiscal Eletronica 201800000000936,2018-01-31,Casa do Grafica LTDA,25527805000119,579.4
+4,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,158.6
+5,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,88.7
+6,Nota Fiscal de Serviço de Telecomunicação 1700413241416,2018-01-31,Oi Fixo,33000118000179,66.56
+7,Nota Fiscal de Serviços de Telecomunicação 170041473024,2018-01-31,Oi Fixo,33000118000179,56.7

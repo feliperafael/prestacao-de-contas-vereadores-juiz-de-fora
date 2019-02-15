@@ -1,13 +1,13 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,DANFE 5293903,29/05/2017,Infoglobo Comunicações e Partic s/a,60452752002916,"103,90"
-1,DANFE 000012475,31/05/2017,Posto Romualdo LTDA,66343930000156,"968,00"
-2,Nota Fiscal Eletrônica de Serviços 201700000000026,30/05/2017,"Alvim Soares, Junqueira e Advogados Associados",03853408000102,"1.500,00"
-3,DANFE 000.000.674,29/05/2017,A Carbonaro Agua Mineral ME,24488698000102,"104,00"
-4,Nota Fiscal de Serviçõs Eletrônica 201700000000284,31/05/2017,Real Copias de Juiz de Fora LTDA,04316977000173,"351,60"
-5,Nota Fiscal de Serviço Eletrônica 000.011.880,22/05/2017,Thema Veiculos LTDA,21550231000572,"171,33"
-6,DANFE 000.011.880,22/05/2017,Thema Veiculos LTDA,21550231000572,"357,62"
-7,Nota Fiscal de Serviços Eletrônica 2017/320,31/05/2017,União Artes Gráficas LTDA,20741559000180,"600,00"
-8,DANFE 4321,30/05/2017,Ribeiro de Oliveira & Cia LTDA,21562897000117,"387,40"
-9,Comprovante do Cliente 0010,04/05/2017,ECT- EMP.Bras.Correios e Telegrafos,07840632000102,"27,90"
-10,Comprovante do Cliente 0010,26/05/2017,ECT-EMP.Bras.Correois e Telegrafos,07840632000102,"19,70"
-11,Nota Fiscal de Serviços de Telecomunicações 1700403894827,31/05/2017,OI FIXO,33000118000179,"343,80"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,DANFE 5293903,2017-05-29,Infoglobo Comunicações e Partic s/a,60452752002916,103.9
+1,DANFE 000012475,2017-05-31,Posto Romualdo LTDA,66343930000156,968.0
+2,Nota Fiscal Eletrônica de Serviços 201700000000026,2017-05-30,"Alvim Soares, Junqueira e Advogados Associados",03853408000102,1500.0
+3,DANFE 000.000.674,2017-05-29,A Carbonaro Agua Mineral ME,24488698000102,104.0
+4,Nota Fiscal de Serviçõs Eletrônica 201700000000284,2017-05-31,Real Copias de Juiz de Fora LTDA,04316977000173,351.6
+5,Nota Fiscal de Serviço Eletrônica 000.011.880,2017-05-22,Thema Veiculos LTDA,21550231000572,171.33
+6,DANFE 000.011.880,2017-05-22,Thema Veiculos LTDA,21550231000572,357.62
+7,Nota Fiscal de Serviços Eletrônica 2017/320,2017-05-31,União Artes Gráficas LTDA,20741559000180,600.0
+8,DANFE 4321,2017-05-30,Ribeiro de Oliveira & Cia LTDA,21562897000117,387.4
+9,Comprovante do Cliente 0010,2017-05-04,ECT- EMP.Bras.Correios e Telegrafos,07840632000102,27.9
+10,Comprovante do Cliente 0010,2017-05-26,ECT-EMP.Bras.Correois e Telegrafos,07840632000102,19.7
+11,Nota Fiscal de Serviços de Telecomunicações 1700403894827,2017-05-31,OI FIXO,33000118000179,343.8

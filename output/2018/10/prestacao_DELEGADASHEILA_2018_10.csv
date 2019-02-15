@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,danfe 848,30/10/2018,posto centro choferes ltda,21575972000184,"1.457,60"
-1,nfse 201800000000104,10/10/2018,ricardo teixeira de aguiar,66464488000116,"290,00"
-2,nfse 1509,10/10/2018,vizon gestao de negocios empresariais ltda,07979987000187,"586,00"
-3,recibo s/nunero,08/10/2018,movida locaçao de veiculos s/a,07976147020609,"1.441,95"
-4,danfe 5333,26/10/2018,ribeiro de oliveira & cia ltda,21562897000117,"135,00"
-5,danfe 5333,26/10/2018,ribeiro de oliveira & cia ltda,21562897000117,"496,70"
-6,nota fiscal 0321261148,10/10/2018,tefonica brasil s/a,02558157000162,"162,21"
-7,nota fiscal 1700424703821,30/10/2018,oi fixo,33000118000179,"339,66"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,danfe 848,2018-10-30,posto centro choferes ltda,21575972000184,1457.6
+1,nfse 201800000000104,2018-10-10,ricardo teixeira de aguiar,66464488000116,290.0
+2,nfse 1509,2018-10-10,vizon gestao de negocios empresariais ltda,07979987000187,586.0
+3,recibo s/nunero,2018-10-08,movida locaçao de veiculos s/a,07976147020609,1441.95
+4,danfe 5333,2018-10-26,ribeiro de oliveira & cia ltda,21562897000117,135.0
+5,danfe 5333,2018-10-26,ribeiro de oliveira & cia ltda,21562897000117,496.7
+6,nota fiscal 0321261148,2018-10-10,tefonica brasil s/a,02558157000162,162.21
+7,nota fiscal 1700424703821,2018-10-30,oi fixo,33000118000179,339.66

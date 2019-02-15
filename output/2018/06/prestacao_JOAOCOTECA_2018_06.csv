@@ -1,11 +1,11 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 18,29/06/2018,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 11901,22/06/2018,Auto Posto Petrogas Ltda,03862967000170,"1.568,91"
-2,Recibo de Pagamento a Autônomo - RPA 15,21/06/2018,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,Nota Fiscal - Conta de Energia Elétrica 029782796,28/06/2018,Cemig Distribuição S.A.,06981180000116,"38,77"
-4,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000112,14/06/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"300,00"
-5,Fatura de Serviços de Saneamento A/518278-93,28/06/2018,Cesama - Companhia de Saneamento Municipal,21572243000174,"46,49"
-6,Documento de Lançamento e Arrecadação do IPTU e Tx Coleta de Resíduos Sólidos 033574002,11/06/2018,Prefeitura de Juiz de Fora,17783192000152,"51,97"
-7,Fatura 000182,28/06/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"1.500,00"
-8,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 5073,29/06/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"547,60"
-9,Fatura 1700420283987,29/06/2018,Oi Fixo,33000118000179,"163,37"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 18,2018-06-29,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 11901,2018-06-22,Auto Posto Petrogas Ltda,03862967000170,1568.91
+2,Recibo de Pagamento a Autônomo - RPA 15,2018-06-21,Carlos Henrique Bruce João,05036074602,2000.0
+3,Nota Fiscal - Conta de Energia Elétrica 029782796,2018-06-28,Cemig Distribuição S.A.,06981180000116,38.77
+4,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000112,2018-06-14,Estacionamento Salve Jorge Ltda - ME,17509454000195,300.0
+5,Fatura de Serviços de Saneamento A/518278-93,2018-06-28,Cesama - Companhia de Saneamento Municipal,21572243000174,46.49
+6,Documento de Lançamento e Arrecadação do IPTU e Tx Coleta de Resíduos Sólidos 033574002,2018-06-11,Prefeitura de Juiz de Fora,17783192000152,51.97
+7,Fatura 000182,2018-06-28,Estacionamento Salve Jorge Ltda - ME,17509454000195,1500.0
+8,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 5073,2018-06-29,Ribeiro de Oliveira & Cia Ltda,21562897000117,547.6
+9,Fatura 1700420283987,2018-06-29,Oi Fixo,33000118000179,163.37

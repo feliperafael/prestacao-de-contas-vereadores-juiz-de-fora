@@ -1,16 +1,16 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 000020564,03/08/2018,Solar Comunicações S/A,21561725000129,"85,83"
-1,Nota Fiscal Eletronica 00002302,29/08/2018,R.A Ribeiro Combustiveis,12941507000129,"244,85"
-2,Nota Fiscal Eletronica 000014352,29/08/2018,Posto  Rumualdo LTDA,66343930000156,"223,05"
-3,Nota Fiscal Eletronica 000545,30/08/2018,Cencosud Brasil Comercial LTDA,39346861032799,"76,21"
-4,Nota Fiscal Eletronica 00001947,31/08/2018,Chamonix LTDA,20447074000188,"250,00"
-5,Nota Fiscal Eletronica 00006037,31/08/2018,Posto Sete Anões LTDA,09719902000157,"207,77"
-6,Nota Fiscal Eletronica 000000193,31/08/2018,Posto Central LTDA,21549407000142,"50,00"
-7,Nota Fiscal Eletronica de Serviço 201800000000037,30/08/2018,Aristedes Ribeiro Advogados Associados S/C,04504649000109,"3.000,00"
-8,Nota Fiscal Eletronica 47,30/08/2018,Papelaria Tetheo,07403078000104,"31,50"
-9,Nota Fiscal Eletronica de Serviço 201800000000119,27/08/2018,J e M Grafica e Editora LTDA,18250169000165,"150,00"
-10,Nota Fiscal Eletronica 47,30/08/2018,Papelaria Tetheo,07403078000104,"39,80"
-11,Nota Fiscal Eletronica 22379,02/08/2018,Lojas Americanas S.A,33014556001249,"359,00"
-12,Nota Fiscal Eletronica de Serviço 201800000000148,28/08/2018,Aloisio Costa Ferreira,02017219000129,"45,00"
-13,Nota Fiscal de Serviço de Telecomunicação 0304814216,03/08/2018,Vivo,02558157000162,"416,02"
-14,Nota Fiscal Eletronica de Serviços de Telecomunicações 1700422515815,30/08/2018,Oi Fixo,33000118000179,"131,39"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 000020564,2018-08-03,Solar Comunicações S/A,21561725000129,85.83
+1,Nota Fiscal Eletronica 00002302,2018-08-29,R.A Ribeiro Combustiveis,12941507000129,244.85
+2,Nota Fiscal Eletronica 000014352,2018-08-29,Posto  Rumualdo LTDA,66343930000156,223.05
+3,Nota Fiscal Eletronica 000545,2018-08-30,Cencosud Brasil Comercial LTDA,39346861032799,76.21
+4,Nota Fiscal Eletronica 00001947,2018-08-31,Chamonix LTDA,20447074000188,250.0
+5,Nota Fiscal Eletronica 00006037,2018-08-31,Posto Sete Anões LTDA,09719902000157,207.77
+6,Nota Fiscal Eletronica 000000193,2018-08-31,Posto Central LTDA,21549407000142,50.0
+7,Nota Fiscal Eletronica de Serviço 201800000000037,2018-08-30,Aristedes Ribeiro Advogados Associados S/C,04504649000109,3000.0
+8,Nota Fiscal Eletronica 47,2018-08-30,Papelaria Tetheo,07403078000104,31.5
+9,Nota Fiscal Eletronica de Serviço 201800000000119,2018-08-27,J e M Grafica e Editora LTDA,18250169000165,150.0
+10,Nota Fiscal Eletronica 47,2018-08-30,Papelaria Tetheo,07403078000104,39.8
+11,Nota Fiscal Eletronica 22379,2018-08-02,Lojas Americanas S.A,33014556001249,359.0
+12,Nota Fiscal Eletronica de Serviço 201800000000148,2018-08-28,Aloisio Costa Ferreira,02017219000129,45.0
+13,Nota Fiscal de Serviço de Telecomunicação 0304814216,2018-08-03,Vivo,02558157000162,416.02
+14,Nota Fiscal Eletronica de Serviços de Telecomunicações 1700422515815,2018-08-30,Oi Fixo,33000118000179,131.39

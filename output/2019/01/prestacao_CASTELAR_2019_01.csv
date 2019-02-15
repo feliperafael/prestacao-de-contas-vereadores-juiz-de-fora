@@ -1,19 +1,19 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 001/2019,22/01/2019,Vandenilce da Mata,71981276653,"500,00"
-1,Cupom Fiscal 254551,11/01/2019,Posto Chaminé,02298613000182,"20,00"
-2,Cupom Fiscal 255422,14/01/2019,Posto Chaminé,02298613000182,"20,00"
-3,Cupom Fiscal 256366,17/01/2019,Posto Chaminé,02298613000182,"20,00"
-4,Documento Auxiliar da Nota Fiscal Eletrônica 000000780,28/01/2019,Posto de Gasolina Fox,18898724000160,"465,12"
-5,DANFE 00004297,30/01/2019,POSTO CHAMINÉ,02298613000182,"210,08"
-6,Recibo de Pagamento a Autônomo 001,25/01/2019,LUIGI GOMES PEREIRA MARTINS,09905141618,"3.000,00"
-7,Nota fiscal de serviços NFS-e 201900000000026,28/01/2019,Guilherme Leão Sociedade Individual de Advocacia,24655350000154,"1.500,00"
-8,Documento Auxiliar da Nota Fical Eletrônica - DANFE 5504,28/01/2019,Ribeiro de Oliveira & Cia Ltda,21562897000117,"13,20"
-9,Nota Fiscal Eletrônica de Serviços 201900000000636,28/01/2019,Auto Evolução Serviços e Peças Automotivas,14492973000108,"690,00"
-10,Fatura de Fornecimento de Energia Elétrica 3007111079,29/01/2019,Companhia Energetica de Minas Gerais - CEMIG,17155730000164,"56,57"
-11,Fatura de Fornecimento de Água E/150030-26,29/01/2019,Companhia de Saneamento Municipal,21572243000174,"54,89"
-12,Documento Auxiliar da Nota Fical Eletrônica 5504,28/01/2019,Ribeiro de Oliveira & Cia Ltda,21562897000117,"446,70"
-13,Documento Auxiliar da Nota Fiscal Eletônica 5504,28/01/2019,Ribeiro de Oliveira & Cia Ltda,21562897000117,"39,90"
-14,Nota Fiscal de Serviços de Telecomunicações 93118612,29/01/2019,OI,33000118000179,"103,96"
-15,Nota Fiscal de Serviços de Telecomunicações 93118612,29/01/2019,OI,33000118000179,"142,09"
-16,Nota Fiscal de Serviços de Telecomunicações 1700427876863,29/01/2019,OI FIXO,33000118000179,"86,00"
-17,Nota Fiscal de Serviços de Telecomunicações 1700426832955,29/01/2019,OI FIXO,33000118000179,"98,23"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 001/2019,2019-01-22,Vandenilce da Mata,71981276653,500.0
+1,Cupom Fiscal 254551,2019-01-11,Posto Chaminé,02298613000182,20.0
+2,Cupom Fiscal 255422,2019-01-14,Posto Chaminé,02298613000182,20.0
+3,Cupom Fiscal 256366,2019-01-17,Posto Chaminé,02298613000182,20.0
+4,Documento Auxiliar da Nota Fiscal Eletrônica 000000780,2019-01-28,Posto de Gasolina Fox,18898724000160,465.12
+5,DANFE 00004297,2019-01-30,POSTO CHAMINÉ,02298613000182,210.08
+6,Recibo de Pagamento a Autônomo 001,2019-01-25,LUIGI GOMES PEREIRA MARTINS,09905141618,3000.0
+7,Nota fiscal de serviços NFS-e 201900000000026,2019-01-28,Guilherme Leão Sociedade Individual de Advocacia,24655350000154,1500.0
+8,Documento Auxiliar da Nota Fical Eletrônica - DANFE 5504,2019-01-28,Ribeiro de Oliveira & Cia Ltda,21562897000117,13.2
+9,Nota Fiscal Eletrônica de Serviços 201900000000636,2019-01-28,Auto Evolução Serviços e Peças Automotivas,14492973000108,690.0
+10,Fatura de Fornecimento de Energia Elétrica 3007111079,2019-01-29,Companhia Energetica de Minas Gerais - CEMIG,17155730000164,56.57
+11,Fatura de Fornecimento de Água E/150030-26,2019-01-29,Companhia de Saneamento Municipal,21572243000174,54.89
+12,Documento Auxiliar da Nota Fical Eletrônica 5504,2019-01-28,Ribeiro de Oliveira & Cia Ltda,21562897000117,446.7
+13,Documento Auxiliar da Nota Fiscal Eletônica 5504,2019-01-28,Ribeiro de Oliveira & Cia Ltda,21562897000117,39.9
+14,Nota Fiscal de Serviços de Telecomunicações 93118612,2019-01-29,OI,33000118000179,103.96
+15,Nota Fiscal de Serviços de Telecomunicações 93118612,2019-01-29,OI,33000118000179,142.09
+16,Nota Fiscal de Serviços de Telecomunicações 1700427876863,2019-01-29,OI FIXO,33000118000179,86.0
+17,Nota Fiscal de Serviços de Telecomunicações 1700426832955,2019-01-29,OI FIXO,33000118000179,98.23

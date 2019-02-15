@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 00001730,29/09/2017,Auto Posto Valentina LTDA,17817687000155,"1.075,05"
-1,Recibo de Pagamento Autonomo 009,29/09/2017,Danielle Barros Possa,90798783672,"3.200,00"
-2,Nota Fiscal Eletronica 000002023,26/09/2017,Perfect Paper Informatica LTDA - ME,19857923000192,"52,63"
-3,Nota Fiscal Eletronica 201700000000661,29/09/2017,Casa do Grafico LTDA,25527805000119,"811,35"
-4,Nota Fiscal Eletronica 000.001.742,29/09/2017,J JR Comercio e Transportes Eireli,20436655000386,"704,00"
-5,Nota Fiscal Eletronica 201700000000774,29/09/2017,J JR Comercio e Transporte Eireli,20436655000386,"40,00"
-6,Nota Fiscal Eletronica 000002023,26/09/2017,Perfect Paper Informatica LTDA-ME,19857923000192,"270,20"
-7,Nota Fiscal de Serviços de Telecomunicações 1700409330654,29/09/2017,Oi Fixo,33000118000179,"69,93"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 00001730,2017-09-29,Auto Posto Valentina LTDA,17817687000155,1075.05
+1,Recibo de Pagamento Autonomo 009,2017-09-29,Danielle Barros Possa,90798783672,3200.0
+2,Nota Fiscal Eletronica 000002023,2017-09-26,Perfect Paper Informatica LTDA - ME,19857923000192,52.63
+3,Nota Fiscal Eletronica 201700000000661,2017-09-29,Casa do Grafico LTDA,25527805000119,811.35
+4,Nota Fiscal Eletronica 000.001.742,2017-09-29,J JR Comercio e Transportes Eireli,20436655000386,704.0
+5,Nota Fiscal Eletronica 201700000000774,2017-09-29,J JR Comercio e Transporte Eireli,20436655000386,40.0
+6,Nota Fiscal Eletronica 000002023,2017-09-26,Perfect Paper Informatica LTDA-ME,19857923000192,270.2
+7,Nota Fiscal de Serviços de Telecomunicações 1700409330654,2017-09-29,Oi Fixo,33000118000179,69.93

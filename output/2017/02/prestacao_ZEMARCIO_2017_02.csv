@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 00001459,23/02/2017,Auto Posto Valentina LTDA,17817687000155,"1.205,58"
-1,Recibo de Pagamento Autonomo 002,24/02/2017,Danielle Barros Possa,90798783672,"2.000,00"
-2,Nota Fiscal Eletronica 0000002897,24/02/2017,Papelaria Fazza Ltda - ME - Anapel,01953452000150,"44,70"
-3,Nota Fiscal Eletronica 2017/119,21/02/2017,Casa do Grafico LTDA,25527805000119,"520,10"
-4,Nota Fiscal Eletronica 2017.00000000069,24/02/2017,W. Collor Editora Grafica LTDA,05033125000131,"1.200,00"
-5,Nota Fiscal Eletronica 0000002897,24/02/2017,Papelaria Fazza Ltda - ME - Anapel,01953452000150,"190,40"
-6,Nota Fiscal Eletronica 000022210,03/02/2017,Perfect Print Rec. E Informatica LTDA,11149140000142,"150,00"
-7,Nota Fiscal Serviço de Telecomunicação 100300667233,24/02/2017,Oi Fixo,33000118000179,"237,32"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 00001459,2017-02-23,Auto Posto Valentina LTDA,17817687000155,1205.58
+1,Recibo de Pagamento Autonomo 002,2017-02-24,Danielle Barros Possa,90798783672,2000.0
+2,Nota Fiscal Eletronica 0000002897,2017-02-24,Papelaria Fazza Ltda - ME - Anapel,01953452000150,44.7
+3,Nota Fiscal Eletronica 2017/119,2017-02-21,Casa do Grafico LTDA,25527805000119,520.1
+4,Nota Fiscal Eletronica 2017.00000000069,2017-02-24,W. Collor Editora Grafica LTDA,05033125000131,1200.0
+5,Nota Fiscal Eletronica 0000002897,2017-02-24,Papelaria Fazza Ltda - ME - Anapel,01953452000150,190.4
+6,Nota Fiscal Eletronica 000022210,2017-02-03,Perfect Print Rec. E Informatica LTDA,11149140000142,150.0
+7,Nota Fiscal Serviço de Telecomunicação 100300667233,2017-02-24,Oi Fixo,33000118000179,237.32

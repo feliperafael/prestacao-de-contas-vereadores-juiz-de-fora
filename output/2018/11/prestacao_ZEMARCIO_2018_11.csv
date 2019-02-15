@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal 00002176,30/11/2018,Auto Posto Valentina,17817687000155,"1.109,31"
-1,Nota Fiscal Eletrônica 201800000000812,27/11/2018,Ato Interativo Ltda,07793203000121,"1.900,00"
-2,Recibo de Pagamento Autônomo 11,30/11/2018,Paulo Sérgio Gomes Aroni,52148270672,"1.500,00"
-3,Nota Fiscal 000003762,27/11/2018,Perfect Paper Informática Ltda,19857923000192,"20,85"
-4,Recibo 7020894,21/11/2018,Movida Aluguel de Carros,07976147020609,"1.419,84"
-5,Nota Fiscal 000003762,27/11/2018,Perfect Paper Informática Ltda.,19857923000192,"57,50"
-6,Nota Fiscal 000003762,27/11/2018,Perfect Paper Informática Ltda,19857923000192,"65,00"
-7,Nota Fiscal de Serviço de Telecomunicação 1700425769980,30/11/2018,OI FIXO,33000118000179,"49,67"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal 00002176,2018-11-30,Auto Posto Valentina,17817687000155,1109.31
+1,Nota Fiscal Eletrônica 201800000000812,2018-11-27,Ato Interativo Ltda,07793203000121,1900.0
+2,Recibo de Pagamento Autônomo 11,2018-11-30,Paulo Sérgio Gomes Aroni,52148270672,1500.0
+3,Nota Fiscal 000003762,2018-11-27,Perfect Paper Informática Ltda,19857923000192,20.85
+4,Recibo 7020894,2018-11-21,Movida Aluguel de Carros,07976147020609,1419.84
+5,Nota Fiscal 000003762,2018-11-27,Perfect Paper Informática Ltda.,19857923000192,57.5
+6,Nota Fiscal 000003762,2018-11-27,Perfect Paper Informática Ltda,19857923000192,65.0
+7,Nota Fiscal de Serviço de Telecomunicação 1700425769980,2018-11-30,OI FIXO,33000118000179,49.67

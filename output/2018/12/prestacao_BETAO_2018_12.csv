@@ -1,13 +1,13 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal de Serviços de Telecomunicações 0734687847-0,13/12/2018,Telefônica Brasil S/A.,02558157000162,"144,99"
-1,Cobrança Bancária Caixa 051,13/12/2018,Condomínio do Edifícil Sulacap,26128371000147,"950,00"
-2,Nota Fiscal Eletrônica 14908,17/12/2018,Posto Romualdo Ltda.,66343930000156,"1.572,96"
-3,Nota Fiscal Eletrônica 1636,12/12/2018,A Carbonaro Agua Mineral,24488698000102,"24,00"
-4,Nota Fiscal Eletrônica 5423,13/12/2018,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"35,20"
-5,Nota Fiscal - Conta de Energia Elétrica 077832723,13/12/2018,Cemig Distribuição S.A.,06981180000116,"100,38"
-6,Recibo S/Nº,14/12/2018,Condomínio Parking Saggioro,20439212000187,"370,00"
-7,Fatura de Locação 000021,14/12/2018,Empreiteira Transtech T&D Ltda.- ME,14496365000163,"1.800,00"
-8,Nota Fiscal Eletrônica 5423,13/12/2018,Ribeiro de Oliveira & Cia. Ltda,21562897000117,"72,10"
-9,Nota Fiscal Eletrônica 5423,13/12/2018,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,"64,80"
-10,Nota Fiscal de Serviços de Telecomunicações 0237757587,13/12/2018,"Telefônica Brasil S.A.,",02558157000162,"289,99"
-11,Nota Fiscal de Serviços de Telecomunicação 1811295280179,13/12/2018,Claro S/A.,40432544011262,"35,57"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal de Serviços de Telecomunicações 0734687847-0,2018-12-13,Telefônica Brasil S/A.,02558157000162,144.99
+1,Cobrança Bancária Caixa 051,2018-12-13,Condomínio do Edifícil Sulacap,26128371000147,950.0
+2,Nota Fiscal Eletrônica 14908,2018-12-17,Posto Romualdo Ltda.,66343930000156,1572.96
+3,Nota Fiscal Eletrônica 1636,2018-12-12,A Carbonaro Agua Mineral,24488698000102,24.0
+4,Nota Fiscal Eletrônica 5423,2018-12-13,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,35.2
+5,Nota Fiscal - Conta de Energia Elétrica 077832723,2018-12-13,Cemig Distribuição S.A.,06981180000116,100.38
+6,Recibo S/Nº,2018-12-14,Condomínio Parking Saggioro,20439212000187,370.0
+7,Fatura de Locação 000021,2018-12-14,Empreiteira Transtech T&D Ltda.- ME,14496365000163,1800.0
+8,Nota Fiscal Eletrônica 5423,2018-12-13,Ribeiro de Oliveira & Cia. Ltda,21562897000117,72.1
+9,Nota Fiscal Eletrônica 5423,2018-12-13,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,64.8
+10,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-12-13,"Telefônica Brasil S.A.,",02558157000162,289.99
+11,Nota Fiscal de Serviços de Telecomunicação 1811295280179,2018-12-13,Claro S/A.,40432544011262,35.57

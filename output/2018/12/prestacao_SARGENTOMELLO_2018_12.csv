@@ -1,17 +1,17 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 011,01/12/2018,Leonardo Gudziki Hábel,62819313604,"800,00"
-1,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 00006448,20/12/2018,Papagaio Comercio e Derivados de PetroleonLtda,10515414000107,"1.050,21"
-2,Recibo Pagamento 12/2018,10/12/2018,Condominio do Edificio Top Center,20439162000138,"240,00"
-3,DANFE- Documento Auxiliar da Nota Eletronica 000-001-635,12/12/2018,A Carbonaro Agua Mineral,24488698000102,"38,00"
-4,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 5437,19/12/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"11,70"
-5,Damfe-Documento Auxiliar da Nota Fiscal Eletrônica 00006448,20/12/2018,Papagaio Com e Derivados de Pet Roleo Ltda,10515414000107,"12,00"
-6,Nota Fiscal 070511497,10/12/2018,Cemig,06981180000116,"49,86"
-7,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000113,06/12/2018,Ricardo Teixeira de Aguiar,66464488000116,"290,00"
-8,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000063,18/12/2018,Wander Luiz de Souza Senra,19371304000193,"400,00"
-9,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000446,19/12/2018,Ambiente Comunicação Ltda,09662777000196,"750,00"
-10,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 5437,19/12/2018,Ribeiro de Oliveira & Cia Ltda,21562897000117,"136,70"
-11,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000290,18/12/2018,Interurb Serviços Postais ltda,42933416000102,"667,07"
-12,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000093,21/12/2018,Onofre de Matos Guedes,26632032000101,"350,00"
-13,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000095,21/12/2018,Onofre de Matos Guedes,26632032000101,"700,00"
-14,Fatura 0313572750,19/12/2018,Operadora Vivo,02558157000910,"326,18"
-15,Fatura 0734819833-0,13/12/2018,Operadora Vivo,02558157000162,"154,98"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 011,2018-12-01,Leonardo Gudziki Hábel,62819313604,800.0
+1,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 00006448,2018-12-20,Papagaio Comercio e Derivados de PetroleonLtda,10515414000107,1050.21
+2,Recibo Pagamento 12/2018,2018-12-10,Condominio do Edificio Top Center,20439162000138,240.0
+3,DANFE- Documento Auxiliar da Nota Eletronica 000-001-635,2018-12-12,A Carbonaro Agua Mineral,24488698000102,38.0
+4,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 5437,2018-12-19,Ribeiro de Oliveira & Cia Ltda,21562897000117,11.7
+5,Damfe-Documento Auxiliar da Nota Fiscal Eletrônica 00006448,2018-12-20,Papagaio Com e Derivados de Pet Roleo Ltda,10515414000107,12.0
+6,Nota Fiscal 070511497,2018-12-10,Cemig,06981180000116,49.86
+7,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000113,2018-12-06,Ricardo Teixeira de Aguiar,66464488000116,290.0
+8,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000063,2018-12-18,Wander Luiz de Souza Senra,19371304000193,400.0
+9,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000446,2018-12-19,Ambiente Comunicação Ltda,09662777000196,750.0
+10,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 5437,2018-12-19,Ribeiro de Oliveira & Cia Ltda,21562897000117,136.7
+11,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000290,2018-12-18,Interurb Serviços Postais ltda,42933416000102,667.07
+12,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000093,2018-12-21,Onofre de Matos Guedes,26632032000101,350.0
+13,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000095,2018-12-21,Onofre de Matos Guedes,26632032000101,700.0
+14,Fatura 0313572750,2018-12-19,Operadora Vivo,02558157000910,326.18
+15,Fatura 0734819833-0,2018-12-13,Operadora Vivo,02558157000162,154.98

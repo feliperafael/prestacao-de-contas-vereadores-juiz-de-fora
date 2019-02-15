@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,danfe 776,29/09/2017,posto centro choferes ltda,21575972000184,"2.096,55"
-1,rpa 007,28/09/2017,maria tereza lamego genevam,10147971608,"2.000,00"
-2,danfe 000000114,20/09/2017,gsm baterias ltda,22465186000197,"310,00"
-3,nfs-e 201700000000050,01/09/2017,ricardo teixeira de aguiar,66464488000116,"260,00"
-4,nfse 1320,12/09/2017,vizion gestao de negocios empresariais ltda epp,07979987000187,"586,00"
-5,recibo S/N,04/09/2017,movida locaçao de veiculos s/a,07976147020609,"1.466,96"
-6,danfe 4537,26/09/2017,ribeiro de oliveira & cia ltda,21562897000117,"115,00"
-7,nota fiscal 1700409330654,28/09/2017,oi fixo,33000118000179,"564,17"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,danfe 776,2017-09-29,posto centro choferes ltda,21575972000184,2096.55
+1,rpa 007,2017-09-28,maria tereza lamego genevam,10147971608,2000.0
+2,danfe 000000114,2017-09-20,gsm baterias ltda,22465186000197,310.0
+3,nfs-e 201700000000050,2017-09-01,ricardo teixeira de aguiar,66464488000116,260.0
+4,nfse 1320,2017-09-12,vizion gestao de negocios empresariais ltda epp,07979987000187,586.0
+5,recibo S/N,2017-09-04,movida locaçao de veiculos s/a,07976147020609,1466.96
+6,danfe 4537,2017-09-26,ribeiro de oliveira & cia ltda,21562897000117,115.0
+7,nota fiscal 1700409330654,2017-09-28,oi fixo,33000118000179,564.17

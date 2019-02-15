@@ -1,8 +1,8 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 00001766,27/10/2017,Auto Posto Valentina LTDA,17817687000155,"912,16"
-1,Recibo de Pagamento Autonomo 010,27/10/2017,Danielle Barros Possa,90798783672,"3.200,00"
-2,Nota Fiscal Eletronica 000002190,24/10/2017,Perfect Paper Informatica LTDA - ME,19857923000192,"20,10"
-3,Nota Fiscal Eletronica 201700000000721,27/10/2017,Casa do Grafico LTDA,25527805000119,"737,50"
-4,Nota Fiscal Eletronica 000002190,24/10/2017,Perfect Paper Informática LTDA - ME,19857923000192,"128,10"
-5,Nota Fiscal Eletrônica 000002190,24/10/2017,Perfect Paper Informática LTDA - ME,19857923000192,"19,90"
-6,Nota Fiscal de Serviços de Telecomunicações 1700410705412,31/10/2017,Oi Fixo,33000118000179,"56,32"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 00001766,2017-10-27,Auto Posto Valentina LTDA,17817687000155,912.16
+1,Recibo de Pagamento Autonomo 010,2017-10-27,Danielle Barros Possa,90798783672,3200.0
+2,Nota Fiscal Eletronica 000002190,2017-10-24,Perfect Paper Informatica LTDA - ME,19857923000192,20.1
+3,Nota Fiscal Eletronica 201700000000721,2017-10-27,Casa do Grafico LTDA,25527805000119,737.5
+4,Nota Fiscal Eletronica 000002190,2017-10-24,Perfect Paper Informática LTDA - ME,19857923000192,128.1
+5,Nota Fiscal Eletrônica 000002190,2017-10-24,Perfect Paper Informática LTDA - ME,19857923000192,19.9
+6,Nota Fiscal de Serviços de Telecomunicações 1700410705412,2017-10-31,Oi Fixo,33000118000179,56.32

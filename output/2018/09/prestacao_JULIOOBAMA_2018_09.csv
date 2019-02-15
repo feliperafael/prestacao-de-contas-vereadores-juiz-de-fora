@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal de Comunicações Modelo 21 1255184,14/09/2018,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,"26,76"
-1,Recibo/Fatura Numerada 000622389,14/09/2018,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,"40,14"
-2,Recibo do Sacado 63117,26/09/2018,Diretrans Ltda,19490812000190,"720,00"
-3,DANFE 00004157,28/09/2018,Auto Posto Bandeirantes LTDA,21058508000110,"540,00"
-4,Recibo do Pagador 14000000001084315-4,11/09/2018,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,"274,42"
-5,Recibo de Pagamento a Autônomo 22,28/09/2018,Elaine Araújo Gonzaga,05499740674,"1.600,00"
-6,Nota Fiscal Eletrônica de Serviço 201800000000201,17/09/2018,Gráfica e Copiadora Ferreira Rodrigues Ltda,13045649000170,"82,10"
-7,Nota Fiscal 056004441,25/09/2018,Cemig Distribuição S.A.,06981180000116,"48,23"
-8,Fatura 000193,27/09/2018,Estacionamento Salve Jorge Ltda.- ME,17509454000195,"2.300,00"
-9,Cupom Fiscal 031204,25/09/2018,Parco Papelaria Ltda,05214053001109,"25,55"
-10,Cupom Fiscal 031205,25/09/2018,Parco Papelaria LTDA,05214053001109,"89,00"
-11,Cupom Fiscal 031206,25/09/2018,Parco Papelaria LTDA,05214053001109,"48,67"
-12,Fatura 1700423613986,28/09/2018,Oi Fixo,33000118000179,"258,27"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal de Comunicações Modelo 21 1255184,2018-09-14,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
+1,Recibo/Fatura Numerada 000622389,2018-09-14,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
+2,Recibo do Sacado 63117,2018-09-26,Diretrans Ltda,19490812000190,720.0
+3,DANFE 00004157,2018-09-28,Auto Posto Bandeirantes LTDA,21058508000110,540.0
+4,Recibo do Pagador 14000000001084315-4,2018-09-11,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,274.42
+5,Recibo de Pagamento a Autônomo 22,2018-09-28,Elaine Araújo Gonzaga,05499740674,1600.0
+6,Nota Fiscal Eletrônica de Serviço 201800000000201,2018-09-17,Gráfica e Copiadora Ferreira Rodrigues Ltda,13045649000170,82.1
+7,Nota Fiscal 056004441,2018-09-25,Cemig Distribuição S.A.,06981180000116,48.23
+8,Fatura 000193,2018-09-27,Estacionamento Salve Jorge Ltda.- ME,17509454000195,2300.0
+9,Cupom Fiscal 031204,2018-09-25,Parco Papelaria Ltda,05214053001109,25.55
+10,Cupom Fiscal 031205,2018-09-25,Parco Papelaria LTDA,05214053001109,89.0
+11,Cupom Fiscal 031206,2018-09-25,Parco Papelaria LTDA,05214053001109,48.67
+12,Fatura 1700423613986,2018-09-28,Oi Fixo,33000118000179,258.27

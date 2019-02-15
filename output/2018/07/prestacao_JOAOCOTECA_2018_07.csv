@@ -1,11 +1,11 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 19,31/07/2018,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 00012060,25/07/2018,Auto Posto Petrogas Ltda,03862967000170,"1.342,41"
-2,Recibo de Pagamento A Autônomo - RPA 17,24/07/2018,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,Nota Fiscal - Conta de Energia Elétrica 036608255,30/07/2018,Cemig Distribuição S.A.,06981180000116,"44,23"
-4,Nota Fiscal Eletrônica de Serviço - NFS - e 201800000000118,26/07/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"300,00"
-5,Fatura de Serviços de Saneamento A/518278-93,30/07/2018,Cesama - Companhia de Saneamento Municipal,21572243000174,"46,49"
-6,Documento de Lançamento e Arrecadação do IPTU e Tx Coleta de Residuos Sólidos 033574002,09/07/2018,Prefeitura de Juiz de Fora,17783192000152,"51,97"
-7,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000070,31/07/2018,Grafica São Pedro Ltda,10408122000175,"900,00"
-8,Fatura 184,26/07/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"1.500,00"
-9,Fatura 1700421406453,31/07/2018,Oi Fixo,33000118000179,"403,17"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 19,2018-07-31,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 00012060,2018-07-25,Auto Posto Petrogas Ltda,03862967000170,1342.41
+2,Recibo de Pagamento A Autônomo - RPA 17,2018-07-24,Carlos Henrique Bruce João,05036074602,2000.0
+3,Nota Fiscal - Conta de Energia Elétrica 036608255,2018-07-30,Cemig Distribuição S.A.,06981180000116,44.23
+4,Nota Fiscal Eletrônica de Serviço - NFS - e 201800000000118,2018-07-26,Estacionamento Salve Jorge Ltda - ME,17509454000195,300.0
+5,Fatura de Serviços de Saneamento A/518278-93,2018-07-30,Cesama - Companhia de Saneamento Municipal,21572243000174,46.49
+6,Documento de Lançamento e Arrecadação do IPTU e Tx Coleta de Residuos Sólidos 033574002,2018-07-09,Prefeitura de Juiz de Fora,17783192000152,51.97
+7,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000070,2018-07-31,Grafica São Pedro Ltda,10408122000175,900.0
+8,Fatura 184,2018-07-26,Estacionamento Salve Jorge Ltda - ME,17509454000195,1500.0
+9,Fatura 1700421406453,2018-07-31,Oi Fixo,33000118000179,403.17

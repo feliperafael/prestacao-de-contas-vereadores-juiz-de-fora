@@ -1,14 +1,14 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo 03,30/03/2017,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 9859,28/03/2017,Auto Posto Petrogas LTDA,03862967000170,"510,10"
-2,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 572,21/03/2017,Carbonaro Agua Mineral - ME,24488698000102,"240,00"
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4222,30/03/2017,Ribeiro de Oliveira  & Cia LTDA,21562897000117,"10,70"
-4,Nota Fiscal de Serviços Eletronica 2017/18,28/03/2017,Estacionamento Salve Jorge - LTDA - ME,17509454000195,"300,00"
-5,Fatura A/518278-93,28/03/2017,Cesama,21572243000174,"51,25"
-6,Nota Fiscal de Serviços Eletronica 2017/11,30/03/2017,Grafica São Pedro LTDA,10408122000175,"445,00"
-7,Fatura 115,28/03/2017,Estacionamento Salve Jorge - LTDA -ME,17509454000195,"1.800,00"
-8,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4193,20/03/2017,Ribeiro de Oliveira & Cia LTDA,21562897000117,"299,40"
-9,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4222,30/03/2017,Ribeiro de Oliverira & Cia LTDA,21562897000117,"124,80"
-10,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 1863,16/03/2017,Info Toner,02017219000129,"55,00"
-11,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 1333,28/03/2017,Jf Escrita Artigos Para Escritório LTDA,07316990000110,"427,20"
-12,Fatura 1700401096287,30/03/2017,Oi Fixo,33000118000179,"286,21"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo 03,2017-03-30,Geraldo Laudelino de Castilho,04308381665,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 9859,2017-03-28,Auto Posto Petrogas LTDA,03862967000170,510.1
+2,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 572,2017-03-21,Carbonaro Agua Mineral - ME,24488698000102,240.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4222,2017-03-30,Ribeiro de Oliveira  & Cia LTDA,21562897000117,10.7
+4,Nota Fiscal de Serviços Eletronica 2017/18,2017-03-28,Estacionamento Salve Jorge - LTDA - ME,17509454000195,300.0
+5,Fatura A/518278-93,2017-03-28,Cesama,21572243000174,51.25
+6,Nota Fiscal de Serviços Eletronica 2017/11,2017-03-30,Grafica São Pedro LTDA,10408122000175,445.0
+7,Fatura 115,2017-03-28,Estacionamento Salve Jorge - LTDA -ME,17509454000195,1800.0
+8,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4193,2017-03-20,Ribeiro de Oliveira & Cia LTDA,21562897000117,299.4
+9,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4222,2017-03-30,Ribeiro de Oliverira & Cia LTDA,21562897000117,124.8
+10,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 1863,2017-03-16,Info Toner,02017219000129,55.0
+11,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 1333,2017-03-28,Jf Escrita Artigos Para Escritório LTDA,07316990000110,427.2
+12,Fatura 1700401096287,2017-03-30,Oi Fixo,33000118000179,286.21

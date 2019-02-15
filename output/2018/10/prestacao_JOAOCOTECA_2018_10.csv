@@ -1,12 +1,12 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Recibo de Aluguel 22,31/10/2018,Geraldo Laudelino de Castilho,04308381665,"600,00"
-1,DANFE - Documento Auxiliar da Nota Fiscal Eletônica 12520,25/10/2018,Auto Posto Pertrogás Ltda,03862967000170,"1.101,59"
-2,RPA - Recibo de Pagamento a Autônomo 23,30/10/2018,Carlos Henrique Bruce João,05036074602,"2.000,00"
-3,Nota Fiscal - Conta de Energia Elétrica 058035075,29/10/2018,Cemig Distribuição S.A.,06981180000116,"50,12"
-4,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000127,02/10/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"300,00"
-5,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000130,25/10/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"300,00"
-6,Fatura de Serviços de Saneamento A/51827893,29/10/2018,CESAMA - Companhia de Saneamento Municipal,21572243000174,"50,69"
-7,Documento de Lançamento de Arrecadação do IPTU e TX Coleta de Residuos Solidos 033574002,10/10/2018,Prefeitura de Juiz de Fora,17783192000152,"51,97"
-8,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000161,31/10/2018,I9 Comunicação Visual Ltda,13037412000148,"760,00"
-9,Fatura 000196,25/10/2018,Estacionamento Salve Jorge Ltda - ME,17509454000195,"1.500,00"
-10,Fatura 1700424703821,31/10/2018,Oi Fixo,33000118000179,"378,91"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Recibo de Aluguel 22,2018-10-31,Geraldo Laudelino de Castilho,04308381665,600.0
+1,DANFE - Documento Auxiliar da Nota Fiscal Eletônica 12520,2018-10-25,Auto Posto Pertrogás Ltda,03862967000170,1101.59
+2,RPA - Recibo de Pagamento a Autônomo 23,2018-10-30,Carlos Henrique Bruce João,05036074602,2000.0
+3,Nota Fiscal - Conta de Energia Elétrica 058035075,2018-10-29,Cemig Distribuição S.A.,06981180000116,50.12
+4,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000127,2018-10-02,Estacionamento Salve Jorge Ltda - ME,17509454000195,300.0
+5,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000130,2018-10-25,Estacionamento Salve Jorge Ltda - ME,17509454000195,300.0
+6,Fatura de Serviços de Saneamento A/51827893,2018-10-29,CESAMA - Companhia de Saneamento Municipal,21572243000174,50.69
+7,Documento de Lançamento de Arrecadação do IPTU e TX Coleta de Residuos Solidos 033574002,2018-10-10,Prefeitura de Juiz de Fora,17783192000152,51.97
+8,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000161,2018-10-31,I9 Comunicação Visual Ltda,13037412000148,760.0
+9,Fatura 000196,2018-10-25,Estacionamento Salve Jorge Ltda - ME,17509454000195,1500.0
+10,Fatura 1700424703821,2018-10-31,Oi Fixo,33000118000179,378.91

@@ -1,9 +1,9 @@
-,Documento,Data Emissão,Emitente,CPF/CNPJ,Valor
-0,Nota Fiscal Eletronica 0751,29/05/2017,Posto Centro Choferes LTDA,21575972000184,"714,64"
-1,Nota Fiscal Eletronica 1659,29/05/2017,Chamonix LTDA,20447074000188,"100,00"
-2,Nota Fiscal Eletronica de Serviços 201700000000008,31/05/2017,Aristides Ribeiro Advogados Associados S/C,04504649000109,"3.000,00"
-3,Nota Fiscal Eletronica 0263,16/05/2017,Pneus ErodasLTDA- Pneus e Rodas LTDA,10527405000136,"640,00"
-4,Nota Fiscal Eletronica 3389,30/05/2017,Getline Produtos de Informatica LTDA- Jetline Cartuchos,03785499000188,"56,80"
-5,Nota Fiscal Eletronica 3389,30/05/2017,Getline Produtos de Informatica Ltda- Jetline Cartuchos,03785499000188,"39,00"
-6,Nota Fiscal Eletronica de serviço 0304814216,29/05/2017,Vivo,02558157000910,"369,99"
-7,Nota Fiscal Eletronica de Serviços 1700403894827,30/05/2017,Oi,33000118000179,"229,36"
+,documento,data_emissao,emitente,cpf_cnpj,valor
+0,Nota Fiscal Eletronica 0751,2017-05-29,Posto Centro Choferes LTDA,21575972000184,714.64
+1,Nota Fiscal Eletronica 1659,2017-05-29,Chamonix LTDA,20447074000188,100.0
+2,Nota Fiscal Eletronica de Serviços 201700000000008,2017-05-31,Aristides Ribeiro Advogados Associados S/C,04504649000109,3000.0
+3,Nota Fiscal Eletronica 0263,2017-05-16,Pneus ErodasLTDA- Pneus e Rodas LTDA,10527405000136,640.0
+4,Nota Fiscal Eletronica 3389,2017-05-30,Getline Produtos de Informatica LTDA- Jetline Cartuchos,03785499000188,56.8
+5,Nota Fiscal Eletronica 3389,2017-05-30,Getline Produtos de Informatica Ltda- Jetline Cartuchos,03785499000188,39.0
+6,Nota Fiscal Eletronica de serviço 0304814216,2017-05-29,Vivo,02558157000910,369.99
+7,Nota Fiscal Eletronica de Serviços 1700403894827,2017-05-30,Oi,33000118000179,229.36
