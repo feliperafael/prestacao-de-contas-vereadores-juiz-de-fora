@@ -55,9 +55,10 @@ for i, v in enumerate(nome_valor['valor']):
 
 #adiciona legendas e titulos
 plt.xlabel('Gasto em R$')
-plt.title('Gastos com verba indenizatória da câmara municipal de Juiz de Fora - MG Janeiro de 2018')
+plt.title('Gastos com verba indenizatória da câmara municipal de Juiz de Fora - MG '+month+'/'+year)
 total_gasto = locale.currency( round(sum(nome_valor['valor']), 2), grouping = True )
 plt.text(0,14000, 'Gasto com verba indenizatória do mês: '+str(total_gasto))
+plt.text(0,-2200, 'Fonte: www.camarajf.mg.gov.br')
 plt.legend()
 
 plt.barh(index, nome_valor['valor'], bar_width, alpha=0.8)
