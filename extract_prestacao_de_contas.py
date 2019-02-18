@@ -52,14 +52,23 @@ def formatDataFrame(df):
 def parse_html(html):
     soup = BeautifulSoup(html)
     table = soup.findAll("table", id="AutoNumber2")[0]
-    contas = {'documento': [], 'data_emissao': [], 'emitente': [], 'cpf_cnpj': [], 'valor': []}
+    contas = {'documento': [], 'data_emissao': [], 'emitente': [], 'cpf_cnpj': [], 'categoria': [] , 'valor': []}
     cont = 0
+    category_of_spending = table.findAll('tr')[3].text.strip()
     for tr in table.findAll('tr')[4:]:
+        #print(cont, tr.text)
+        #input('...esperando')
         if cont % 2 != 0:
             row = [td.text.strip() for td in tr.findAll('td')]
             if len(row) == 5:
-                for i in range(len(contas)):
-                    contas[list(contas.keys())[i]].append(row[i])
+                contas['documento'].append(row[0])
+                contas['data_emissao'].append(row[1])
+                contas['emitente'].append(row[2])
+                contas['cpf_cnpj'].append(row[3])
+                contas['categoria'].append(category_of_spending)
+                contas['valor'].append(row[4])
+            else:
+                category_of_spending = row[0]
         cont +=1
     df = pd.DataFrame.from_dict(contas)
     return df
@@ -68,8 +77,8 @@ if __name__ == "__main__":
 
     df = pd.read_csv('output/lista_vereadores.csv')
     mkdir_output_folders() # cria os diretorios 
-    years = ['2017','2018','2019']
-    months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+    years = ['2017']
+    months = ['01']
     
     for vereador in df['nome_link']:
         for year in years:

@@ -1,12 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 001,2017-01-30,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Nota Fiscal Eletronica 9583,2017-01-27,Auto Posto Petrogas Ltda,03862967000170,286.5
-2,Nota Fiscal Eletronica 4111,2017-01-24,Ribeiro de Oliveira & Cia LTDA,21562897000117,7.8
-3,Nota Fiscal Eletronica 474,2017-01-24,A Carbonaro Agua Mineral ME,24488698000102,161.0
-4,Nota Fiscal Eletronica 2017/9,2017-01-26,Estacionamento Salve Jorge,17509454000195,300.0
-5,Fatura de Serviços de Saneamento 51827893,2017-01-30,Cesama,21572243000174,51.25
-6,Nota Fiscal Eletronica 2017/7,2017-01-30,Oswaldo Martins Neto,24135652000100,1349.0
-7,Fatura 000106,2017-01-26,Estacionamento Salve Jorge Ltda - ME,17509454000195,1800.0
-8,Nota Fiscal Eletronica 4111,2017-01-24,Ribeiro de Oliveira & Cia Ltda,21562897000117,558.75
-9,Nota Fiscal Eletronica 4111,2017-01-24,Ribeiro de Oliveira & Cia Ltda,21562897000117,79.7
-10,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 1839,2017-01-26,Info Toner,02017219000129,55.0
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 001,2017-01-30,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Nota Fiscal Eletronica 9583,2017-01-27,Auto Posto Petrogas Ltda,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),286.5
+2,Nota Fiscal Eletronica 4111,2017-01-24,Ribeiro de Oliveira & Cia LTDA,21562897000117,Copa Interna,7.8
+3,Nota Fiscal Eletronica 474,2017-01-24,A Carbonaro Agua Mineral ME,24488698000102,Copa Interna,161.0
+4,Nota Fiscal Eletronica 2017/9,2017-01-26,Estacionamento Salve Jorge,17509454000195,Estacionamento (uma vaga),300.0
+5,Fatura de Serviços de Saneamento 51827893,2017-01-30,Cesama,21572243000174,Fornecimento de água para escritório para representação parlamentar,51.25
+6,Nota Fiscal Eletronica 2017/7,2017-01-30,Oswaldo Martins Neto,24135652000100,Impressos,1349.0
+7,Fatura 000106,2017-01-26,Estacionamento Salve Jorge Ltda - ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+8,Nota Fiscal Eletronica 4111,2017-01-24,Ribeiro de Oliveira & Cia Ltda,21562897000117,Material de expediente,558.75
+9,Nota Fiscal Eletronica 4111,2017-01-24,Ribeiro de Oliveira & Cia Ltda,21562897000117,Suprimentos para equipamentos de informática,79.7
+10,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 1839,2017-01-26,Info Toner,02017219000129,Suprimentos para equipamentos de informática,55.0

@@ -1,13 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,3813901 DANFE,2017-01-04,Infoglobo Comunicações e Partic S/A,60452752002916,93.9
-1,DANFE 000012017,2017-01-30,Posto Romoaldo LTDA,66343930000156,985.0
-2,DANFE 000.000.485,2017-01-30,A  Carbonaro Agua Mineral ME,24488698000102,96.0
-3,Nota Fiscal de Serviços Eletrônica 2017/46,2017-01-30,Real Copias de Juiz de Fora LTDA,04316977000173,266.8
-4,DANFE 000010678,2017-01-02,Thema Veiculos Ltda,21550231000572,463.04
-5,Nota Fiscal Serviços Eletrônica 201600000002102,2017-01-02,Thema Veiculos Ltda,21550231000572,130.33
-6,DANFE 000010678,2017-01-20,Thema Veiculos Ltda,21550231000572,463.04
-7,Nota Fiscal de Serviços Eletrônica 201600000002102,2017-01-20,Thema Veiculos Ltda,21550231000572,130.33
-8,DANFE 4121,2017-01-30,Ribeiro de Oliveira &CIA LTDA,21562897000117,112.2
-9,Recibo de Vendas de Produtos 294385,2017-01-06,ECT-Emp.Bras.Correios e Telegrafos,07840632000102,117.3
-10,Recibo de Vendas de Produtos 294386,2017-01-25,ECT-Emp.Bras. Correios e Telegrafos,07840632000102,100.3
-11,DANFE 0000001840,2017-01-26,Aloisio Costa Ferreira -ME Infotoner,02017219000129,55.0
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,3813901 DANFE,2017-01-04,Infoglobo Comunicações e Partic S/A,60452752002916,"Assinatura de jornais, revistas e periódicos",93.9
+1,DANFE 000012017,2017-01-30,Posto Romoaldo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),985.0
+2,DANFE 000.000.485,2017-01-30,A  Carbonaro Agua Mineral ME,24488698000102,Copa Interna,96.0
+3,Nota Fiscal de Serviços Eletrônica 2017/46,2017-01-30,Real Copias de Juiz de Fora LTDA,04316977000173,Cópias xerográficas e similares,266.8
+4,DANFE 000010678,2017-01-02,Thema Veiculos Ltda,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),463.04
+5,Nota Fiscal Serviços Eletrônica 201600000002102,2017-01-02,Thema Veiculos Ltda,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),130.33
+6,DANFE 000010678,2017-01-20,Thema Veiculos Ltda,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),463.04
+7,Nota Fiscal de Serviços Eletrônica 201600000002102,2017-01-20,Thema Veiculos Ltda,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),130.33
+8,DANFE 4121,2017-01-30,Ribeiro de Oliveira &CIA LTDA,21562897000117,Material de expediente,112.2
+9,Recibo de Vendas de Produtos 294385,2017-01-06,ECT-Emp.Bras.Correios e Telegrafos,07840632000102,Postagem,117.3
+10,Recibo de Vendas de Produtos 294386,2017-01-25,ECT-Emp.Bras. Correios e Telegrafos,07840632000102,Postagem,100.3
+11,DANFE 0000001840,2017-01-26,Aloisio Costa Ferreira -ME Infotoner,02017219000129,Suprimentos para equipamentos de informática,55.0

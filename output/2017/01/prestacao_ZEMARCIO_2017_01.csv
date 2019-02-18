@@ -1,10 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 00001414,2017-01-27,Auto Posto Valentina LTDA,17817687000155,450.21
-1,Recibo de Pagamento Autonomo 001,2017-01-31,Danielle Barros Possa,90798783672,2000.0
-2,Nota Fiscal Eletronica 000022083,2017-01-06,Perfect Print Rec. E Informatica LTDA,11149140000142,17.7
-3,Nota Fiscal Eletronica 0000002832,2017-01-25,Papelaria Fazza LTDA - ME - Anapel,01953452000150,47.1
-4,Nota Fiscal Eletronica 011300302,2017-01-27,Carlos Henrique Reinck 02865792609,13124397000175,116.0
-5,Nota Fiscal Eletronica 2017/50,2017-01-19,Casa do Grafico LTDA,25527805000119,715.55
-6,Nota Fiscal Eletronica 000022083,2017-01-06,Perfect Print Rec. E Informatica LTDA,11149140000142,22.0
-7,Nota Fiscal Eletronica 0000002832,2017-01-25,Papelaria Fazza LTDA - ME - Anapel,01953452000150,85.2
-8,Nota Fiscal Eletronica 000022083,2017-01-06,Perfect Print Rec. e Informatica LTDA,11149140000142,75.0
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 00001414,2017-01-27,Auto Posto Valentina LTDA,17817687000155,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),450.21
+1,Recibo de Pagamento Autonomo 001,2017-01-31,Danielle Barros Possa,90798783672,* Consultoria técnica,2000.0
+2,Nota Fiscal Eletronica 000022083,2017-01-06,Perfect Print Rec. E Informatica LTDA,11149140000142,Copa Interna,17.7
+3,Nota Fiscal Eletronica 0000002832,2017-01-25,Papelaria Fazza LTDA - ME - Anapel,01953452000150,Copa Interna,47.1
+4,Nota Fiscal Eletronica 011300302,2017-01-27,Carlos Henrique Reinck 02865792609,13124397000175,Copa Interna,116.0
+5,Nota Fiscal Eletronica 2017/50,2017-01-19,Casa do Grafico LTDA,25527805000119,Cópias xerográficas e similares,715.55
+6,Nota Fiscal Eletronica 000022083,2017-01-06,Perfect Print Rec. E Informatica LTDA,11149140000142,Material de expediente,22.0
+7,Nota Fiscal Eletronica 0000002832,2017-01-25,Papelaria Fazza LTDA - ME - Anapel,01953452000150,Material de expediente,85.2
+8,Nota Fiscal Eletronica 000022083,2017-01-06,Perfect Print Rec. e Informatica LTDA,11149140000142,Suprimentos para equipamentos de informática,75.0

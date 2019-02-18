@@ -1,10 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletrônica 12021,2017-01-31,Posto Romulado Ltda.,66343930000156,462.38
-1,Nota Fiscal de Venda a Consumidor 2515,2017-01-05,Tardio Distribuidora de Água Mineral Ltda.,10800248000190,10.0
-2,Nota Fiscal - Conta de Energia Elétrica 689515,2017-01-10,Cemig Distribuição S.A.,06981180000116,84.23
-3,Recibo S/Nº,2017-01-31,Condomínio Parking Saggioro,20439212000187,370.0
-4,Nota Fiscal Eletrônica 2017/1,2017-01-27,Empreiteira Transtech T & D Ltda.,14496365000163,1800.0
-5,Nota Fiscal Eletrônica 4114,2017-01-26,Ribeiro de Oliveira & Cia Ltda,21562897000117,115.8
-6,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-01-10,Telefônica Brasil S.A.,02558157000162,92.9
-7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-01-10,Telefônica Brasil S.A.,02558157000162,400.39
-8,Nota Fiscal de Serviços de Telecomunicações 743743847,2017-01-10,Telemar Norte Leste S/A.,33000118000330,417.55
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletrônica 12021,2017-01-31,Posto Romulado Ltda.,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),462.38
+1,Nota Fiscal de Venda a Consumidor 2515,2017-01-05,Tardio Distribuidora de Água Mineral Ltda.,10800248000190,Copa Interna,10.0
+2,Nota Fiscal - Conta de Energia Elétrica 689515,2017-01-10,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,84.23
+3,Recibo S/Nº,2017-01-31,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+4,Nota Fiscal Eletrônica 2017/1,2017-01-27,Empreiteira Transtech T & D Ltda.,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+5,Nota Fiscal Eletrônica 4114,2017-01-26,Ribeiro de Oliveira & Cia Ltda,21562897000117,Material de expediente,115.8
+6,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-01-10,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,92.9
+7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-01-10,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,400.39
+8,Nota Fiscal de Serviços de Telecomunicações 743743847,2017-01-10,Telemar Norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,417.55

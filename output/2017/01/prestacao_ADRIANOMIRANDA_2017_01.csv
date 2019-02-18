@@ -1,7 +1,7 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,NFe 14338,2017-01-06,Solar Comunicações SA,21561725000129,462.99
-1,Recibo do Sacado 240000000007693595,2017-01-09,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,138.34
-2,NFe 129498,2017-01-04,Parco Papelaria Ltda,05214053001109,35.11
-3,NFSe 2017/82,2017-01-25,Comercial Supercópia Ltda,21560131000101,88.5
-4,NFSe 2017.00000000007,2017-01-12,W Collor Editora Grafica Ltda,05033125000131,350.0
-5,NFe 129498,2017-01-04,Parco Papelaria Ltda,05214053001109,146.62
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,NFe 14338,2017-01-06,Solar Comunicações SA,21561725000129,"Assinatura de jornais, revistas e periódicos",462.99
+1,Recibo do Sacado 240000000007693595,2017-01-09,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,138.34
+2,NFe 129498,2017-01-04,Parco Papelaria Ltda,05214053001109,Copa Interna,35.11
+3,NFSe 2017/82,2017-01-25,Comercial Supercópia Ltda,21560131000101,Cópias xerográficas e similares,88.5
+4,NFSe 2017.00000000007,2017-01-12,W Collor Editora Grafica Ltda,05033125000131,Impressos,350.0
+5,NFe 129498,2017-01-04,Parco Papelaria Ltda,05214053001109,Material de expediente,146.62
