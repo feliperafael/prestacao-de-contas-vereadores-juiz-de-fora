@@ -1,15 +1,16 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,danfe 742,2017-04-28,posto centro choferes ltda,21575972000184,1080.98
-1,RPA 002,2017-04-28,maria thereza lamego genevam,10147971608,1500.0
-2,cupom fiscal 075144,2017-04-03,thomacelli comercio de alimentos ltda,11192368000115,119.0
-3,nfse 201700000000025,2017-04-28,ricardo teixeira de aguiar,66464488000116,260.0
-4,nfse 201700000000080,2017-04-03,w. collor editora grafica ltda,05033125000131,60.0
-5,nfse 201700000000086,2017-04-03,w. collor editora grafica ltda,05033125000131,120.0
-6,nfse 00001252,2017-04-18,vizion gestao de negocios empresariais ltda epp,07979987000187,586.0
-7,recibo s/n,2017-04-04,movida locaçao de veiculos s/a,07976147020609,2118.0
-8,cupom fiscal 387161,2017-04-24,parco papelaria ltda,05214053001109,170.0
-9,cupom fiscal 387160,2017-04-24,parco papelaria ltda,05214053001109,46.87
-10,comprovante do cliente 1284941277,2017-04-04,emp. bras. de correios e telegrafos,34028316553110,18.4
-11,nfe 2246,2017-04-03,teixeira e chaves ltda,21339965001902,42.9
-12,fatura 769411198,2017-04-18,oi movel s/a,05423963000111,99.9
-13,fatura 1700402510631,2017-04-30,oi fixo,33000118000179,378.83
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,danfe 742,2017-04-28,posto centro choferes ltda,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1080.98
+1,RPA 002,2017-04-28,maria thereza lamego genevam,10147971608,* Consultoria técnica,1500.0
+2,cupom fiscal 075144,2017-04-03,thomacelli comercio de alimentos ltda,11192368000115,Copa Interna,119.0
+3,nfse 201700000000025,2017-04-28,ricardo teixeira de aguiar,66464488000116,Estacionamento (uma vaga),260.0
+4,nfse 201700000000080,2017-04-03,w. collor editora grafica ltda,05033125000131,Impressos,60.0
+5,nfse 201700000000086,2017-04-03,w. collor editora grafica ltda,05033125000131,Impressos,120.0
+6,nfse 00001252,2017-04-18,vizion gestao de negocios empresariais ltda epp,07979987000187,Locação de softwares,586.0
+7,recibo s/n,2017-04-04,movida locaçao de veiculos s/a,07976147020609,Locação de veículos utilizados no exercício do mandato legislativo,2118.0
+8,cupom fiscal 387161,2017-04-24,parco papelaria ltda,05214053001109,Material de expediente,170.0
+9,cupom fiscal 387160,2017-04-24,parco papelaria ltda,05214053001109,Material de expediente,46.87
+10,comprovante do cliente 1284941277,2017-04-04,emp. bras. de correios e telegrafos,34028316553110,Postagem,18.4
+11,nfe 2246,2017-04-03,teixeira e chaves ltda,21339965001902,Suprimentos para equipamentos de informática,42.9
+12,fatura 769411198,2017-04-18,oi movel s/a,05423963000111,Telefone Móvel,99.9
+13,fatura 1700402510631,2017-04-30,oi fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),378.83
+14,,,,,total,6222.05

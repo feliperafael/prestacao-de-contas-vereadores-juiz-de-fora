@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 020346,2017-04-27,Rodo Posto Silvios LTDA,17451576000178,171.76
-1,Nota Fiscal Eletronica 743,2017-04-28,Posto Centro Choferes LTDA,21575972000184,690.42
-2,Nota Fiscal Eletronica de Serviços 201700000000006,2017-04-28,Aristedes Ribeiro Advogados AssociadosS/C,04504649000109,3000.0
-3,Nota Fiscal Eletronica 03361,2017-04-28,Getline Produtos de Informatica LTDA- Jetline Cartuchos,03785499000188,11.4
-4,Nota Fiscal Eletronica de Serviços 201700000000309,2017-04-27,Centro de Lanternagem e Pintira LTDA,03135561000196,950.0
-5,Nota Fiscal Eletronica 03361,2017-04-28,Getline Produtos de Informatica LTDA- Jetline Cartuchos,03785499000188,128.8
-6,Cupom Fiscal 005,2017-04-17,ETC EMP Brasileira. Correios e Telegrafos,86529443000190,19.85
-7,Nota Fiscal de Serviços de Telecomunicação 0304814216,2017-04-12,Vivo,02558157000162,79.28
-8,Nota Fiscal de Serviços de Telecomunicação 1700402510631,2017-04-28,Oi,33000118000179,278.47
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 020346,2017-04-27,Rodo Posto Silvios LTDA,17451576000178,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),171.76
+1,Nota Fiscal Eletronica 743,2017-04-28,Posto Centro Choferes LTDA,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),690.42
+2,Nota Fiscal Eletronica de Serviços 201700000000006,2017-04-28,Aristedes Ribeiro Advogados AssociadosS/C,04504649000109,* Consultoria técnica,3000.0
+3,Nota Fiscal Eletronica 03361,2017-04-28,Getline Produtos de Informatica LTDA- Jetline Cartuchos,03785499000188,Copa Interna,11.4
+4,Nota Fiscal Eletronica de Serviços 201700000000309,2017-04-27,Centro de Lanternagem e Pintira LTDA,03135561000196,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),950.0
+5,Nota Fiscal Eletronica 03361,2017-04-28,Getline Produtos de Informatica LTDA- Jetline Cartuchos,03785499000188,Material de expediente,128.8
+6,Cupom Fiscal 005,2017-04-17,ETC EMP Brasileira. Correios e Telegrafos,86529443000190,Postagem,19.85
+7,Nota Fiscal de Serviços de Telecomunicação 0304814216,2017-04-12,Vivo,02558157000162,Telefone Móvel,79.28
+8,Nota Fiscal de Serviços de Telecomunicação 1700402510631,2017-04-28,Oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),278.47
+9,,,,,total,5051.51

@@ -20,8 +20,8 @@ vereadores_lista = pd.read_csv(output_path+'lista_vereadores.csv')
 n_groups = len(vereadores_lista)
 df = []
 month_spending = []
-years = ['2017', '2018']
-months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+years = ['2017']
+months = ['04']
     
 
 for year in years:
@@ -33,8 +33,9 @@ for year in years:
             df.append(pd.read_csv(file_name))
             month_spending.append(df[len(df)-1]['valor'].sum())
             nome_valor['nome'].append(vereador['nome'])
-            nome_valor['valor'].append(df[len(df)-1]['valor'].sum())
-            print(vereador['nome'], vereador['nome_link'], df[len(df)-1]['valor'].sum())
+            #nome_valor['valor'].append(df[len(df)-1]['valor'].sum())
+            nome_valor['valor'].append(df[len(df)-1]['valor'][len(df[len(df)-1]['valor'])-1])
+            print(vereador['nome'], vereador['nome_link'], df[len(df)-1]['valor'][len(df[len(df)-1]['valor'])-1])
         
         nome_valor = pd.DataFrame.from_dict(nome_valor)
         nome_valor = nome_valor.sort_values(by=['valor'])

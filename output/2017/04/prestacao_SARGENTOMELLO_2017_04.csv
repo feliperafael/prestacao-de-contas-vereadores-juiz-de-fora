@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DNFE-documento auxiliar da nota fiscal eletronica 00005304,2017-04-29,papagaio com e derivados de petroleo ltda,10515414000107,637.02
-1,recibo de pagamento a autonomo- RPA 004/2017,2017-04-28,geraldo maximiano da silva,45350825615,3000.0
-2,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,14.7
-3,nota fiscal eletronica de serviço-nfs-e 201700000000028,2017-04-28,ricardo teixeira de aguiar,66464488000116,260.0
-4,nota fiscal eletronica de serviço-nfs-e 201700000000017,2017-04-29,wander luiz de souza senra,19371304000193,400.0
-5,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,123.2
-6,nota fiscal  eletronica de serviço- nfs-e 201700000000012,2017-04-04,onofre de matos guedes,26632032000101,300.0
-7,nota fiscal eletronica de serviço-nfs-e 201700000000015,2017-04-13,wander luiz de souza senra,19371304000193,1350.0
-8,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,218.3
-9,fatura 1700402510631,2017-04-29,telemar norte leste s/a,33000118000179,230.51
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DNFE-documento auxiliar da nota fiscal eletronica 00005304,2017-04-29,papagaio com e derivados de petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),637.02
+1,recibo de pagamento a autonomo- RPA 004/2017,2017-04-28,geraldo maximiano da silva,45350825615,* Consultoria técnica,3000.0
+2,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,Copa Interna,14.7
+3,nota fiscal eletronica de serviço-nfs-e 201700000000028,2017-04-28,ricardo teixeira de aguiar,66464488000116,Estacionamento (uma vaga),260.0
+4,nota fiscal eletronica de serviço-nfs-e 201700000000017,2017-04-29,wander luiz de souza senra,19371304000193,Impressos,400.0
+5,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,Material de expediente,123.2
+6,nota fiscal  eletronica de serviço- nfs-e 201700000000012,2017-04-04,onofre de matos guedes,26632032000101,Publicidade Institucional,300.0
+7,nota fiscal eletronica de serviço-nfs-e 201700000000015,2017-04-13,wander luiz de souza senra,19371304000193,Publicidade Institucional,1350.0
+8,DANFE-documento auxiliar da nota fiscal eletronica 4258,2017-04-26,ribeiro de oliveira & cia ltda,21562897000117,Suprimentos para equipamentos de informática,218.3
+9,fatura 1700402510631,2017-04-29,telemar norte leste s/a,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),230.51
+10,,,,,total,6303.22

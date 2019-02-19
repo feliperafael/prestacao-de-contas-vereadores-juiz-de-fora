@@ -1,8 +1,9 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 00001541,2017-04-27,Auto Posto Valentina LTDA,17817687000155,983.8
-1,Recibo de Pagamento Autonomo - RPA 004,2017-04-27,Danielle Barros Possa,90798783672,3200.0
-2,Nota Fiscal Eletronica 000001192,2017-04-07,Perfect Paper Informatica LTDA - ME,19857923000192,29.94
-3,Nota Fiscal Eletronica 201700000000280,2017-04-26,Casa do Grafico LTDA,25527805000119,330.4
-4,Nota Fiscal Eletronica 000001192,2017-04-07,Perfect Paper Informatica LTDA - ME,19857923000192,351.64
-5,Nota Fiscal Eletronica 000001192,2017-04-07,Perfect Paper Informatica LTDA - ME,19857923000192,140.0
-6,Nota Fiscal de Serviços de Telecomunicações 1700402510631,2017-04-28,Oi Fixo,33000118000179,87.69
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 00001541,2017-04-27,Auto Posto Valentina LTDA,17817687000155,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),983.8
+1,Recibo de Pagamento Autonomo - RPA 004,2017-04-27,Danielle Barros Possa,90798783672,* Consultoria técnica,3200.0
+2,Nota Fiscal Eletronica 000001192,2017-04-07,Perfect Paper Informatica LTDA - ME,19857923000192,Copa Interna,29.94
+3,Nota Fiscal Eletronica 201700000000280,2017-04-26,Casa do Grafico LTDA,25527805000119,Cópias xerográficas e similares,330.4
+4,Nota Fiscal Eletronica 000001192,2017-04-07,Perfect Paper Informatica LTDA - ME,19857923000192,Material de expediente,351.64
+5,Nota Fiscal Eletronica 000001192,2017-04-07,Perfect Paper Informatica LTDA - ME,19857923000192,Suprimentos para equipamentos de informática,140.0
+6,Nota Fiscal de Serviços de Telecomunicações 1700402510631,2017-04-28,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),87.69
+7,,,,,total,5035.78

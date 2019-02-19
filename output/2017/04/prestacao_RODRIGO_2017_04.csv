@@ -1,6 +1,7 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 000012358,2017-04-27,Posto Romualdo,66343930000156,992.0
-1,Nota Fiscal Eletrônica de Serviços 201700000000023,2017-04-28,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,1500.0
-2,Nota Fiscal de Serviços Eletrônica 201700000000223,2017-04-27,Real Cópias de Juiz de Fora LTDA,04316977000173,370.96
-3,Nota Fiscal de Serviços Eletrônica 2017/250,2017-04-27,União Artes Gráficas LTDA,20741559000180,1980.0
-4,Nota Fiscal  de Telecomunicações 1700402510631,2017-04-27,OI FIXO,33000118000179,239.72
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 000012358,2017-04-27,Posto Romualdo,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),992.0
+1,Nota Fiscal Eletrônica de Serviços 201700000000023,2017-04-28,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,* Consultoria técnica,1500.0
+2,Nota Fiscal de Serviços Eletrônica 201700000000223,2017-04-27,Real Cópias de Juiz de Fora LTDA,04316977000173,Cópias xerográficas e similares,370.96
+3,Nota Fiscal de Serviços Eletrônica 2017/250,2017-04-27,União Artes Gráficas LTDA,20741559000180,Impressos,1980.0
+4,Nota Fiscal  de Telecomunicações 1700402510631,2017-04-27,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),239.72
+5,,,,,total,4842.96

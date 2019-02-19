@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Boleto 051,2017-04-27,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Nota Fiscal - Conta de Energia Elétrica 704938,2017-04-26,Cemig Distribuição S.A.,06981180000116,116.78
-2,Fatura de Locação 1,2017-04-28,Empreiteira Transtech T&D Ltda - ME,14496365000163,1800.0
-3,Comprovante do Cliente 1291761599,2017-04-20,Empresa Brasileira de Correios e Telégrafos,34028316221037,1190.0
-4,Comprovante do Cliente 1291763460,2017-04-20,Empresa Brasileira de Correios e Telégrafos,34028316221037,377.0
-5,Comprovante do Cliente 1291753850,2017-04-20,Empresa Brasileira de Correios e Telégrafos,34028316221037,1190.0
-6,Comprovante do Cliente 1291751074,2017-04-20,Empresa Brasileira de Correios e Telégrafos,34028316221037,1190.0
-7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-04-11,Telefônica Brasil S.A.,02558157000162,547.47
-8,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-04-11,Telefônica Brasil S.A.,02558157000162,90.99
-9,Nota Fiscal de Serviços de Telecomunicações 770132393,2017-04-11,Telemar Norte Leste S/A.,33000118000330,425.7
-10,Nota Fiscal de Serviços de Telecomunicações 1700402510631,2017-04-28,Oi Fixo,33000118000179,154.11
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Boleto 051,2017-04-27,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal - Conta de Energia Elétrica 704938,2017-04-26,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,116.78
+2,Fatura de Locação 1,2017-04-28,Empreiteira Transtech T&D Ltda - ME,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+3,Comprovante do Cliente 1291761599,2017-04-20,Empresa Brasileira de Correios e Telégrafos,34028316221037,Postagem,1190.0
+4,Comprovante do Cliente 1291763460,2017-04-20,Empresa Brasileira de Correios e Telégrafos,34028316221037,Postagem,377.0
+5,Comprovante do Cliente 1291753850,2017-04-20,Empresa Brasileira de Correios e Telégrafos,34028316221037,Postagem,1190.0
+6,Comprovante do Cliente 1291751074,2017-04-20,Empresa Brasileira de Correios e Telégrafos,34028316221037,Postagem,1190.0
+7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-04-11,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,547.47
+8,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-04-11,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,90.99
+9,Nota Fiscal de Serviços de Telecomunicações 770132393,2017-04-11,Telemar Norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,425.7
+10,Nota Fiscal de Serviços de Telecomunicações 1700402510631,2017-04-28,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),154.11
+11,,,,,total,7845.89

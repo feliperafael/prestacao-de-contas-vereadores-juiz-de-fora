@@ -69,6 +69,16 @@ def parse_html(html):
                 contas['valor'].append(row[4])
             else:
                 category_of_spending = row[0]
+        else:
+            if('Total a ser indenizado' in tr.text):
+                total_indenizado = tr.text.strip()[24:].replace('.','')
+                contas['documento'].append('')
+                contas['data_emissao'].append('')
+                contas['emitente'].append('')
+                contas['cpf_cnpj'].append('')
+                contas['categoria'].append('total')
+                contas['valor'].append(total_indenizado)
+                print(total_indenizado)
         cont +=1
     df = pd.DataFrame.from_dict(contas)
     return df
@@ -78,7 +88,7 @@ if __name__ == "__main__":
     df = pd.read_csv('output/lista_vereadores.csv')
     mkdir_output_folders() # cria os diretorios 
     years = ['2017']
-    months = ['01']
+    months = ['04']
     
     for vereador in df['nome_link']:
         for year in years:

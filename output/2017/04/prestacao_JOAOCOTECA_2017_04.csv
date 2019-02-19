@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 004,2017-04-28,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 00010007,2017-04-27,Auto Posto Petrogas LTDA,03862967000170,863.59
-2,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4257,2017-04-26,Ribeiro de Oliveira & Cia LTDA,21562897000117,31.2
-3,Nota Fiscal - Conta de Energia Eletrica 000790006,2017-04-27,Cemig Distribuição S.A.,06981180000116,43.69
-4,NFS-e Nota Fiscal Eletronica de Serviço 201700000000022,2017-04-25,Estacionamento Salve Jorge LTDA-ME,17509454000195,300.0
-5,Fatura de Serviços de Saneamento A/518278-93,2017-04-27,Cesama,21572243000174,51.25
-6,NFS-e - Nota Fiscal Eletronica de Serviço 201700000000015,2017-04-27,Grafica São Pedro LTDA,10408122000175,150.0
-7,Fatura 000119,2017-04-25,Estacionamento Salve Jorge LTDA-ME,17509454000195,1800.0
-8,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4257,2017-04-26,Ribeiro de Oliveira & Cia LTDA,21562897000117,180.3
-9,Fatura 1700402510631,2017-04-28,Oi Fixo,33000118000179,253.73
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 004,2017-04-28,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 00010007,2017-04-27,Auto Posto Petrogas LTDA,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),863.59
+2,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4257,2017-04-26,Ribeiro de Oliveira & Cia LTDA,21562897000117,Copa Interna,31.2
+3,Nota Fiscal - Conta de Energia Eletrica 000790006,2017-04-27,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,43.69
+4,NFS-e Nota Fiscal Eletronica de Serviço 201700000000022,2017-04-25,Estacionamento Salve Jorge LTDA-ME,17509454000195,Estacionamento (uma vaga),300.0
+5,Fatura de Serviços de Saneamento A/518278-93,2017-04-27,Cesama,21572243000174,Fornecimento de água para escritório para representação parlamentar,51.25
+6,NFS-e - Nota Fiscal Eletronica de Serviço 201700000000015,2017-04-27,Grafica São Pedro LTDA,10408122000175,Impressos,150.0
+7,Fatura 000119,2017-04-25,Estacionamento Salve Jorge LTDA-ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+8,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4257,2017-04-26,Ribeiro de Oliveira & Cia LTDA,21562897000117,Material de expediente,180.3
+9,Fatura 1700402510631,2017-04-28,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),253.73
+10,,,,,total,4020.03
