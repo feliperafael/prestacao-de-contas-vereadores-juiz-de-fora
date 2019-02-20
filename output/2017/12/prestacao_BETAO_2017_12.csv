@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Boleto 051,2017-12-13,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Nota Fiscal Eletrônica 13266,2017-12-18,Posto Romualdo Ltda,66343930000156,671.51
-2,Nota Fiscal - Conta Energia Elétrica 857985,2017-12-13,Cemig Distribuição S.A,06981180000116,89.02
-3,Recibo S/Nº,2017-12-15,Condomínio Parking Saggioro,20439212000187,370.0
-4,Nota Fiscal Eletrônica 201700000000762,2017-12-06,União Artes Grafícas Ltda.,20741559000180,990.0
-5,Fatura de Locação 000009,2017-12-15,Empreiteira Transtech T&D Ltda- ME,14496365000163,1800.0
-6,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-12-13,Telefônica Brasil S.A.,02558157000162,338.75
-7,Nota Fiscal de Serviços de Telecomunicações 850315189,2017-12-13,Telemar Norte Leste S/A.,33000118000330,462.37
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Boleto 051,2017-12-13,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal Eletrônica 13266,2017-12-18,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),671.51
+2,Nota Fiscal - Conta Energia Elétrica 857985,2017-12-13,Cemig Distribuição S.A,06981180000116,Energia elétrica para escritório para representação parlamentar,89.02
+3,Recibo S/Nº,2017-12-15,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+4,Nota Fiscal Eletrônica 201700000000762,2017-12-06,União Artes Grafícas Ltda.,20741559000180,Impressos,990.0
+5,Fatura de Locação 000009,2017-12-15,Empreiteira Transtech T&D Ltda- ME,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+6,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-12-13,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,338.75
+7,Nota Fiscal de Serviços de Telecomunicações 850315189,2017-12-13,Telemar Norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,462.37
+8,,,,,total,5671.65

@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 0734,2017-03-30,Posto Centro Choferes LTDA,21575972000184,769.17
-1,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,35.2
-2,Nota Fiscal Eletronica de serviços 2017/13,2017-03-30,Maria Aparecida Arcanjo Coelho,10983896000120,300.0
-3,Nota Fiscal Eletronica de Serviços 2017/25,2017-03-28,Oliveira e Moreira Grafica e Editora LTDA,04947397000184,90.0
-4,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,92.5
-5,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,39.0
-6,Nota Fiscal de Serviço de Telecomunicação 896497896,2017-03-21,Claro,40432544000147,214.32
-7,Nota Fiscal de Serviço de Telecomunicação 1700401096287,2017-03-30,OI,33000118000179,353.13
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 0734,2017-03-30,Posto Centro Choferes LTDA,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),769.17
+1,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,Copa Interna,35.2
+2,Nota Fiscal Eletronica de serviços 2017/13,2017-03-30,Maria Aparecida Arcanjo Coelho,10983896000120,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),300.0
+3,Nota Fiscal Eletronica de Serviços 2017/25,2017-03-28,Oliveira e Moreira Grafica e Editora LTDA,04947397000184,Impressos,90.0
+4,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,Material de expediente,92.5
+5,Nota Fiscal Eletronica 3340,2017-03-30,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,Suprimentos para equipamentos de informática,39.0
+6,Nota Fiscal de Serviço de Telecomunicação 896497896,2017-03-21,Claro,40432544000147,Telefone Móvel,214.32
+7,Nota Fiscal de Serviço de Telecomunicação 1700401096287,2017-03-30,OI,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),353.13
+8,,,,,total,1540.19

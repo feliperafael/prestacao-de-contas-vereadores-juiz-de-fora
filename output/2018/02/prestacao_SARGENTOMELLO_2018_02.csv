@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo de Aluguel 01,2018-02-01,Leonardo Gudziki Hábel,62819313604,800.0
-1,DANFE-documento auxiliar da nota fiscal Eletronica 00005823,2018-02-27,Papagaio com e derivados de petroleo ltda,10515414000107,1203.04
-2,boleto bancario 53506,2018-02-27,Condominio do edificio top center,20439162000138,240.0
-3,DANFE-documento auxiliar da nota fiscal eletronica 000001110,2018-02-22,A carbonaro Agua Mineral ME,24488698000102,23.0
-4,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000077,2018-02-08,Ricardo Teixeira de Aguiar,66464488000116,260.0
-5,Nota Fiscal Eletronica de Serviço Eletronico-NFS-e 21800000000198,2018-02-27,Ambiente Comunicação ltda,09662777000196,750.0
-6,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000046,2018-02-02,Onofre de Matos Guedes,26632032000101,350.0
-7,fatura 0313572750,2018-02-16,Concessionaria de telefonia vivo,02558157000910,275.09
-8,fatura 1700415674971,2018-02-27,Operadora Oi,33000118000179,182.35
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo de Aluguel 01,2018-02-01,Leonardo Gudziki Hábel,62819313604,Aluguel de escritório para representação parlamentar,800.0
+1,DANFE-documento auxiliar da nota fiscal Eletronica 00005823,2018-02-27,Papagaio com e derivados de petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1203.04
+2,boleto bancario 53506,2018-02-27,Condominio do edificio top center,20439162000138,Condomínio de escritório para representação parlamentar,240.0
+3,DANFE-documento auxiliar da nota fiscal eletronica 000001110,2018-02-22,A carbonaro Agua Mineral ME,24488698000102,Copa Interna,23.0
+4,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000077,2018-02-08,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),260.0
+5,Nota Fiscal Eletronica de Serviço Eletronico-NFS-e 21800000000198,2018-02-27,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+6,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000046,2018-02-02,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,350.0
+7,fatura 0313572750,2018-02-16,Concessionaria de telefonia vivo,02558157000910,Telefone Móvel,275.09
+8,fatura 1700415674971,2018-02-27,Operadora Oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),182.35
+9,,,,,total,3901.13

@@ -1,13 +1,14 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 000020564,2018-05-23,Solar Comunicações S/A,21561725000129,85.83
-1,Nota Fiscal Eletronica 00001889,2018-05-23,Chamonix LTDA,20447074000188,524.36
-2,Nota Fiscal Eletronica 000000180,2018-05-24,Posto Central LTDA,21549407000142,450.45
-3,Nota Fiscal Eletronica 00002194,2018-05-28,R.A Ribeiro Combustiveis,12941507000129,248.52
-4,Nota Fiscal Eletronica de Serviços 201800000000031,2018-05-28,Aristides Ribeiro Advogados Associados S/A,04504649000109,3000.0
-5,Nota Fiscal Eletronica 14646,2018-05-07,Guidauto Peças LTDA,04671382000136,220.0
-6,Nota Fiscal Eletronica de Servoços 201800000000157,2018-05-29,Estacionamento Coelho e Valle LTDA,41938937000190,85.0
-7,Nota Fiscal Eletronica de Serviços 201800000002731,2018-05-29,GA Comercial LTDA- EPP,02282594000104,490.0
-8,Nota Fiscal Eletronica de Serviços 201800000000065,2018-05-29,Aloisio Costa Ferreira,02017219000129,45.0
-9,Nota Fiscal Eletronica de Serviço de Telecomunicações 0304814216,2018-05-04,Vivo,02558157000162,383.93
-10,Nota Fiscal de Serviço de Telecominicações 1700419157952,2018-05-27,Oi Fixo,33000118000179,154.46
-11,Nota Fiscal Eletronica de Serviço 2018/9767,2018-05-02,Hotelaria ACCOR Brasil S/A,09967852016392,169.05
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 000020564,2018-05-23,Solar Comunicações S/A,21561725000129,"Assinatura de jornais, revistas e periódicos",85.83
+1,Nota Fiscal Eletronica 00001889,2018-05-23,Chamonix LTDA,20447074000188,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),524.36
+2,Nota Fiscal Eletronica 000000180,2018-05-24,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),450.45
+3,Nota Fiscal Eletronica 00002194,2018-05-28,R.A Ribeiro Combustiveis,12941507000129,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),248.52
+4,Nota Fiscal Eletronica de Serviços 201800000000031,2018-05-28,Aristides Ribeiro Advogados Associados S/A,04504649000109,* Consultoria técnica,3000.0
+5,Nota Fiscal Eletronica 14646,2018-05-07,Guidauto Peças LTDA,04671382000136,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),220.0
+6,Nota Fiscal Eletronica de Servoços 201800000000157,2018-05-29,Estacionamento Coelho e Valle LTDA,41938937000190,Estacionamento (uma vaga),85.0
+7,Nota Fiscal Eletronica de Serviços 201800000002731,2018-05-29,GA Comercial LTDA- EPP,02282594000104,Impressos,490.0
+8,Nota Fiscal Eletronica de Serviços 201800000000065,2018-05-29,Aloisio Costa Ferreira,02017219000129,Suprimentos para equipamentos de informática,45.0
+9,Nota Fiscal Eletronica de Serviço de Telecomunicações 0304814216,2018-05-04,Vivo,02558157000162,Telefone Móvel,383.93
+10,Nota Fiscal de Serviço de Telecominicações 1700419157952,2018-05-27,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),154.46
+11,Nota Fiscal Eletronica de Serviço 2018/9767,2018-05-02,Hotelaria ACCOR Brasil S/A,09967852016392,"Viagens em função do exercício do mandato legislativo (passagens, locomoção urbana ou estacionamento, hospedagem e alimentação)",169.05
+12,,,,,total,5702.14

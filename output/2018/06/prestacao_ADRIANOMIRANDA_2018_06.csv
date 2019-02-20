@@ -1,8 +1,9 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,NFe 000014022,2018-06-25,Posto Romualdo Ltda,66343930000156,1868.43
-1,NFe 8858,2018-06-04,Teixeira e Chaves Ltda,21339965001902,16.35
-2,FATURA DE LOCAÇÃO/DUPLICATA 424,2018-06-27,LOCADORA HERMON LTDA,04569904000193,2000.0
-3,NFe 8859,2018-06-04,Teixeira e Chaves Ltda,21339965001902,39.9
-4,NFSe 201800000001075,2018-06-05,W Collor Editora Gráfica Ltda,05033125000131,1385.0
-5,NFe 8858,2018-06-04,Teixeira e Chaves Ltda,21339965001902,31.0
-6,Nota Fiscal de Serviços de Telecomunicação 1700420283987,2018-06-25,Telemar Norte Leste S/A,33000118000179,354.54
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,NFe 000014022,2018-06-25,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1868.43
+1,NFe 8858,2018-06-04,Teixeira e Chaves Ltda,21339965001902,Copa Interna,16.35
+2,FATURA DE LOCAÇÃO/DUPLICATA 424,2018-06-27,LOCADORA HERMON LTDA,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+3,NFe 8859,2018-06-04,Teixeira e Chaves Ltda,21339965001902,Material de expediente,39.9
+4,NFSe 201800000001075,2018-06-05,W Collor Editora Gráfica Ltda,05033125000131,Publicidade Institucional,1385.0
+5,NFe 8858,2018-06-04,Teixeira e Chaves Ltda,21339965001902,Suprimentos para equipamentos de informática,31.0
+6,Nota Fiscal de Serviços de Telecomunicação 1700420283987,2018-06-25,Telemar Norte Leste S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),354.54
+7,,,,,total,5340.68

@@ -1,7 +1,8 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo do Sacado 64181,2018-12-17,Diretrans Ltda,19490812000190,720.0
-1,Danfe 00004268,2018-12-18,Auto Posto Bandeirantes Ltda,21058508000110,646.0
-2,Recibo do Pagador 14000000001112740-1,2018-12-10,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,279.74
-3,Nota Fiscal 077869732,2018-12-17,Cemig Distribuição S.A.,06981180000116,48.0
-4,Nota Fiscal 201800000001614,2018-12-03,WColor Editora Gráfica Ltda,05033125000131,550.0
-5,Fatura 000104,2018-12-11,Estacionamento Salve Jorge Ltda,17509454000195,2300.0
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo do Sacado 64181,2018-12-17,Diretrans Ltda,19490812000190,Aluguel de escritório para representação parlamentar,720.0
+1,Danfe 00004268,2018-12-18,Auto Posto Bandeirantes Ltda,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),646.0
+2,Recibo do Pagador 14000000001112740-1,2018-12-10,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,279.74
+3,Nota Fiscal 077869732,2018-12-17,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,48.0
+4,Nota Fiscal 201800000001614,2018-12-03,WColor Editora Gráfica Ltda,05033125000131,Impressos,550.0
+5,Fatura 000104,2018-12-11,Estacionamento Salve Jorge Ltda,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+6,,,,,total,4543.74

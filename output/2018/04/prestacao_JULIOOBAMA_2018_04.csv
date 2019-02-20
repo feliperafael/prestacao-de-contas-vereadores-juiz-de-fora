@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo/Fatura numerada 000439916,2018-04-13,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,39.34
-1,Nota Fiscal de Comunicações Modelo 21 1072925,2018-04-13,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.22
-2,Danfe 00003941,2018-04-27,Auto Posto Bandeirantes Ltda,21058508000110,750.0
-3,Recibo do Pagador 14000000001037454-5,2018-04-10,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,282.12
-4,Recibo de pagamento a autônomo - RPA 17,2018-04-27,Elaine Araújo Gonzaga,05499740674,1600.0
-5,Cupom Fiscal 311457,2018-04-02,Parco Papelaria LTDA,05214053001109,12.03
-6,Nota Fiscal 021071294,2018-04-10,Cemig Distribuição S.A.,06981180000116,39.0
-7,Fatura 000171,2018-04-27,Estacionamento Salve Jorge Ltda. - ME,17509454000195,2300.0
-8,Cupom Fiscal 311458,2018-04-02,Parco Papelaria Ltda,05214053001109,74.08
-9,Cupom Fiscal 072260,2018-04-02,Parco Papelaria LTDA,05214053001109,44.6
-10,Fatura 1700418019588,2018-04-27,Oi Fixo,33000118000179,222.54
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo/Fatura numerada 000439916,2018-04-13,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,39.34
+1,Nota Fiscal de Comunicações Modelo 21 1072925,2018-04-13,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,26.22
+2,Danfe 00003941,2018-04-27,Auto Posto Bandeirantes Ltda,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),750.0
+3,Recibo do Pagador 14000000001037454-5,2018-04-10,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,282.12
+4,Recibo de pagamento a autônomo - RPA 17,2018-04-27,Elaine Araújo Gonzaga,05499740674,* Consultoria técnica,1600.0
+5,Cupom Fiscal 311457,2018-04-02,Parco Papelaria LTDA,05214053001109,Copa Interna,12.03
+6,Nota Fiscal 021071294,2018-04-10,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,39.0
+7,Fatura 000171,2018-04-27,Estacionamento Salve Jorge Ltda. - ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+8,Cupom Fiscal 311458,2018-04-02,Parco Papelaria Ltda,05214053001109,Material de expediente,74.08
+9,Cupom Fiscal 072260,2018-04-02,Parco Papelaria LTDA,05214053001109,Suprimentos para equipamentos de informática,44.6
+10,Fatura 1700418019588,2018-04-27,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),222.54
+11,,,,,total,5167.39

@@ -1,19 +1,20 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 09/2018,2018-10-01,Leonardo Gudziki Hábel,62819313604,800.0
-1,Documento auxiliar da nota fiscal eletronica 6314,2018-10-31,Papagaio Comercio e derivados de petroleo Ltda,10515414000107,1505.92
-2,Recibo 10/2018,2018-10-09,Condominio do edificio top center,20439162000138,240.0
-3,Docuneto auxiliar da nota fiscal eletronica- danfe 000001514,2018-10-23,Acarbonaro Agua Mineral,24488698000102,16.0
-4,Documento auxiliar da nota fiscal eletronica- danfe 5332,2018-10-26,Ribeiro de oliveira& cia ltda,21562897000117,29.2
-5,Nota Fiscal 063219272,2018-10-09,Cemig,06981180000116,48.95
-6,nota fiscal 055975337,2018-10-10,cemig,06981180000116,49.87
-7,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000105,2018-10-10,Ricardo Teixeira de Aguiar,66464488000116,290.0
-8,Documento de arrecaação do imposto predial e territorial urbano 002668/206,2018-10-10,Prefeitura Municipal de Juiz de Fora,18338178000102,41.25
-9,Documento de arrecadação do imposto predial e territorial urbano 002668/206,2018-10-26,Prefeitura municipal de juiz de fora,18338178000102,41.25
-10,Nota Fiscal Eletronica de Serviço 201800000000390,2018-10-26,Ambiente Comunicação ltda,09662777000196,750.0
-11,Documento auxiliar da nota fiscl eletronica - danfe 5332,2018-10-26,Ribeiro de oliveira & cia ltda,21562897000117,41.3
-12,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000268,2018-10-29,Interurb Servicos Postais Ltda,42933416000102,18.72
-13,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000269,2018-10-30,Interurb Serviço s Postais Ltda,42933416000102,19.44
-14,Nota fiscal eletronica de serviço-nfs-e 201800000000079,2018-10-03,Onofre de Matos Guedes,26632032000101,350.0
-15,Nota Fiscal Serviços de Telecomunicação 0313572750,2018-10-15,operadora vivo,02558157000910,275.98
-16,Nota Fiscal Serviços de Telecomunicação 0697013800-0,2018-10-09,Operadora vivo,02558157000162,153.47
-17,Nota Fiscal Serviços de Telecomunicação 1700424703821,2018-10-29,Operadora oi,33000118000179,245.64
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 09/2018,2018-10-01,Leonardo Gudziki Hábel,62819313604,Aluguel de escritório para representação parlamentar,800.0
+1,Documento auxiliar da nota fiscal eletronica 6314,2018-10-31,Papagaio Comercio e derivados de petroleo Ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1505.92
+2,Recibo 10/2018,2018-10-09,Condominio do edificio top center,20439162000138,Condomínio de escritório para representação parlamentar,240.0
+3,Docuneto auxiliar da nota fiscal eletronica- danfe 000001514,2018-10-23,Acarbonaro Agua Mineral,24488698000102,Copa Interna,16.0
+4,Documento auxiliar da nota fiscal eletronica- danfe 5332,2018-10-26,Ribeiro de oliveira& cia ltda,21562897000117,Copa Interna,29.2
+5,Nota Fiscal 063219272,2018-10-09,Cemig,06981180000116,Energia elétrica para escritório para representação parlamentar,48.95
+6,nota fiscal 055975337,2018-10-10,cemig,06981180000116,Energia elétrica para escritório para representação parlamentar,49.87
+7,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000105,2018-10-10,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),290.0
+8,Documento de arrecaação do imposto predial e territorial urbano 002668/206,2018-10-10,Prefeitura Municipal de Juiz de Fora,18338178000102,IPTU e Taxas de escritório para representação parlamentar,41.25
+9,Documento de arrecadação do imposto predial e territorial urbano 002668/206,2018-10-26,Prefeitura municipal de juiz de fora,18338178000102,IPTU e Taxas de escritório para representação parlamentar,41.25
+10,Nota Fiscal Eletronica de Serviço 201800000000390,2018-10-26,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+11,Documento auxiliar da nota fiscl eletronica - danfe 5332,2018-10-26,Ribeiro de oliveira & cia ltda,21562897000117,Material de expediente,41.3
+12,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000268,2018-10-29,Interurb Servicos Postais Ltda,42933416000102,Postagem,18.72
+13,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000269,2018-10-30,Interurb Serviço s Postais Ltda,42933416000102,Postagem,19.44
+14,Nota fiscal eletronica de serviço-nfs-e 201800000000079,2018-10-03,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,350.0
+15,Nota Fiscal Serviços de Telecomunicação 0313572750,2018-10-15,operadora vivo,02558157000910,Telefone Móvel,275.98
+16,Nota Fiscal Serviços de Telecomunicação 0697013800-0,2018-10-09,Operadora vivo,02558157000162,Telefone para escritório para representação parlamentar,153.47
+17,Nota Fiscal Serviços de Telecomunicação 1700424703821,2018-10-29,Operadora oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),245.64
+18,,,,,total,4671.35

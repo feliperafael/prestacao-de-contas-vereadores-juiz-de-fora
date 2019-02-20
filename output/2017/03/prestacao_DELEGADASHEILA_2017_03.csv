@@ -1,13 +1,14 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,danfe 736,2017-03-29,posto centro choferes,21575972000184,1318.6
-1,recibo rpa 001,2017-03-31,maria tereza lamego genevam,10147971608,1500.0
-2,danfe 5376,2017-03-13,nagen comercio e serviços ltda,02283746000185,732.0
-3,nfs-e 2017/87,2017-03-13,nagen comercio e serviços ltda,02283746000185,249.0
-4,nfse 2017/20,2017-03-02,ricardo teixeira de aguiar,66464488000116,260.0
-5,nfs-e 201700000000049,2017-03-27,w. collor editora grafica ltda,05033125000131,150.0
-6,nfs-e 201700000000062,2017-03-28,w.collor editora grafica ltda,05033125000131,470.0
-7,nfse 1229,2017-03-09,vizion gestao de negocios empresariais ltda epp,07979987000187,586.0
-8,recibo 3577822/1,2017-03-31,movida locaçao de veiculos s/a,07976147020609,2118.0
-9,cupom fiscal 382118,2017-03-03,parco papelaria ltda,05214053001109,33.64
-10,comprovante do cliente 1276155464,2017-03-16,emp. bras de correios e telegrafos,42933416000102,41.4
-11,nota fiscal de serviços de telecomunicação 1700401096287,2017-03-31,oi fixo,33000118000179,168.24
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,danfe 736,2017-03-29,posto centro choferes,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1318.6
+1,recibo rpa 001,2017-03-31,maria tereza lamego genevam,10147971608,* Consultoria técnica,1500.0
+2,danfe 5376,2017-03-13,nagen comercio e serviços ltda,02283746000185,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),732.0
+3,nfs-e 2017/87,2017-03-13,nagen comercio e serviços ltda,02283746000185,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),249.0
+4,nfse 2017/20,2017-03-02,ricardo teixeira de aguiar,66464488000116,Estacionamento (uma vaga),260.0
+5,nfs-e 201700000000049,2017-03-27,w. collor editora grafica ltda,05033125000131,Impressos,150.0
+6,nfs-e 201700000000062,2017-03-28,w.collor editora grafica ltda,05033125000131,Impressos,470.0
+7,nfse 1229,2017-03-09,vizion gestao de negocios empresariais ltda epp,07979987000187,Locação de softwares,586.0
+8,recibo 3577822/1,2017-03-31,movida locaçao de veiculos s/a,07976147020609,Locação de veículos utilizados no exercício do mandato legislativo,2118.0
+9,cupom fiscal 382118,2017-03-03,parco papelaria ltda,05214053001109,Material de expediente,33.64
+10,comprovante do cliente 1276155464,2017-03-16,emp. bras de correios e telegrafos,42933416000102,Postagem,41.4
+11,nota fiscal de serviços de telecomunicação 1700401096287,2017-03-31,oi fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),168.24
+12,,,,,total,7458.64

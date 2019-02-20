@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo/Fatura Numerada 000260807,2017-10-17,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
-1,Nota Fiscal de serviço de Comunicação 000894284,2017-10-17,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
-2,Recibo do Sacado 59796,2017-10-27,Diretrans Ltda,19490812000190,720.0
-3,Danfe 00003681,2017-10-31,Auto Posto bandeirantes Ltda,21058508000110,700.0
-4,Recibo do Pagador 140000000008560078,2017-10-09,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,255.39
-5,Recibo de Pagamento a  Autônomo-RPA 09,2017-10-31,Elaine Araújo Gonzaga,07057136609,1600.0
-6,Cupom Fiscal 057296,2017-10-27,Teixeira e Chaves LTDA,21339965001902,15.75
-7,Nota Fiscal 000862189,2017-10-10,Cemig Distribuição S.A.,06981180000116,40.71
-8,Fatura 000141,2017-10-25,Estacionamento Salve Jorge Ltda.-ME,17509454000195,2300.0
-9,Cupom Fiscal 276252,2017-10-27,Parco Papelaria Ltda,05214053001109,49.68
-10,Fatura 1700410705412,2017-10-31,Oi Fixo,33000118000179,736.22
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo/Fatura Numerada 000260807,2017-10-17,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,40.14
+1,Nota Fiscal de serviço de Comunicação 000894284,2017-10-17,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,26.76
+2,Recibo do Sacado 59796,2017-10-27,Diretrans Ltda,19490812000190,Aluguel de escritório para representação parlamentar,720.0
+3,Danfe 00003681,2017-10-31,Auto Posto bandeirantes Ltda,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),700.0
+4,Recibo do Pagador 140000000008560078,2017-10-09,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,255.39
+5,Recibo de Pagamento a  Autônomo-RPA 09,2017-10-31,Elaine Araújo Gonzaga,07057136609,* Consultoria técnica,1600.0
+6,Cupom Fiscal 057296,2017-10-27,Teixeira e Chaves LTDA,21339965001902,Copa Interna,15.75
+7,Nota Fiscal 000862189,2017-10-10,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,40.71
+8,Fatura 000141,2017-10-25,Estacionamento Salve Jorge Ltda.-ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+9,Cupom Fiscal 276252,2017-10-27,Parco Papelaria Ltda,05214053001109,Suprimentos para equipamentos de informática,49.68
+10,Fatura 1700410705412,2017-10-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),736.22
+11,,,,,total,5748.43

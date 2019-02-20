@@ -1,15 +1,16 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Boleto 051,2018-01-31,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Nota Fiscal Eletrônica 13410,2018-01-31,Posto Romualdo Ltda,66343930000156,1254.17
-2,Nota Fiscal Eletrônica 4788,2018-01-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,4.9
-3,Nota Fiscal - Conta de Energia Elétrica 829400,2018-01-15,Cemig Distribuição S.A.,06981180000116,82.7
-4,Recibo S/Nº,2018-01-31,Condomínio Parking Saggioro,20439212000187,370.0
-5,Fatura de Locação 000010,2018-01-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,1800.0
-6,Nota Fiscal Eletrônica 4788,2018-01-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,180.9
-7,Comprovante do Cliente 84971497,2018-01-31,Empresa Brasileira de Correios e Telégrafos,34028316221037,800.0
-8,Nota Fiscal Eletrônica 2013,2018-01-10,Aloisio Costa Ferreira - ME - Infotoner,02017219000129,95.0
-9,Nota Fiscal Eletrônica 4788,2018-01-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,12.9
-10,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-01-15,Telefônica Brasil S.A.,02558157000162,259.98
-11,Nota Fiscal de Serviços de Telecomunicações 867176435,2018-01-15,Telemar Norte Leste S/A,33000118000330,477.27
-12,Nota Fiscal de Serviços de Telecomunicações 1700413241416,2018-01-02,Oi Fixo,33000118000179,112.62
-13,Nota Fiscal de Serviços de Telecomunicações 170041473024,2018-01-31,Oi Fixo,33000118000179,80.26
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Boleto 051,2018-01-31,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal Eletrônica 13410,2018-01-31,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1254.17
+2,Nota Fiscal Eletrônica 4788,2018-01-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,Copa Interna,4.9
+3,Nota Fiscal - Conta de Energia Elétrica 829400,2018-01-15,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,82.7
+4,Recibo S/Nº,2018-01-31,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+5,Fatura de Locação 000010,2018-01-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+6,Nota Fiscal Eletrônica 4788,2018-01-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,Material de expediente,180.9
+7,Comprovante do Cliente 84971497,2018-01-31,Empresa Brasileira de Correios e Telégrafos,34028316221037,Postagem,800.0
+8,Nota Fiscal Eletrônica 2013,2018-01-10,Aloisio Costa Ferreira - ME - Infotoner,02017219000129,Suprimentos para equipamentos de informática,95.0
+9,Nota Fiscal Eletrônica 4788,2018-01-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,Suprimentos para equipamentos de informática,12.9
+10,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-01-15,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,259.98
+11,Nota Fiscal de Serviços de Telecomunicações 867176435,2018-01-15,Telemar Norte Leste S/A,33000118000330,Telefone para escritório para representação parlamentar,477.27
+12,Nota Fiscal de Serviços de Telecomunicações 1700413241416,2018-01-02,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),112.62
+13,Nota Fiscal de Serviços de Telecomunicações 170041473024,2018-01-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),80.26
+14,,,,,total,6287.82

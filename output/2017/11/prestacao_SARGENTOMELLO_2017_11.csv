@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE-documento auxiliar da nota fiscal eletronica 5661- serie 1,2017-11-30,Papagaio Comercio e derivados  de petroleo ltda,10515414000107,1327.82
-1,RPA-recibo  de pagamento autonomo 07,2017-11-30,Marilene de Almeida Rachel,99861356649,3300.0
-2,DANFE-documento auxiliar da nota fiscal eletronica 000.000.974,2017-11-28,Acarbonaro agua mineral ltda,24488698000102,46.0
-3,Nota Fiscal de Serviço-NFS-e 201700000000063,2017-11-07,Ricardo Teixeira de Aguiar,66464488000116,260.0
-4,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000038,2017-11-30,Wander luiz de Souza Senra,19371304000193,600.0
-5,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000148,2017-11-20,Ambiente Comunicação ltda,09662777000196,750.0
-6,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000131,2017-11-30,Interurb serviços postais ltda,42933416000102,1040.2
-7,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000034,2017-11-06,Onofre de Matos Guedes,26632032000101,350.0
-8,fatura operadora oi fixo 1700411982602,2017-11-30,Operadora tefonia Oi,33000118000179,314.36
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE-documento auxiliar da nota fiscal eletronica 5661- serie 1,2017-11-30,Papagaio Comercio e derivados  de petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1327.82
+1,RPA-recibo  de pagamento autonomo 07,2017-11-30,Marilene de Almeida Rachel,99861356649,* Consultoria técnica,3300.0
+2,DANFE-documento auxiliar da nota fiscal eletronica 000.000.974,2017-11-28,Acarbonaro agua mineral ltda,24488698000102,Copa Interna,46.0
+3,Nota Fiscal de Serviço-NFS-e 201700000000063,2017-11-07,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),260.0
+4,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000038,2017-11-30,Wander luiz de Souza Senra,19371304000193,Impressos,600.0
+5,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000148,2017-11-20,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+6,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000131,2017-11-30,Interurb serviços postais ltda,42933416000102,Postagem,1040.2
+7,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000034,2017-11-06,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,350.0
+8,fatura operadora oi fixo 1700411982602,2017-11-30,Operadora tefonia Oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),314.36
+9,,,,,total,7674.02

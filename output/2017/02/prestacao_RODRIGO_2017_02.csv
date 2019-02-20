@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 12113,2017-02-21,Posto Romualdo LTDA,66343930000156,1030.0
-1,Nota Fiascal de Serviços Eletronica 2017/98,2017-02-21,Real Copias de Juiz de Fora,04316977000173,342.0
-2,DANFE 000.010.678,2017-02-23,Thema Veiculos LTDA,21550231000572,463.21
-3,Prestador de Serviços 000.010.678,2017-02-23,Thema  Veiculos LTDA,21550231000572,130.34
-4,Nota Fiscal de Serviços Eletronica 2017/4,2017-02-23,Montadora TECH BASS,00377273000150,350.0
-5,Nota Fiscal de Serviças Elatrônica 2017/114,2017-02-21,União Artes Graficas LTDA,20741559000180,1099.98
-6,Recibo de Vendas de Produtos 294401,2017-02-21,ECT -Emp. Bras.Correios e Telegrafos,07840632000102,181.9
-7,DANFE 0000001856,2017-02-23,Aloisio Costa Ferreira -ME,02017219000129,55.0
-8,Nota Fiscal de Telecomunicaçõe 00667233,2017-02-24,OI FIXO,33000118000179,603.89
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 12113,2017-02-21,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1030.0
+1,Nota Fiascal de Serviços Eletronica 2017/98,2017-02-21,Real Copias de Juiz de Fora,04316977000173,Cópias xerográficas e similares,342.0
+2,DANFE 000.010.678,2017-02-23,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),463.21
+3,Prestador de Serviços 000.010.678,2017-02-23,Thema  Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),130.34
+4,Nota Fiscal de Serviços Eletronica 2017/4,2017-02-23,Montadora TECH BASS,00377273000150,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),350.0
+5,Nota Fiscal de Serviças Elatrônica 2017/114,2017-02-21,União Artes Graficas LTDA,20741559000180,Impressos,1099.98
+6,Recibo de Vendas de Produtos 294401,2017-02-21,ECT -Emp. Bras.Correios e Telegrafos,07840632000102,Postagem,181.9
+7,DANFE 0000001856,2017-02-23,Aloisio Costa Ferreira -ME,02017219000129,Suprimentos para equipamentos de informática,55.0
+8,Nota Fiscal de Telecomunicaçõe 00667233,2017-02-24,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),603.89
+9,,,,,total,3652.43

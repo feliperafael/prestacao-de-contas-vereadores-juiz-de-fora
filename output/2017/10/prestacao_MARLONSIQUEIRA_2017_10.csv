@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota fiscal Eletrônica 0000127,2017-10-27,Posto Central LTDA,21549407000142,622.3
-1,Nota Fiscal Eletrônica 000013055,2017-10-30,Posto Rumualdo LTDA,66343930000156,386.72
-2,Nota Fiscal Eletrônica de Serviço 201700000000018,2017-10-30,Aristides Ribeiro Advogados Associados S/C,04504649000109,3000.0
-3,Nota Fiscal Eletrônica 0000003466,2017-10-03,Getline Produtos de Informatica LTDA Jetline Cautuchos,03785499000188,16.6
-4,Nota Fiscal Eletrônica de Serviço 201700000000647,2017-10-27,Real Copias de Juiz de Fora LTDA,04316977000173,42.72
-5,Nota Fiscal Eletrônica 0000003466,2017-10-03,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,53.82
-6,Nota Fiscal Eletrônica 0000003483,2017-10-24,Getline Produtos de Informaticas LTDA Jetline Cartuchos,03785499000188,41.8
-7,Nota Fiscal Eletrônica 0000003483,2017-10-24,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,39.0
-8,Nota Fiscal de Serviço de  Telecomunicação 0304814216,2017-10-05,Vivo,02558157000162,390.79
-9,Nota Fiscal de Serviços de Telecomunicação 1700410705412,2017-10-30,Oi Fixo,33000118000179,171.63
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota fiscal Eletrônica 0000127,2017-10-27,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),622.3
+1,Nota Fiscal Eletrônica 000013055,2017-10-30,Posto Rumualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),386.72
+2,Nota Fiscal Eletrônica de Serviço 201700000000018,2017-10-30,Aristides Ribeiro Advogados Associados S/C,04504649000109,* Consultoria técnica,3000.0
+3,Nota Fiscal Eletrônica 0000003466,2017-10-03,Getline Produtos de Informatica LTDA Jetline Cautuchos,03785499000188,Copa Interna,16.6
+4,Nota Fiscal Eletrônica de Serviço 201700000000647,2017-10-27,Real Copias de Juiz de Fora LTDA,04316977000173,Cópias xerográficas e similares,42.72
+5,Nota Fiscal Eletrônica 0000003466,2017-10-03,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,Material de expediente,53.82
+6,Nota Fiscal Eletrônica 0000003483,2017-10-24,Getline Produtos de Informaticas LTDA Jetline Cartuchos,03785499000188,Material de expediente,41.8
+7,Nota Fiscal Eletrônica 0000003483,2017-10-24,Getline Produtos de Informatica LTDA Jetline Cartuchos,03785499000188,Suprimentos para equipamentos de informática,39.0
+8,Nota Fiscal de Serviço de  Telecomunicação 0304814216,2017-10-05,Vivo,02558157000162,Telefone Móvel,390.79
+9,Nota Fiscal de Serviços de Telecomunicação 1700410705412,2017-10-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),171.63
+10,,,,,total,4593.75

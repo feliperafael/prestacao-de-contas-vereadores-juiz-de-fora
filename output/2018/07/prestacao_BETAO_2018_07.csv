@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Cobrança Bancária Caixa 051,2018-07-31,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Nota Fiscal Eletrônica 14218,2018-07-31,Posto Romualdo Ltda,66343930000156,1394.97
-2,Nota Fiscal - Conta de Energia Elétrica 041466129,2018-07-12,Cemig Distribuição S.A.,06981180000116,106.44
-3,Recibo S/Nº,2018-07-31,Condomínio Parking Saggioro,20439212000187,370.0
-4,Fatura de Locação 000016,2018-07-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,1800.0
-5,Nota Fiscal Eletrônica 5113,2018-07-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,164.8
-6,Comprovante do Cliente 87575889,2018-07-31,Empresa Brasileira de Correios e Telégrafos,34028316221037,800.0
-7,Nota Fiscal Eletrônica 5113,2018-07-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,39.9
-8,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-07-12,Telefônica Brasil S.A.,02558157000162,269.99
-9,Nota Fiscal de Serviços de Telecomunicações 973288409,2018-07-12,Telemar Norte Leste S/A.,33000118000330,358.1
-10,Nota Fiscal de Serviços de Telecomunicações 1700421406453,2018-07-31,Oi Fixo,33000118000179,104.41
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Cobrança Bancária Caixa 051,2018-07-31,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal Eletrônica 14218,2018-07-31,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1394.97
+2,Nota Fiscal - Conta de Energia Elétrica 041466129,2018-07-12,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,106.44
+3,Recibo S/Nº,2018-07-31,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+4,Fatura de Locação 000016,2018-07-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+5,Nota Fiscal Eletrônica 5113,2018-07-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,Material de expediente,164.8
+6,Comprovante do Cliente 87575889,2018-07-31,Empresa Brasileira de Correios e Telégrafos,34028316221037,Postagem,800.0
+7,Nota Fiscal Eletrônica 5113,2018-07-25,Ribeiro de Oliveira & Cia Ltda,21562897000117,Suprimentos para equipamentos de informática,39.9
+8,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-07-12,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,269.99
+9,Nota Fiscal de Serviços de Telecomunicações 973288409,2018-07-12,Telemar Norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,358.1
+10,Nota Fiscal de Serviços de Telecomunicações 1700421406453,2018-07-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),104.41
+11,,,,,total,6254.2

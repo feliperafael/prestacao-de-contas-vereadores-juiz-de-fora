@@ -1,17 +1,18 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo de Aluguel 05,2018-06-01,Leonardo Gudziki hábel,62819313604,800.0
-1,Danfe- Documento Auxiliar da Nota Fiscal Eletronica 6062,2018-06-29,Papagaio Comercio e Derivados de Petroleo ltda,10515414000107,1202.84
-2,Recibo do Pagador 06/2018,2018-06-08,Condominio do Edificio Top Center,20439162000138,240.0
-3,Danfe- Documento Auxiliar da Nota Fiscal Eletronica 5061,2018-06-26,Ribeiro de Oliveira& Cia ltda,21562897000117,15.6
-4,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 000.001.303,2018-06-26,A Carbonaro Agua Mineral ltda,24488698000102,23.0
-5,Nota Fiscal 027851925,2018-06-08,CEMIG,06981180000116,38.45
-6,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000092,2018-06-15,Ricardo Teixeira de Aguiar,66464488000116,290.0
-7,Documento de Arrecadação do Imposto Predial e Territorial Urbano 002668/206,2018-06-08,Prefeitura Juiz de Fora,18338178000102,41.25
-8,Nota Fiscal de Serviço - NFS-e 201800000002879,2018-06-25,America Industria Gráfica,02282594000104,150.0
-9,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000049,2018-06-28,Wander Luiz de Souza Senra,19371304000193,380.0
-10,Nota Fiscal de Serviço Serviço -NFS-e 201800000000288,2018-06-18,Ambiente Comunicação ltda,09662777000196,750.0
-11,Danfe- Documento Auxiliar da Nota Fiscal Eletronica 5061,2018-06-26,Ribeiro de Oliveira & Cia ltda,21562897000117,65.7
-12,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000062,2018-06-04,Onofre de Matos Guedes,26632032000101,700.0
-13,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 5061,2018-06-26,Ribeiro de OLiveira & Cia ltda,21562897000117,118.4
-14,Fatura 0313572750,2018-06-27,Operadora Vivo,02558157000910,269.99
-15,Fatura 1700420283987,2018-06-27,Operadora OI,33000118000179,256.94
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo de Aluguel 05,2018-06-01,Leonardo Gudziki hábel,62819313604,Aluguel de escritório para representação parlamentar,800.0
+1,Danfe- Documento Auxiliar da Nota Fiscal Eletronica 6062,2018-06-29,Papagaio Comercio e Derivados de Petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1202.84
+2,Recibo do Pagador 06/2018,2018-06-08,Condominio do Edificio Top Center,20439162000138,Condomínio de escritório para representação parlamentar,240.0
+3,Danfe- Documento Auxiliar da Nota Fiscal Eletronica 5061,2018-06-26,Ribeiro de Oliveira& Cia ltda,21562897000117,Copa Interna,15.6
+4,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 000.001.303,2018-06-26,A Carbonaro Agua Mineral ltda,24488698000102,Copa Interna,23.0
+5,Nota Fiscal 027851925,2018-06-08,CEMIG,06981180000116,Energia elétrica para escritório para representação parlamentar,38.45
+6,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000092,2018-06-15,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),290.0
+7,Documento de Arrecadação do Imposto Predial e Territorial Urbano 002668/206,2018-06-08,Prefeitura Juiz de Fora,18338178000102,IPTU e Taxas de escritório para representação parlamentar,41.25
+8,Nota Fiscal de Serviço - NFS-e 201800000002879,2018-06-25,America Industria Gráfica,02282594000104,Impressos,150.0
+9,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000049,2018-06-28,Wander Luiz de Souza Senra,19371304000193,Impressos,380.0
+10,Nota Fiscal de Serviço Serviço -NFS-e 201800000000288,2018-06-18,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+11,Danfe- Documento Auxiliar da Nota Fiscal Eletronica 5061,2018-06-26,Ribeiro de Oliveira & Cia ltda,21562897000117,Material de expediente,65.7
+12,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000062,2018-06-04,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,700.0
+13,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 5061,2018-06-26,Ribeiro de OLiveira & Cia ltda,21562897000117,Suprimentos para equipamentos de informática,118.4
+14,Fatura 0313572750,2018-06-27,Operadora Vivo,02558157000910,Telefone Móvel,269.99
+15,Fatura 1700420283987,2018-06-27,Operadora OI,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),256.94
+16,,,,,total,5085.23

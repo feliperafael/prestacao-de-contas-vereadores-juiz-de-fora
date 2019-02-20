@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Cupom Fiscal 618538,2018-03-19,Posto Santa Lucia LTDA,17280959000120,150.0
-1,Cupom Fiscal 051321,2018-03-19,J Pilate Junior & CIA LTDA,86423753000125,150.02
-2,Cupom Fiscal 323445,2018-03-23,Posto Romualdo LTDA,66343930000156,200.08
-3,DANFE 000013664,2018-03-28,Posto Romualdo LTDA,66343930000156,150.02
-4,Nota Fiscal Eletrônica de Serviços 201800000000081,2018-03-26,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,1500.0
-5,DANFE 000.001.154,2018-03-23,A Carbonaro Agua Mineral ME,24488698000102,52.0
-6,DANFE 4914,2018-03-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,141.5
-7,Nota Fiscal de Serviços Eletrônica 201800000000933,2018-03-28,Real Copias  de juiz de fora LTDA,04316977000173,561.6
-8,DANFE 4914,2018-03-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,226.8
-9,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000000003,2018-03-28,Aloisio Costa Ferreira -me infotoner,02017219000129,39.0
-10,Nota Fiscal de Telecomunicações 1700416853428,2018-03-28,OI FIXO,33000118000179,257.7
-11,DANFE 000123149,2018-03-14,Atlantica Hoteis Internacional Brasil LTDA,02223966005778,361.2
-12,Nota Fiscal de Serviços Eletrônica -NFS-e 1614,2018-03-19,NOAR TURISMO LTDA ME,18780623000190,1672.34
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Cupom Fiscal 618538,2018-03-19,Posto Santa Lucia LTDA,17280959000120,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),150.0
+1,Cupom Fiscal 051321,2018-03-19,J Pilate Junior & CIA LTDA,86423753000125,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),150.02
+2,Cupom Fiscal 323445,2018-03-23,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),200.08
+3,DANFE 000013664,2018-03-28,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),150.02
+4,Nota Fiscal Eletrônica de Serviços 201800000000081,2018-03-26,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,* Consultoria técnica,1500.0
+5,DANFE 000.001.154,2018-03-23,A Carbonaro Agua Mineral ME,24488698000102,Copa Interna,52.0
+6,DANFE 4914,2018-03-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,Copa Interna,141.5
+7,Nota Fiscal de Serviços Eletrônica 201800000000933,2018-03-28,Real Copias  de juiz de fora LTDA,04316977000173,Cópias xerográficas e similares,561.6
+8,DANFE 4914,2018-03-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,Material de expediente,226.8
+9,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000000003,2018-03-28,Aloisio Costa Ferreira -me infotoner,02017219000129,Suprimentos para equipamentos de informática,39.0
+10,Nota Fiscal de Telecomunicações 1700416853428,2018-03-28,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),257.7
+11,DANFE 000123149,2018-03-14,Atlantica Hoteis Internacional Brasil LTDA,02223966005778,"Viagens em função do exercício do mandato legislativo (passagens, locomoção urbana ou estacionamento, hospedagem e alimentação)",361.2
+12,Nota Fiscal de Serviços Eletrônica -NFS-e 1614,2018-03-19,NOAR TURISMO LTDA ME,18780623000190,"Viagens em função do exercício do mandato legislativo (passagens, locomoção urbana ou estacionamento, hospedagem e alimentação)",1672.34
+13,,,,,total,5204.56

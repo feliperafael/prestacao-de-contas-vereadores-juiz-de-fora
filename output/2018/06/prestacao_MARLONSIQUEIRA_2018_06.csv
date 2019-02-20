@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 000020564,2018-06-14,Solar Comunicações S/A,21561725000129,85.83
-1,Nota Fiscal Eletronica 000000822,2018-06-28,Posto Centro Choferes LTDA,21575972000184,370.01
-2,Nota Fiscal Eletronica 000000186,2018-06-29,Posto central LTDA,21549407000142,779.73
-3,Nota Fiscal Eletronica de Serviço 201800000000034,2018-06-28,Aristides Ribeiro Advogados Associados S/C,04504649000109,3000.0
-4,Nota Fiscal Eletronica 42,2018-06-25,Papelaria Tetheo,07403078000104,26.0
-5,Nota Fiscal Eletronica 42,2018-06-25,Papelaria Tetheo,07403078000104,39.8
-6,Nota Fiscal de Serviços de Telecomunicações 03048142016,2018-06-14,Vivo,02558157000162,312.08
-7,Nota fiscal de Serviços de Telecomunicações 1700420283987,2018-06-29,Oi Fixo,33000118000179,107.57
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 000020564,2018-06-14,Solar Comunicações S/A,21561725000129,"Assinatura de jornais, revistas e periódicos",85.83
+1,Nota Fiscal Eletronica 000000822,2018-06-28,Posto Centro Choferes LTDA,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),370.01
+2,Nota Fiscal Eletronica 000000186,2018-06-29,Posto central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),779.73
+3,Nota Fiscal Eletronica de Serviço 201800000000034,2018-06-28,Aristides Ribeiro Advogados Associados S/C,04504649000109,* Consultoria técnica,3000.0
+4,Nota Fiscal Eletronica 42,2018-06-25,Papelaria Tetheo,07403078000104,Copa Interna,26.0
+5,Nota Fiscal Eletronica 42,2018-06-25,Papelaria Tetheo,07403078000104,Material de expediente,39.8
+6,Nota Fiscal de Serviços de Telecomunicações 03048142016,2018-06-14,Vivo,02558157000162,Telefone Móvel,312.08
+7,Nota fiscal de Serviços de Telecomunicações 1700420283987,2018-06-29,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),107.57
+8,,,,,total,4613.45

@@ -1,18 +1,19 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Serviço de Telecomunicação - Modelo 21 005757,2017-09-13,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,64.9
-1,Recibo do Pagador 112/54763969-3,2017-09-28,"Local - Locação, Corretagem e Adm. Ltda.",17148263000145,900.0
-2,Cupom Fiscal 031155,2017-09-05,POSTO UNIPAC LTDA,24909500000109,200.06
-3,Cupom Fiscal 405121,2017-09-19,POSTO SETE ANOES LTDA,09719902000157,210.42
-4,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00005902,2017-09-26,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,641.16
-5,Cupom Fiscal 384865,2017-09-28,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,200.05
-6,Cupom Fiscal 386055,2017-09-30,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,230.03
-7,Recibo do Pagador 1212,2017-09-15,COND ED CENTRO EMP ALBER GANIMI,26131714000122,360.15
-8,Recibo de Pagamento a Autônomo - RPA 002,2017-09-26,BRUNA MARANGOM DA SILVA,09501322688,2000.0
-9,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000000859,2017-09-25,A CARBONARO AGUA MINERAL ME,24488698000102,74.0
-10,Nota Fiscal - Conta de Energia Elétrica 000399750,2017-09-15,CEMIG DISTRIBUIÇÃO S.A.,06981180000116,63.31
-11,Nota Fiscal Eletronica de Servicos - NFS-e 201700000000053,2017-09-28,RICARDO TEIXEIRA DE AGUIAR,66464488000116,260.0
-12,Recibo do Pagador 112/54763969-3,2017-09-28,"Local - Locação, Corretagem e Adm. Ltda.",17148263000145,112.32
-13,Nota Fiscal Eletronica de Servicos - NFE 002355,2017-09-12,TECNEGÓCIOS SOLUCOES EM INFORMÁTICA LTDA - ME,11521613000190,199.0
-14,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 0000001959,2017-09-25,ALOISIO COSTA FERREIRA ME - INFOTONER,02017219000129,50.0
-15,Nota Fiscal Serviço de Telecomunicação 0304919151,2017-09-21,TELEFONICA BRASIL S.A.,02558157000162,249.99
-16,Nota Fiscal Serviço de Telecomunicação 1700409330654,2017-09-29,TELEMAR NORTE LESTE S/A,33000118000179,199.09
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Serviço de Telecomunicação - Modelo 21 005757,2017-09-13,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,Acesso a internet de escritório para representação parlamentar,64.9
+1,Recibo do Pagador 112/54763969-3,2017-09-28,"Local - Locação, Corretagem e Adm. Ltda.",17148263000145,Aluguel de escritório para representação parlamentar,900.0
+2,Cupom Fiscal 031155,2017-09-05,POSTO UNIPAC LTDA,24909500000109,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),200.06
+3,Cupom Fiscal 405121,2017-09-19,POSTO SETE ANOES LTDA,09719902000157,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),210.42
+4,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00005902,2017-09-26,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),641.16
+5,Cupom Fiscal 384865,2017-09-28,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),200.05
+6,Cupom Fiscal 386055,2017-09-30,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),230.03
+7,Recibo do Pagador 1212,2017-09-15,COND ED CENTRO EMP ALBER GANIMI,26131714000122,Condomínio de escritório para representação parlamentar,360.15
+8,Recibo de Pagamento a Autônomo - RPA 002,2017-09-26,BRUNA MARANGOM DA SILVA,09501322688,* Consultoria técnica,2000.0
+9,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000000859,2017-09-25,A CARBONARO AGUA MINERAL ME,24488698000102,Copa Interna,74.0
+10,Nota Fiscal - Conta de Energia Elétrica 000399750,2017-09-15,CEMIG DISTRIBUIÇÃO S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,63.31
+11,Nota Fiscal Eletronica de Servicos - NFS-e 201700000000053,2017-09-28,RICARDO TEIXEIRA DE AGUIAR,66464488000116,Estacionamento (uma vaga),260.0
+12,Recibo do Pagador 112/54763969-3,2017-09-28,"Local - Locação, Corretagem e Adm. Ltda.",17148263000145,IPTU e Taxas de escritório para representação parlamentar,112.32
+13,Nota Fiscal Eletronica de Servicos - NFE 002355,2017-09-12,TECNEGÓCIOS SOLUCOES EM INFORMÁTICA LTDA - ME,11521613000190,Locação de softwares,199.0
+14,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 0000001959,2017-09-25,ALOISIO COSTA FERREIRA ME - INFOTONER,02017219000129,Suprimentos para equipamentos de informática,50.0
+15,Nota Fiscal Serviço de Telecomunicação 0304919151,2017-09-21,TELEFONICA BRASIL S.A.,02558157000162,Telefone Móvel,249.99
+16,Nota Fiscal Serviço de Telecomunicação 1700409330654,2017-09-29,TELEMAR NORTE LESTE S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),199.09
+17,,,,,total,5815.39

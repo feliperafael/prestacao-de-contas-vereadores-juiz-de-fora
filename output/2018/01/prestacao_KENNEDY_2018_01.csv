@@ -1,16 +1,17 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Serviço de Comunicação - MODELO 21 011873,2018-01-10,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,64.9
-1,Recibo do Pagador 112/86704230-4,2018-01-26,"LOCAL - LOCAÇÃO, CORRETAGEM E ADM. LTDA.",17148263000145,900.0
-2,Recibo do Pagador 1212,2018-01-15,COND ED CENTRO EMP ALBER GANIMI,26131714000122,392.23
-3,Recibo de Pagamento a Autônomo - RPA 006,2018-01-25,BRUNA MARANGOM DA SILVA,09501322688,2000.0
-4,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000001063,2018-01-17,A CARBONARO AGUA MINERAL ME,24488698000102,89.0
-5,Documento Auxiliar de Nota Fiscal Eletrônica - DANFE 000030721,2018-01-12,PLANETA AUTOMOVEIS LTDA,17936762000369,711.8
-6,Nota Fiscal Eletrônica de Serviços - NFS-e 201800000008109,2018-01-12,PLANETA AUTOMIVEIS LTDA,17936762000369,286.2
-7,Nota Fiscal - Conta de Energia Elétrica 000415042,2018-01-10,CEMIG DISTRIBUIÇÃO S.A.,06981180000116,57.94
-8,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000073,2018-01-26,RICARDO TEIXEIRA DE AGUIAR,66464488000116,260.0
-9,Nota Fiscal Eletrônica de Serviços - NFS-e 201800000000149,2018-01-12,OLIVEIRA E MOREIRA GRAFICA E EDITORA LTDA,04947397000184,2195.0
-10,Nota Fiscal Eletronica de Serviços - NFE 002862,2018-01-18,TECNEGÓCIOS SOLUÇÕES EM INFORMÁTICA LTDA. - ME,11521613000190,199.0
-11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 6911,2018-01-26,TEIXEIRA E CHAVES LTDA - FILIAL 21,21339965001902,16.5
-12,Nota Fiscal de Serviço de Telecomunicação 0304919151,2018-01-15,TELEFONICA BRASIL S.A.,02558157000162,269.99
-13,Nota Fiscal de Serviço de Telecomunicação 1700413241416,2018-01-26,TELEMAR NORTE LESTE S/A,33000118000179,230.49
-14,Nota Fiscal de Serviço de Telecomunicação 170041473024,2018-01-26,TELEMAR NORTE LESTE S/A,33000118000179,225.75
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Serviço de Comunicação - MODELO 21 011873,2018-01-10,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,Acesso a internet de escritório para representação parlamentar,64.9
+1,Recibo do Pagador 112/86704230-4,2018-01-26,"LOCAL - LOCAÇÃO, CORRETAGEM E ADM. LTDA.",17148263000145,Aluguel de escritório para representação parlamentar,900.0
+2,Recibo do Pagador 1212,2018-01-15,COND ED CENTRO EMP ALBER GANIMI,26131714000122,Condomínio de escritório para representação parlamentar,392.23
+3,Recibo de Pagamento a Autônomo - RPA 006,2018-01-25,BRUNA MARANGOM DA SILVA,09501322688,* Consultoria técnica,2000.0
+4,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000001063,2018-01-17,A CARBONARO AGUA MINERAL ME,24488698000102,Copa Interna,89.0
+5,Documento Auxiliar de Nota Fiscal Eletrônica - DANFE 000030721,2018-01-12,PLANETA AUTOMOVEIS LTDA,17936762000369,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),711.8
+6,Nota Fiscal Eletrônica de Serviços - NFS-e 201800000008109,2018-01-12,PLANETA AUTOMIVEIS LTDA,17936762000369,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),286.2
+7,Nota Fiscal - Conta de Energia Elétrica 000415042,2018-01-10,CEMIG DISTRIBUIÇÃO S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,57.94
+8,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000073,2018-01-26,RICARDO TEIXEIRA DE AGUIAR,66464488000116,Estacionamento (uma vaga),260.0
+9,Nota Fiscal Eletrônica de Serviços - NFS-e 201800000000149,2018-01-12,OLIVEIRA E MOREIRA GRAFICA E EDITORA LTDA,04947397000184,Impressos,2195.0
+10,Nota Fiscal Eletronica de Serviços - NFE 002862,2018-01-18,TECNEGÓCIOS SOLUÇÕES EM INFORMÁTICA LTDA. - ME,11521613000190,Locação de softwares,199.0
+11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 6911,2018-01-26,TEIXEIRA E CHAVES LTDA - FILIAL 21,21339965001902,Material de expediente,16.5
+12,Nota Fiscal de Serviço de Telecomunicação 0304919151,2018-01-15,TELEFONICA BRASIL S.A.,02558157000162,Telefone Móvel,269.99
+13,Nota Fiscal de Serviço de Telecomunicação 1700413241416,2018-01-26,TELEMAR NORTE LESTE S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),230.49
+14,Nota Fiscal de Serviço de Telecomunicação 170041473024,2018-01-26,TELEMAR NORTE LESTE S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),225.75
+15,,,,,total,7442.56

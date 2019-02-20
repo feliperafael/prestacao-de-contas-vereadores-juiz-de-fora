@@ -1,4 +1,5 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,NFe 14755,2018-11-22,Posto Romualdo Ltda,66343930000156,1172.74
-1,Fatura de Locação/Duplicata 589,2018-11-27,Locadora Hermon Ltda,04569904000193,2000.0
-2,Nota Fiscal de Serviços de Telecomunicação 1700425769980,2018-11-26,Telemar Norte Leste SA,33000118000179,320.88
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,NFe 14755,2018-11-22,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1172.74
+1,Fatura de Locação/Duplicata 589,2018-11-27,Locadora Hermon Ltda,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+2,Nota Fiscal de Serviços de Telecomunicação 1700425769980,2018-11-26,Telemar Norte Leste SA,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),320.88
+3,,,,,total,3172.74

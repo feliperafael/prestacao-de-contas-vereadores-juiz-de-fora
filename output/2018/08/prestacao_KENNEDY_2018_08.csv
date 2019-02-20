@@ -1,16 +1,17 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Serviço de Comunicação - Modelo 21 016081,2018-08-15,INFORWAVE E INTERNET JF EIRELI,05125915000147,65.03
-1,Recibo do Pagador 10681,2018-08-31,"LOCAL - LOCAÇÃO, CORRETAGEM E ADM. LTDA",17148263000145,925.56
-2,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00006690,2018-08-27,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,930.09
-3,Recibo do Pagador 1012120818,2018-08-24,CONDOMINIO DO EDIFICIO CENTRO EMPRESARIAL ALBER GANIMI,26131714000122,405.18
-4,Recibo de Pagamento a Autônomo - RPA 013,2018-08-24,BRUNA MARANGOM DA SILVA,09501322688,2000.0
-5,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000001395,2018-08-28,A CARBONARO AGUA MINERAL,24488698000102,115.0
-6,Nota Fiscal - Conta de Energia Elétrica 048342538,2018-08-15,CEMIG DISTRIBUICAO S.A.,06981180000116,76.17
-7,Recibo do Pagador 10681,2018-08-31,"LOCAL - LOCAÇÃO, CORRETAGEM E ADM. LTDA",17148263000145,115.46
-8,Nota Fiscal Eletrônica de Serviços - NFE 003858,2018-08-15,TECNEGOCIOS SOLUCOES E I L ME,11521613000190,199.0
-9,Documento Auxiliar da Nota fiscal Eletrônica - DANFE 154646,2018-08-14,PARCO PAPELARIA LTDA,05214053001109,14.02
-10,Comprovante do Cliente 1517791716,2018-08-24,EMP. BRAS. DE CORREIOS E TELEGRAFOS,42933416000102,53.28
-11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 154646,2018-08-14,PARCO PAPELARIA LTDA,05214053001109,20.21
-12,Nota Fiscal Eletrônica de Serviço - NFS 201800000000141,2018-08-21,ALOISIO COSTA FERREIRA,02017219000129,80.0
-13,Nota Fiscal de Telecomunicação 0304919151,2018-08-24,TELEFONICA BRASIL S.A.,02558157000162,269.99
-14,Nota Fiscal de Serviço de Telecomunicação 1700422515815,2018-08-31,TELEMAR NORTE LESTE S/A,33000118000179,122.56
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Serviço de Comunicação - Modelo 21 016081,2018-08-15,INFORWAVE E INTERNET JF EIRELI,05125915000147,Acesso a internet de escritório para representação parlamentar,65.03
+1,Recibo do Pagador 10681,2018-08-31,"LOCAL - LOCAÇÃO, CORRETAGEM E ADM. LTDA",17148263000145,Aluguel de escritório para representação parlamentar,925.56
+2,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00006690,2018-08-27,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),930.09
+3,Recibo do Pagador 1012120818,2018-08-24,CONDOMINIO DO EDIFICIO CENTRO EMPRESARIAL ALBER GANIMI,26131714000122,Condomínio de escritório para representação parlamentar,405.18
+4,Recibo de Pagamento a Autônomo - RPA 013,2018-08-24,BRUNA MARANGOM DA SILVA,09501322688,* Consultoria técnica,2000.0
+5,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000001395,2018-08-28,A CARBONARO AGUA MINERAL,24488698000102,Copa Interna,115.0
+6,Nota Fiscal - Conta de Energia Elétrica 048342538,2018-08-15,CEMIG DISTRIBUICAO S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,76.17
+7,Recibo do Pagador 10681,2018-08-31,"LOCAL - LOCAÇÃO, CORRETAGEM E ADM. LTDA",17148263000145,IPTU e Taxas de escritório para representação parlamentar,115.46
+8,Nota Fiscal Eletrônica de Serviços - NFE 003858,2018-08-15,TECNEGOCIOS SOLUCOES E I L ME,11521613000190,Locação de softwares,199.0
+9,Documento Auxiliar da Nota fiscal Eletrônica - DANFE 154646,2018-08-14,PARCO PAPELARIA LTDA,05214053001109,Material de expediente,14.02
+10,Comprovante do Cliente 1517791716,2018-08-24,EMP. BRAS. DE CORREIOS E TELEGRAFOS,42933416000102,Postagem,53.28
+11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 154646,2018-08-14,PARCO PAPELARIA LTDA,05214053001109,Suprimentos para equipamentos de informática,20.21
+12,Nota Fiscal Eletrônica de Serviço - NFS 201800000000141,2018-08-21,ALOISIO COSTA FERREIRA,02017219000129,Suprimentos para equipamentos de informática,80.0
+13,Nota Fiscal de Telecomunicação 0304919151,2018-08-24,TELEFONICA BRASIL S.A.,02558157000162,Telefone Móvel,269.99
+14,Nota Fiscal de Serviço de Telecomunicação 1700422515815,2018-08-31,TELEMAR NORTE LESTE S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),122.56
+15,,,,,total,5268.99

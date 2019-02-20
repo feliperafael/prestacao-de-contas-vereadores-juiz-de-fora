@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Cupom Fiscal 373403,2018-06-08,Posto Romualdo Ltda,66343930000156,200.03
-1,Cupom Fiscal 175321,2018-06-14,Auto Posto Aeroporto Ltda,00587496000141,268.83
-2,Cupom fiscal 378559,2018-06-18,Posto Romualdo LTDA,66343930000156,240.0
-3,Cupom Fiscal 380243,2018-06-21,Posto Romualdo -LTDA,66343930000156,250.03
-4,Cupom Fiscal 382258,2018-06-24,Posto Romualdo Ltda,66343930000156,250.03
-5,Nota fiscal eletônica de serviços-NFS-e 201800000000098,2018-06-15,"Alvim Soares, junqueira e Advogados associados",03853408000102,1500.0
-6,DANFE 5070,2018-06-29,Ribeiro de oliveira & CIA LTDA,21562897000117,166.0
-7,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000001143,2018-06-29,Real Copias de juiz de fora  LTDA,04316977000173,497.0
-8,DANFE 000015657,2018-06-08,Thema Veiculos LTDA,21550231000572,157.64
-9,Prestação de Serviços 000015657,2018-06-08,Thema Veiculos,21550231000572,175.66
-10,DANFE 5070,2018-06-29,Ribeiro de oliveira & CIA LTDA,21562897000117,383.4
-11,Nota fiscal eletrônica de serviços -NFS-e 201800000000096,2018-06-29,Aloisio Costa Ferreira me- infotoner,02017219000129,84.0
-12,Nota Fiscal de telecomunicações 1700420283987,2018-06-29,OI FIXO,33000118000179,339.43
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Cupom Fiscal 373403,2018-06-08,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),200.03
+1,Cupom Fiscal 175321,2018-06-14,Auto Posto Aeroporto Ltda,00587496000141,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),268.83
+2,Cupom fiscal 378559,2018-06-18,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),240.0
+3,Cupom Fiscal 380243,2018-06-21,Posto Romualdo -LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),250.03
+4,Cupom Fiscal 382258,2018-06-24,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),250.03
+5,Nota fiscal eletônica de serviços-NFS-e 201800000000098,2018-06-15,"Alvim Soares, junqueira e Advogados associados",03853408000102,* Consultoria técnica,1500.0
+6,DANFE 5070,2018-06-29,Ribeiro de oliveira & CIA LTDA,21562897000117,Copa Interna,166.0
+7,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000001143,2018-06-29,Real Copias de juiz de fora  LTDA,04316977000173,Cópias xerográficas e similares,497.0
+8,DANFE 000015657,2018-06-08,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),157.64
+9,Prestação de Serviços 000015657,2018-06-08,Thema Veiculos,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),175.66
+10,DANFE 5070,2018-06-29,Ribeiro de oliveira & CIA LTDA,21562897000117,Material de expediente,383.4
+11,Nota fiscal eletrônica de serviços -NFS-e 201800000000096,2018-06-29,Aloisio Costa Ferreira me- infotoner,02017219000129,Suprimentos para equipamentos de informática,84.0
+12,Nota Fiscal de telecomunicações 1700420283987,2018-06-29,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),339.43
+13,,,,,total,4172.62

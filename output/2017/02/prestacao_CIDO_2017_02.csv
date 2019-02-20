@@ -1,10 +1,11 @@
 ,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
-0,DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRONICA 00002777,2017-02-22,POSTO JOQUEI CLUBE LTDA,41660648000171,,485.61
-1,Recibo de Pagamento de Autonomo 13,2017-02-28,Edina Gomes da Silva,83044990610,['* Consultoria técnica'],2400.0
-2,DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRONICA 4162,2017-02-22,RIBEIRO DE OLIVEIRA & CIA LTDA,21562897000117,['Copa Interna'],9.8
-3,Nfs - Nota Fiscal de Serviços Eletronica 2017/13,2017-02-22,Estacionamento Salve Jorge Ltda,17509454000195,['Estacionamento (uma vaga)'],300.0
-4,FATURA 000108,2017-02-22,ESTACIONAMENTO SALVE JORGE,17509454000195,['Locação de veículos utilizados no exercício do mandato legislativo'],2300.0
-5,Danfe- Documento Auxiliar da Nota Fiscal Eletronica 4162,2017-02-22,Ribeiro de Oliveira & Cia Ltda,21562897000117,['Material de expediente'],175.8
-6,Nota Fiscal de Serviços Eletrônica 2017.00000000043,2017-02-13,W Color Editora Grafica Ltda,05033125000131,['Publicidade Institucional'],240.0
-7,Danfe - Documento Auxiliar da Nota fiscal Eletronica 4162,2017-02-22,Ribeiro de Oliveira & Cia,21562897000117,['Suprimentos para equipamentos de informática'],19.9
-8,Nota Fiscal de Serviços de Telecomunicações 00667233,2017-02-24,Telemar Norte Leste S/A,33000118000179,['* Telefone(s) em nome da Câmara(local e interurbano) (³)'],250.25
+0,DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRONICA 00002777,2017-02-22,POSTO JOQUEI CLUBE LTDA,41660648000171,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),485.61
+1,Recibo de Pagamento de Autonomo 13,2017-02-28,Edina Gomes da Silva,83044990610,* Consultoria técnica,2400.0
+2,DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRONICA 4162,2017-02-22,RIBEIRO DE OLIVEIRA & CIA LTDA,21562897000117,Copa Interna,9.8
+3,Nfs - Nota Fiscal de Serviços Eletronica 2017/13,2017-02-22,Estacionamento Salve Jorge Ltda,17509454000195,Estacionamento (uma vaga),300.0
+4,FATURA 000108,2017-02-22,ESTACIONAMENTO SALVE JORGE,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+5,Danfe- Documento Auxiliar da Nota Fiscal Eletronica 4162,2017-02-22,Ribeiro de Oliveira & Cia Ltda,21562897000117,Material de expediente,175.8
+6,Nota Fiscal de Serviços Eletrônica 2017.00000000043,2017-02-13,W Color Editora Grafica Ltda,05033125000131,Publicidade Institucional,240.0
+7,Danfe - Documento Auxiliar da Nota fiscal Eletronica 4162,2017-02-22,Ribeiro de Oliveira & Cia,21562897000117,Suprimentos para equipamentos de informática,19.9
+8,Nota Fiscal de Serviços de Telecomunicações 00667233,2017-02-24,Telemar Norte Leste S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),250.25
+9,,,,,total,5931.11

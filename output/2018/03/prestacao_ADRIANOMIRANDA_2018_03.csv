@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,NFe 13659,2018-03-26,Posto Romualdo Ltda,66343930000156,1104.89
-1,Recibo do Pagador 140000000010280273,2018-03-06,Cond Ed Rossi Rio Branco Corporate,20291262000160,281.56
-2,NFe 7623,2018-03-06,Teixeira e Chaves Ltda,21339965001902,10.9
-3,Fatura de Locação/Duplicata 335,2018-03-27,Locadora Hermon Ltda,04569904000193,2000.0
-4,NFe 7623,2018-03-06,Teixeira e Chaves Ltda,21339965001902,37.9
-5,NFAe 014662116,2018-03-16,Bruno Flavio de Souza Marinho,13763707000100,100.0
-6,NFe 7813,2018-03-19,Teixeira e Chaves Ltda,21339965001902,31.0
-7,Nota Fiscal de Serviços de Telecomunicação 1700416853428,2018-03-22,Telemar Norte Leste SA,33000118000179,536.31
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,NFe 13659,2018-03-26,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1104.89
+1,Recibo do Pagador 140000000010280273,2018-03-06,Cond Ed Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,281.56
+2,NFe 7623,2018-03-06,Teixeira e Chaves Ltda,21339965001902,Copa Interna,10.9
+3,Fatura de Locação/Duplicata 335,2018-03-27,Locadora Hermon Ltda,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+4,NFe 7623,2018-03-06,Teixeira e Chaves Ltda,21339965001902,Material de expediente,37.9
+5,NFAe 014662116,2018-03-16,Bruno Flavio de Souza Marinho,13763707000100,Publicidade Institucional,100.0
+6,NFe 7813,2018-03-19,Teixeira e Chaves Ltda,21339965001902,Suprimentos para equipamentos de informática,31.0
+7,Nota Fiscal de Serviços de Telecomunicação 1700416853428,2018-03-22,Telemar Norte Leste SA,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),536.31
+8,,,,,total,3566.25

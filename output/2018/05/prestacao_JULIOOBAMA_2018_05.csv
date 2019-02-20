@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Comunicações Modelo 21 1107629,2018-05-11,Infoline Comunicações e informações Eletrônicas Ltda,00958288000101,26.76
-1,Recibo/Fatura 000474706,2018-05-11,Infoline Comunicações e Informações,00958288000101,40.14
-2,Recibo do Sacado 61756,2018-05-02,Diretrans Ltda,19490812000190,720.0
-3,Danfe 00003982,2018-05-30,Auto Posto Bandeirantes Ltda,21058508000110,750.0
-4,Recibo do Pagador 14000000001046784-5,2018-05-09,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,246.06
-5,Recibo de Pagamento a Autônomo 18,2018-05-30,Elaine Araújo Gonzaga,05499740674,1600.0
-6,Nota Fiscal 027877835,2018-05-09,Cemig Distribuição S.A.,06981180000116,37.26
-7,Nota Fiscal Serviços Eletrônica 201800000001042,2018-05-29,WCollor editora Gráfica Ltda,05033125000131,1750.0
-8,Fatura 000175,2018-05-28,Estacionamento Salve Jorge Ltda.- ME,17509454000195,2300.0
-9,DANFE 8814,2018-05-30,Teixeiras e Chaves Ltda,21339965001902,230.0
-10,Fatura 1700419157952,2018-05-30,Oi Fixo,33000118000179,170.56
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Comunicações Modelo 21 1107629,2018-05-11,Infoline Comunicações e informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,26.76
+1,Recibo/Fatura 000474706,2018-05-11,Infoline Comunicações e Informações,00958288000101,Acesso a internet de escritório para representação parlamentar,40.14
+2,Recibo do Sacado 61756,2018-05-02,Diretrans Ltda,19490812000190,Aluguel de escritório para representação parlamentar,720.0
+3,Danfe 00003982,2018-05-30,Auto Posto Bandeirantes Ltda,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),750.0
+4,Recibo do Pagador 14000000001046784-5,2018-05-09,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,246.06
+5,Recibo de Pagamento a Autônomo 18,2018-05-30,Elaine Araújo Gonzaga,05499740674,* Consultoria técnica,1600.0
+6,Nota Fiscal 027877835,2018-05-09,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,37.26
+7,Nota Fiscal Serviços Eletrônica 201800000001042,2018-05-29,WCollor editora Gráfica Ltda,05033125000131,Impressos,1750.0
+8,Fatura 000175,2018-05-28,Estacionamento Salve Jorge Ltda.- ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+9,DANFE 8814,2018-05-30,Teixeiras e Chaves Ltda,21339965001902,Material de expediente,230.0
+10,Fatura 1700419157952,2018-05-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),170.56
+11,,,,,total,7700.22

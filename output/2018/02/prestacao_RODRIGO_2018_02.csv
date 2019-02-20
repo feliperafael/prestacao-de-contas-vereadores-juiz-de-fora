@@ -1,7 +1,8 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Serviços 201800000000072,2018-02-27,"Alvim Soares, Junqueira E Advogados Associados",03853408000102,1500.0
-1,DANFE 4847,2018-02-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,78.0
-2,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000000881,2018-02-27,Real copias de juiz de foraLTDA,04316977000173,548.4
-3,Nota Fiscal de Serviços Eletrônica 201800000000948,2018-02-27,União Artes Graficas LTDA,20741559000180,500.0
-4,DANFE 4847,2018-02-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,206.0
-5,Nota Fiscal de Telecomunicações 1700415674971,2018-02-28,OI FIXO,33000118000179,256.4
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Serviços 201800000000072,2018-02-27,"Alvim Soares, Junqueira E Advogados Associados",03853408000102,* Consultoria técnica,1500.0
+1,DANFE 4847,2018-02-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,Copa Interna,78.0
+2,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000000881,2018-02-27,Real copias de juiz de foraLTDA,04316977000173,Cópias xerográficas e similares,548.4
+3,Nota Fiscal de Serviços Eletrônica 201800000000948,2018-02-27,União Artes Graficas LTDA,20741559000180,Impressos,500.0
+4,DANFE 4847,2018-02-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,Material de expediente,206.0
+5,Nota Fiscal de Telecomunicações 1700415674971,2018-02-28,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),256.4
+6,,,,,total,2832.4

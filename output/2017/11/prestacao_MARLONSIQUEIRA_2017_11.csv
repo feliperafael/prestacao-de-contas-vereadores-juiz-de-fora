@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Documento Auxiliar da Nota Fiscal Eletrônica 000018194,2017-11-16,Solar Comunicação SA,21561725000129,35.6
-1,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 000136,2017-11-23,Posto Central LTDA,21549407000142,690.06
-2,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 13168,2017-11-27,Posto Rumualdo LTDA,66343930000156,636.86
-3,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 201700000000020,2017-11-28,Aristides Ribeiro Advogados Assiciados S/C,04504649000109,3000.0
-4,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 48705,2017-11-13,Lubritec JF Derivados de Petroleo ME,07786341000183,260.0
-5,DANFE Documento Auxiliar Da Nota Fiscal Eletrônica 001979,2017-11-30,Aloisio Costa Ferreira- ME Infotoner,02017219000129,104.6
-6,Nota Fiscal de Telecomunicação 0304814216,2017-11-17,Vivo,02558157000162,380.5
-7,Nota Fiscal de Telecomunicação 1700411982602,2017-11-30,Oi Fixo,33000118000179,199.77
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Documento Auxiliar da Nota Fiscal Eletrônica 000018194,2017-11-16,Solar Comunicação SA,21561725000129,"Assinatura de jornais, revistas e periódicos",35.6
+1,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 000136,2017-11-23,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),690.06
+2,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 13168,2017-11-27,Posto Rumualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),636.86
+3,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 201700000000020,2017-11-28,Aristides Ribeiro Advogados Assiciados S/C,04504649000109,* Consultoria técnica,3000.0
+4,DANFE Documento Auxiliar da Nota Fiscal Eletrônica 48705,2017-11-13,Lubritec JF Derivados de Petroleo ME,07786341000183,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),260.0
+5,DANFE Documento Auxiliar Da Nota Fiscal Eletrônica 001979,2017-11-30,Aloisio Costa Ferreira- ME Infotoner,02017219000129,Material de expediente,104.6
+6,Nota Fiscal de Telecomunicação 0304814216,2017-11-17,Vivo,02558157000162,Telefone Móvel,380.5
+7,Nota Fiscal de Telecomunicação 1700411982602,2017-11-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),199.77
+8,,,,,total,5107.62

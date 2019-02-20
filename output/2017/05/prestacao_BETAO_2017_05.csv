@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Boleto 051,2017-05-30,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,39.0
-2,Nota Fiscal - Conta de Energia Elétrica 749804,2017-05-30,Cemig Distribuição S.A.,06981180000116,82.24
-3,Fatura de Locação 2,2017-05-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,1800.0
-4,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,341.5
-5,Comprovante do Cliente 0001,2017-05-10,Empresa Brasileira de Correios e Telégrafos,86555109000100,3425.8
-6,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,169.0
-7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-05-10,Telefônica Brasil S.A.,02558157000162,442.65
-8,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-05-10,Telefônica Brasil S.A.,02558157000162,94.05
-9,Nota Fiscal de Serviços de Telecomunicações 778209493,2017-05-15,Telemar Norte Leste S/A.,33000118000330,425.7
-10,Nota Fiscal de Serviços de Telecomunicações 1700403894827,2017-05-30,Oi Fixo,33000118000179,146.91
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Boleto 051,2017-05-30,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,Copa Interna,39.0
+2,Nota Fiscal - Conta de Energia Elétrica 749804,2017-05-30,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,82.24
+3,Fatura de Locação 2,2017-05-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+4,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,Material de expediente,341.5
+5,Comprovante do Cliente 0001,2017-05-10,Empresa Brasileira de Correios e Telégrafos,86555109000100,Postagem,3425.8
+6,Nota Fiscal Eletrônica 4319,2017-05-30,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,Suprimentos para equipamentos de informática,169.0
+7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-05-10,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,442.65
+8,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-05-10,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,94.05
+9,Nota Fiscal de Serviços de Telecomunicações 778209493,2017-05-15,Telemar Norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,425.7
+10,Nota Fiscal de Serviços de Telecomunicações 1700403894827,2017-05-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),146.91
+11,,,,,total,7769.94

@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE-Documento Auxiliar da Nota Fiscal Eletronica 00005610,2017-10-31,Papagaio Com e Derivados de Petroleo Ltda,10515414000107,1441.05
-1,RPA- Recibo de Pagamento a Autonomo 06,2017-10-30,Marilene de Almeida Rachel,99861356649,3300.0
-2,DANFE-documento auxiliar da nota fiscal eletronica 000.000.917,2017-10-25,A carbonaro Agua Mineral ME,24488698000102,69.0
-3,Nota fiscal Eletronica de Serviço- NFS-e 201700000000057,2017-10-04,Ricardo Teixeira de Aguiar,66464488000116,260.0
-4,Nota  Fiscal Eletronica de Serviço- NFS-e 201700000000036,2017-10-28,Wander Luiz de Souza Senra,19371304000193,600.0
-5,Nota Fiscal Eletronica de Serviço- NFS-e 201700000000136,2017-10-19,Ambiente Comunicação ltda,09662777000196,750.0
-6,DANFE- Documento auxiliar da nota fiscal eletronica 4600-SÉRIE 1,2017-10-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,53.8
-7,Nota Fiscal Eletronica de Serviço 201700000000029,2017-10-02,Onofre de Matos Guedes,26632032000101,350.0
-8,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 4600- SÉRIE 1,2017-10-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,59.0
-9,Fatura 1700410705412,2017-10-30,Operadora telefonia OI,33000118000179,284.97
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE-Documento Auxiliar da Nota Fiscal Eletronica 00005610,2017-10-31,Papagaio Com e Derivados de Petroleo Ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1441.05
+1,RPA- Recibo de Pagamento a Autonomo 06,2017-10-30,Marilene de Almeida Rachel,99861356649,* Consultoria técnica,3300.0
+2,DANFE-documento auxiliar da nota fiscal eletronica 000.000.917,2017-10-25,A carbonaro Agua Mineral ME,24488698000102,Copa Interna,69.0
+3,Nota fiscal Eletronica de Serviço- NFS-e 201700000000057,2017-10-04,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),260.0
+4,Nota  Fiscal Eletronica de Serviço- NFS-e 201700000000036,2017-10-28,Wander Luiz de Souza Senra,19371304000193,Impressos,600.0
+5,Nota Fiscal Eletronica de Serviço- NFS-e 201700000000136,2017-10-19,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+6,DANFE- Documento auxiliar da nota fiscal eletronica 4600-SÉRIE 1,2017-10-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,Material de expediente,53.8
+7,Nota Fiscal Eletronica de Serviço 201700000000029,2017-10-02,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,350.0
+8,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 4600- SÉRIE 1,2017-10-27,Ribeiro de Oliveira & CIA LTDA,21562897000117,Suprimentos para equipamentos de informática,59.0
+9,Fatura 1700410705412,2017-10-30,Operadora telefonia OI,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),284.97
+10,,,,,total,6882.85

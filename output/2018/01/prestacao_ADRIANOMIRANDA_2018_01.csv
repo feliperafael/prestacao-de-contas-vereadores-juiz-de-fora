@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Comunicações 974152,2018-01-05,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
-1,Recibo/Fatura numerada 340882,2018-01-05,Infoline Comunicações e Informações Eletronicas Ltda,00958288000101,40.14
-2,Recibo 12,2018-01-04,Tendencias Comerciais em Imoveis Eireli,07697040000183,850.0
-3,NFe 18932,2018-01-30,Solar Comunicações SA,21561725000129,462.99
-4,NFe 13388,2018-01-29,Posto Romualdo Ltda,66343930000156,1623.98
-5,Recibo do Pagador 140000000010097606,2018-01-05,Cond ed Rossi Rio Branco Corporate,20291262000160,246.23
-6,NFSe 201800000000233,2018-01-29,Posto Romualdo Ltda,66343930000156,40.0
-7,Nota Fiscal Série U1 822526,2018-01-10,Cemig Distribuição SA,06981180000116,40.24
-8,Fatura de locação 292,2018-01-29,Locadora Hermon Ltda,04569904000193,2000.0
-9,Nota Fiscal de Serviços de Telecomunicação 1700413241416,2018-01-22,Telemar Norte Leste SA,33000118000179,498.73
-10,Nota Fiscal de Serviços de Telecomunicações 170041473024,2018-01-29,Telemar Norte Leste SA,33000118000179,248.57
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Comunicações 974152,2018-01-05,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,26.76
+1,Recibo/Fatura numerada 340882,2018-01-05,Infoline Comunicações e Informações Eletronicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,40.14
+2,Recibo 12,2018-01-04,Tendencias Comerciais em Imoveis Eireli,07697040000183,Aluguel de escritório para representação parlamentar,850.0
+3,NFe 18932,2018-01-30,Solar Comunicações SA,21561725000129,"Assinatura de jornais, revistas e periódicos",462.99
+4,NFe 13388,2018-01-29,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1623.98
+5,Recibo do Pagador 140000000010097606,2018-01-05,Cond ed Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,246.23
+6,NFSe 201800000000233,2018-01-29,Posto Romualdo Ltda,66343930000156,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),40.0
+7,Nota Fiscal Série U1 822526,2018-01-10,Cemig Distribuição SA,06981180000116,Energia elétrica para escritório para representação parlamentar,40.24
+8,Fatura de locação 292,2018-01-29,Locadora Hermon Ltda,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+9,Nota Fiscal de Serviços de Telecomunicação 1700413241416,2018-01-22,Telemar Norte Leste SA,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),498.73
+10,Nota Fiscal de Serviços de Telecomunicações 170041473024,2018-01-29,Telemar Norte Leste SA,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),248.57
+11,,,,,total,5330.34

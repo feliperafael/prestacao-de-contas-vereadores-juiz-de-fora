@@ -1,13 +1,14 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo/Fatura Numerada 281849,2017-11-06,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
-1,Nota Fiscal de Comunicações Modelo 21 915270,2017-11-06,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
-2,Recibo 10,2017-11-04,Tendências Comerciais em Imóveis Eireli,07697040000183,850.0
-3,NFe 13160,2017-11-22,Posto Romualdo Ltda,66343930000156,1391.21
-4,Recibo do Pagador 140000000008656563,2017-11-06,Cond Ed Rossi Rio Branco Corporate,20291262000160,303.19
-5,NFSe 201700000000193,2017-11-22,Posto Romualdo Ltda,66343930000156,80.0
-6,Nota Fiscal série U1 822609,2017-11-17,Cemig Distribuição SA,06981180000116,45.26
-7,Documento de Lançamento de Arrecadação de IPTU 2644/144,2017-11-06,Prefeitura Municipal de Juiz de Fora,17783192000152,107.92
-8,Fatura de Locação 261,2017-11-27,Locadora Hermon  Ltda,04569904000193,2000.0
-9,NFe 5557,2017-11-06,Teixeira e Chaves Ltda,21339965001902,56.85
-10,NFe 5881,2017-11-27,Teixeira e Chaves Ltda,21339965001902,32.0
-11,Nota Fiscal de Serviços de Telecomunicação 1700411982602,2017-11-23,Telemar Norte Leste SA,33000118000179,557.45
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo/Fatura Numerada 281849,2017-11-06,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,40.14
+1,Nota Fiscal de Comunicações Modelo 21 915270,2017-11-06,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,26.76
+2,Recibo 10,2017-11-04,Tendências Comerciais em Imóveis Eireli,07697040000183,Aluguel de escritório para representação parlamentar,850.0
+3,NFe 13160,2017-11-22,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1391.21
+4,Recibo do Pagador 140000000008656563,2017-11-06,Cond Ed Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,303.19
+5,NFSe 201700000000193,2017-11-22,Posto Romualdo Ltda,66343930000156,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),80.0
+6,Nota Fiscal série U1 822609,2017-11-17,Cemig Distribuição SA,06981180000116,Energia elétrica para escritório para representação parlamentar,45.26
+7,Documento de Lançamento de Arrecadação de IPTU 2644/144,2017-11-06,Prefeitura Municipal de Juiz de Fora,17783192000152,IPTU e Taxas de escritório para representação parlamentar,107.92
+8,Fatura de Locação 261,2017-11-27,Locadora Hermon  Ltda,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+9,NFe 5557,2017-11-06,Teixeira e Chaves Ltda,21339965001902,Material de expediente,56.85
+10,NFe 5881,2017-11-27,Teixeira e Chaves Ltda,21339965001902,Suprimentos para equipamentos de informática,32.0
+11,Nota Fiscal de Serviços de Telecomunicação 1700411982602,2017-11-23,Telemar Norte Leste SA,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),557.45
+12,,,,,total,4933.33

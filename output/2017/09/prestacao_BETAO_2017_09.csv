@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Boleto 051,2017-09-29,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Nota Fiscal Eletrônica 12947,2017-09-29,Posto Romualdo Ltda,66343930000156,1067.43
-2,Nota Fiscal Eletrônica 860,2017-09-25,A Carbonaro Água Mineral ME.,24488698000102,16.0
-3,Nota Fiscal - Conta de Energia Elétrica 752545,2017-09-20,Cemig Distribuição S.A.,06981180000116,82.93
-4,Recibo S/Nº,2017-09-30,Condomínio Parking Saggioro,20439212000187,370.0
-5,Fatura de Locação 000006,2017-09-28,Empreteira Transtech T&D Ltda- ME,14496365000163,1800.0
-6,Nota Fiscal Eletrônica 4535,2017-09-26,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,212.7
-7,Comprovante do Cliente 066,2017-09-13,Empresa Brasileira de Correios e Telégrafos,42933416000102,6.95
-8,Nota Fiscal Eletrônica 4535,2017-09-26,Ribeiro de Oliveira & Cia. Litda.,21562897000117,59.0
-9,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-09-20,Telefônica Brasil S.A.,02558157000162,264.7
-10,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-09-20,Telefônica Brasil S.A.,02558157000162,99.35
-11,Nota Fiscal de Serviços de Telecomunicações 809438137,2017-09-20,Telemar Norte Leste S/A.,33000118000330,477.27
-12,Nota Fiscal de Serviços de Telecomunicações 1700409330654,2017-09-30,Oi Fixo,33000118000179,100.84
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Boleto 051,2017-09-29,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal Eletrônica 12947,2017-09-29,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1067.43
+2,Nota Fiscal Eletrônica 860,2017-09-25,A Carbonaro Água Mineral ME.,24488698000102,Copa Interna,16.0
+3,Nota Fiscal - Conta de Energia Elétrica 752545,2017-09-20,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,82.93
+4,Recibo S/Nº,2017-09-30,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+5,Fatura de Locação 000006,2017-09-28,Empreteira Transtech T&D Ltda- ME,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+6,Nota Fiscal Eletrônica 4535,2017-09-26,Ribeiro de Oliveira & Cia. Ltda.,21562897000117,Material de expediente,212.7
+7,Comprovante do Cliente 066,2017-09-13,Empresa Brasileira de Correios e Telégrafos,42933416000102,Postagem,6.95
+8,Nota Fiscal Eletrônica 4535,2017-09-26,Ribeiro de Oliveira & Cia. Litda.,21562897000117,Suprimentos para equipamentos de informática,59.0
+9,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-09-20,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,264.7
+10,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-09-20,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,99.35
+11,Nota Fiscal de Serviços de Telecomunicações 809438137,2017-09-20,Telemar Norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,477.27
+12,Nota Fiscal de Serviços de Telecomunicações 1700409330654,2017-09-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),100.84
+13,,,,,total,5406.33

@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 000018194,2018-03-09,Solar Comunicação S/A,21561725000129,35.6
-1,Nota Fiscal Eletronica 000013660,2018-03-26,Posto Rumualdo LTDA,66343930000156,240.03
-2,Nota Fiscal Eletronica 000004149,2018-03-26,Posto Visão LTDA,25408964000102,100.0
-3,Nota Fiscal Eletronica 000000167,2018-03-28,Posto Central LTTDA,21549407000142,858.77
-4,Nota Fiscal Eletronica de Serviços 201800000000027,2018-03-28,Aristides Ribeiro Advogados Associados S/C,04504649000109,3000.0
-5,Nota Fiscal Eletronica de Serviços 201800000000156,2018-03-27,ERV Revistas e Promoções Eireli,20876409000183,400.0
-6,Nota Fiscal de Serviços de Telecomunicaçoes 0304814216,2018-03-09,VIVO,02558157000162,393.06
-7,Nota Fiscal de Serviços de Telecomunicaçãoes 1700416853428,2018-03-28,OI,33000118000179,142.84
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 000018194,2018-03-09,Solar Comunicação S/A,21561725000129,"Assinatura de jornais, revistas e periódicos",35.6
+1,Nota Fiscal Eletronica 000013660,2018-03-26,Posto Rumualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),240.03
+2,Nota Fiscal Eletronica 000004149,2018-03-26,Posto Visão LTDA,25408964000102,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),100.0
+3,Nota Fiscal Eletronica 000000167,2018-03-28,Posto Central LTTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),858.77
+4,Nota Fiscal Eletronica de Serviços 201800000000027,2018-03-28,Aristides Ribeiro Advogados Associados S/C,04504649000109,* Consultoria técnica,3000.0
+5,Nota Fiscal Eletronica de Serviços 201800000000156,2018-03-27,ERV Revistas e Promoções Eireli,20876409000183,Publicidade Institucional,400.0
+6,Nota Fiscal de Serviços de Telecomunicaçoes 0304814216,2018-03-09,VIVO,02558157000162,Telefone Móvel,393.06
+7,Nota Fiscal de Serviços de Telecomunicaçãoes 1700416853428,2018-03-28,OI,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),142.84
+8,,,,,total,5027.46

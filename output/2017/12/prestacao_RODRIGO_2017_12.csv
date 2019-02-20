@@ -1,7 +1,8 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 4710,2017-12-19,Ribeiro de Oliveira & CIA  LTDA,21562897000117,127.0
-1,Nota Fiscal Eletrônica de Serviços NFS-e 201700000000754,2017-12-19,Real Copias de juiz de fora LTDA,04316977000173,673.84
-2,DANFE 000.013.302,2017-12-05,Thema Veiculos LTDA,21550231000572,273.88
-3,Prestador de Serviços 201700000001313,2017-12-05,Thema Veiculos LTDA,21550231000572,241.0
-4,Nota Fiscal de Serviços Eletrônica 201700000000804,2017-12-19,União Artes Craficas LTDA,20741559000180,1300.0
-5,DANFE 4710,2017-12-19,Ribeiro de Oliveira & CIA LTDA,21562897000117,365.1
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 4710,2017-12-19,Ribeiro de Oliveira & CIA  LTDA,21562897000117,Copa Interna,127.0
+1,Nota Fiscal Eletrônica de Serviços NFS-e 201700000000754,2017-12-19,Real Copias de juiz de fora LTDA,04316977000173,Cópias xerográficas e similares,673.84
+2,DANFE 000.013.302,2017-12-05,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),273.88
+3,Prestador de Serviços 201700000001313,2017-12-05,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),241.0
+4,Nota Fiscal de Serviços Eletrônica 201700000000804,2017-12-19,União Artes Craficas LTDA,20741559000180,Impressos,1300.0
+5,DANFE 4710,2017-12-19,Ribeiro de Oliveira & CIA LTDA,21562897000117,Material de expediente,365.1
+6,,,,,total,2980.82

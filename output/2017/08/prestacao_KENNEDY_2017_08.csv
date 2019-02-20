@@ -1,24 +1,25 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Serviço de Telecomunicação - Modelo 21 005021,2017-08-15,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,64.9
-1,Recibo do Sacado 112/45380824-1,2017-08-28,"Local - Locação, Corretagem e Adm. Ltda.",17148263000145,850.0
-2,CUPOM FISCAL 360627,2017-08-05,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,180.0
-3,CUPOM FISCAL 389737,2017-08-13,POSTO SETE ANOES LTDA,09719902000157,180.0
-4,CUPOM FISCAL 153572,2017-08-23,POSTO ECO LTDA,03845434000180,170.01
-5,CUPOM FISCAL 061579,2017-08-24,AUTO POSTO SALVATERRA LTDA,24659912000219,88.0
-6,DANFE 5839,2017-08-31,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,140.0
-7,Recibo do Sacado 1212,2017-08-24,COND ED CENTRO EMP ALBER GANIMI,26131714000122,374.22
-8,Recibo de Pagamento a Autônomo - RPA 001,2017-08-28,Bruna Marangom da Silva,09501322688,2000.0
-9,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000000813,2017-08-29,A CARBONARO AGUA MINERAL ME,24488698000102,37.0
-10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 25514,2017-08-24,PLANETA AUTOMOVEIS LTDA,17936762000369,349.0
-11,Nota Fiscal Eletronica de Servicos - NFS-e 201700000004946,2017-08-24,PLANETA AUTOMOVEIS LTDA,17936762000369,280.0
-12,Nota Fiscal - Conta de Energia Elétrica 000413891,2017-08-22,CEMIG DISTRIBUICAO S.A.,06981180000116,51.72
-13,Nota Fiscal Eletronica de Servicos - NFS-e 201700000000047,2017-08-29,RICARDO TEIXEIRA DE AGUIAR,66464488000116,260.0
-14,Recibo do Sacado 112/45380824-1,2017-08-28,"Local - Locação, Corretagem e Adm. Ltda.",17148263000145,112.32
-15,Nota Fiscal Eletronica de Servicos - NFS-e 201700000000086,2017-08-08,OLIVEIRA E MOREIRA GRAFICA E EDITORA LTDA,04947397000184,540.0
-16,Nota Fiscal Eletronica de Servicos - NFS-e 002237,2017-08-22,TECNEGOCIOS SOLUCOES EM INFORMATICA LTDA ME,11521613000190,199.0
-17,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 4451,2017-08-14,RIBEIRO DE OLIVEIRA & CIA LTDA,21562897000117,7.8
-18,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 140801,2017-08-24,PARCO PAPELARIA LTDA,05214053001109,22.96
-19,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 140801,2017-08-24,PARCO PAPELARIA LTDA,05214053001109,78.46
-20,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 0000001941,2017-08-25,ALOISIO COSTA FERREIRA ME - INFOTONER,02017219000129,50.0
-21,Fatura 0304919151,2017-08-22,TELEFONICA BRASIL SA,02558157000162,252.49
-22,Fatura 1700407982540,2017-08-29,TELEMAR NORTE LESTE S/A,33000118000179,128.62
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Serviço de Telecomunicação - Modelo 21 005021,2017-08-15,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,Acesso a internet de escritório para representação parlamentar,64.9
+1,Recibo do Sacado 112/45380824-1,2017-08-28,"Local - Locação, Corretagem e Adm. Ltda.",17148263000145,Aluguel de escritório para representação parlamentar,850.0
+2,CUPOM FISCAL 360627,2017-08-05,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),180.0
+3,CUPOM FISCAL 389737,2017-08-13,POSTO SETE ANOES LTDA,09719902000157,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),180.0
+4,CUPOM FISCAL 153572,2017-08-23,POSTO ECO LTDA,03845434000180,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),170.01
+5,CUPOM FISCAL 061579,2017-08-24,AUTO POSTO SALVATERRA LTDA,24659912000219,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),88.0
+6,DANFE 5839,2017-08-31,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),140.0
+7,Recibo do Sacado 1212,2017-08-24,COND ED CENTRO EMP ALBER GANIMI,26131714000122,Condomínio de escritório para representação parlamentar,374.22
+8,Recibo de Pagamento a Autônomo - RPA 001,2017-08-28,Bruna Marangom da Silva,09501322688,* Consultoria técnica,2000.0
+9,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000000813,2017-08-29,A CARBONARO AGUA MINERAL ME,24488698000102,Copa Interna,37.0
+10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 25514,2017-08-24,PLANETA AUTOMOVEIS LTDA,17936762000369,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),349.0
+11,Nota Fiscal Eletronica de Servicos - NFS-e 201700000004946,2017-08-24,PLANETA AUTOMOVEIS LTDA,17936762000369,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),280.0
+12,Nota Fiscal - Conta de Energia Elétrica 000413891,2017-08-22,CEMIG DISTRIBUICAO S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,51.72
+13,Nota Fiscal Eletronica de Servicos - NFS-e 201700000000047,2017-08-29,RICARDO TEIXEIRA DE AGUIAR,66464488000116,Estacionamento (uma vaga),260.0
+14,Recibo do Sacado 112/45380824-1,2017-08-28,"Local - Locação, Corretagem e Adm. Ltda.",17148263000145,IPTU e Taxas de escritório para representação parlamentar,112.32
+15,Nota Fiscal Eletronica de Servicos - NFS-e 201700000000086,2017-08-08,OLIVEIRA E MOREIRA GRAFICA E EDITORA LTDA,04947397000184,Impressos,540.0
+16,Nota Fiscal Eletronica de Servicos - NFS-e 002237,2017-08-22,TECNEGOCIOS SOLUCOES EM INFORMATICA LTDA ME,11521613000190,Locação de softwares,199.0
+17,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 4451,2017-08-14,RIBEIRO DE OLIVEIRA & CIA LTDA,21562897000117,Material de expediente,7.8
+18,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 140801,2017-08-24,PARCO PAPELARIA LTDA,05214053001109,Material de expediente,22.96
+19,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 140801,2017-08-24,PARCO PAPELARIA LTDA,05214053001109,Suprimentos para equipamentos de informática,78.46
+20,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 0000001941,2017-08-25,ALOISIO COSTA FERREIRA ME - INFOTONER,02017219000129,Suprimentos para equipamentos de informática,50.0
+21,Fatura 0304919151,2017-08-22,TELEFONICA BRASIL SA,02558157000162,Telefone Móvel,252.49
+22,Fatura 1700407982540,2017-08-29,TELEMAR NORTE LESTE S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),128.62
+23,,,,,total,6287.88

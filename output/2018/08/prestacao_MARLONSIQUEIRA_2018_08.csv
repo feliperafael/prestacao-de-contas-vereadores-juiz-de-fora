@@ -1,16 +1,17 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 000020564,2018-08-03,Solar Comunicações S/A,21561725000129,85.83
-1,Nota Fiscal Eletronica 00002302,2018-08-29,R.A Ribeiro Combustiveis,12941507000129,244.85
-2,Nota Fiscal Eletronica 000014352,2018-08-29,Posto  Rumualdo LTDA,66343930000156,223.05
-3,Nota Fiscal Eletronica 000545,2018-08-30,Cencosud Brasil Comercial LTDA,39346861032799,76.21
-4,Nota Fiscal Eletronica 00001947,2018-08-31,Chamonix LTDA,20447074000188,250.0
-5,Nota Fiscal Eletronica 00006037,2018-08-31,Posto Sete Anões LTDA,09719902000157,207.77
-6,Nota Fiscal Eletronica 000000193,2018-08-31,Posto Central LTDA,21549407000142,50.0
-7,Nota Fiscal Eletronica de Serviço 201800000000037,2018-08-30,Aristedes Ribeiro Advogados Associados S/C,04504649000109,3000.0
-8,Nota Fiscal Eletronica 47,2018-08-30,Papelaria Tetheo,07403078000104,31.5
-9,Nota Fiscal Eletronica de Serviço 201800000000119,2018-08-27,J e M Grafica e Editora LTDA,18250169000165,150.0
-10,Nota Fiscal Eletronica 47,2018-08-30,Papelaria Tetheo,07403078000104,39.8
-11,Nota Fiscal Eletronica 22379,2018-08-02,Lojas Americanas S.A,33014556001249,359.0
-12,Nota Fiscal Eletronica de Serviço 201800000000148,2018-08-28,Aloisio Costa Ferreira,02017219000129,45.0
-13,Nota Fiscal de Serviço de Telecomunicação 0304814216,2018-08-03,Vivo,02558157000162,416.02
-14,Nota Fiscal Eletronica de Serviços de Telecomunicações 1700422515815,2018-08-30,Oi Fixo,33000118000179,131.39
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 000020564,2018-08-03,Solar Comunicações S/A,21561725000129,"Assinatura de jornais, revistas e periódicos",85.83
+1,Nota Fiscal Eletronica 00002302,2018-08-29,R.A Ribeiro Combustiveis,12941507000129,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),244.85
+2,Nota Fiscal Eletronica 000014352,2018-08-29,Posto  Rumualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),223.05
+3,Nota Fiscal Eletronica 000545,2018-08-30,Cencosud Brasil Comercial LTDA,39346861032799,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),76.21
+4,Nota Fiscal Eletronica 00001947,2018-08-31,Chamonix LTDA,20447074000188,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),250.0
+5,Nota Fiscal Eletronica 00006037,2018-08-31,Posto Sete Anões LTDA,09719902000157,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),207.77
+6,Nota Fiscal Eletronica 000000193,2018-08-31,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),50.0
+7,Nota Fiscal Eletronica de Serviço 201800000000037,2018-08-30,Aristedes Ribeiro Advogados Associados S/C,04504649000109,* Consultoria técnica,3000.0
+8,Nota Fiscal Eletronica 47,2018-08-30,Papelaria Tetheo,07403078000104,Copa Interna,31.5
+9,Nota Fiscal Eletronica de Serviço 201800000000119,2018-08-27,J e M Grafica e Editora LTDA,18250169000165,Impressos,150.0
+10,Nota Fiscal Eletronica 47,2018-08-30,Papelaria Tetheo,07403078000104,Material de expediente,39.8
+11,Nota Fiscal Eletronica 22379,2018-08-02,Lojas Americanas S.A,33014556001249,Suprimentos para equipamentos de informática,359.0
+12,Nota Fiscal Eletronica de Serviço 201800000000148,2018-08-28,Aloisio Costa Ferreira,02017219000129,Suprimentos para equipamentos de informática,45.0
+13,Nota Fiscal de Serviço de Telecomunicação 0304814216,2018-08-03,Vivo,02558157000162,Telefone Móvel,416.02
+14,Nota Fiscal Eletronica de Serviços de Telecomunicações 1700422515815,2018-08-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),131.39
+15,,,,,total,5179.03

@@ -31,17 +31,21 @@ for index, vereador in vereadores_lista.iterrows():
     for month in months: 
         file_name = '{}{}/{}/prestacao_{}_{}_{}.csv'.format(output_path, year, month, vereador['nome_link'], year, month )
         df.append(pd.read_csv(file_name))
-        month_spending.append(df[len(df)-1]['valor'].sum())
+        #month_spending.append(df[len(df)-1]['valor'].sum())
+        #month_spending.append(df[len(df)-1]['valor'][len(df[len(df)-1]['valor'])-1])
         nome_valor['nome'].append(vereador['nome'])
-        nome_valor['valor'].append(df[len(df)-1]['valor'].sum())
+        #print(df[-1][:-1])
+        #input('...')
+        #nome_valor['valor'].append(df[len(df)-1]['valor'].sum())
+        nome_valor['valor'].append(df[len(df)-1]['valor'][len(df[len(df)-1]['valor'])-1])
         #print(vereador['nome'], vereador['nome_link'], df[len(df)-1]['valor'].sum())
 
 nome_valor = pd.DataFrame.from_dict(nome_valor)
-nome_valor = nome_valor.groupby(nome_valor['nome']).sum()
-nome_valor = { 'nome': vereadores_lista['nome'], 'valor': [float(v) for v in nome_valor['valor']]}
-nome_valor = pd.DataFrame.from_dict(nome_valor)
+nome_valor = nome_valor.groupby('nome', as_index=False).sum()
+#nome_valor = { 'nome': vereadores_lista['nome'], 'valor': [float(v) for v in nome_valor['valor']]}
+#nome_valor = pd.DataFrame.from_dict(nome_valor)
 nome_valor = nome_valor.sort_values(by=['valor'])
-#print(nome_valor)
+print(nome_valor)
 
 
 ''' Plot '''
@@ -73,9 +77,9 @@ plt.text(0,14000, 'Gasto total com verba indenizatória no ano de '+year+': '+st
 plt.text(0,-2000, 'Fonte: www.camarajf.mg.gov.br')
 plt.text(-18000,-2600, 'Verba indenizatória por despesas realizadas, mediante requerimento e comprovação, nos termos da Resolução nº 1.122 de 15 de')
 plt.text(-18000, -3100, 'dezembro de 1999, com suas alterações e Atos da Mesa Diretora 54/05, 60/05, 103/09, 160/12, no limite mensal de R$ 8.000,00.')
-plt.text(0, -3500, '')
+plt.text(70000, 400, 'Juiz de Fora Transparente', color=(.9,.9,.9,1), fontsize=18)
 plt.legend()
 
 plt.barh(index, nome_valor['valor'], bar_width, alpha=0.8)
-plt.savefig(output_path+'image/prestacao_'+year+'.svg', bbox_inches="tight")
+plt.savefig(output_path+'image/prestacao_'+year+'.png', bbox_inches="tight",  dpi=300)
 plt.show()

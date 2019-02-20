@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Documento Auxiliar da Nota Fiscal Eletrônica 00001951,2018-04-26,Auto Posto Valentina Ltda,17817687000155,1150.73
-1,Nota Fiscal Eletronica 201800000000565,2018-04-27,Ato Interativo LTDA,07793203000121,1900.0
-2,Recibo de Pagamento Autonomo 004,2018-04-30,Paulo Sergio Gomes Aroni,52148270672,2500.0
-3,Nota Fiscal Eletronica 000002976,2018-04-13,Perfect Paper Informatica LTDA - ME,19857923000192,43.9
-4,Nota Fiscal Eletronica 201800000001118,2018-04-27,Casa do Grafico LTDA,25527805000119,539.9
-5,Nota Fiscal Eletronica 000002976,2018-04-13,Perfect Paper Informatica LTDA - ME,19857923000192,143.3
-6,Comprovante do Cliente 84125519,2018-04-19,ECT - Emp. Bras. de Correios e Telegrafos,34028316553110,144.0
-7,Nota Fiscal Eletronica 000002981,2018-04-16,Perfect Paper Informatica LTDA - ME,19857923000192,75.0
-8,Nota Fiscal de Serviços de Telecomunicação 1700418019588,2018-04-27,Oi Fixo,33000118000179,114.5
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Documento Auxiliar da Nota Fiscal Eletrônica 00001951,2018-04-26,Auto Posto Valentina Ltda,17817687000155,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1150.73
+1,Nota Fiscal Eletronica 201800000000565,2018-04-27,Ato Interativo LTDA,07793203000121,* Consultoria técnica,1900.0
+2,Recibo de Pagamento Autonomo 004,2018-04-30,Paulo Sergio Gomes Aroni,52148270672,* Consultoria técnica,2500.0
+3,Nota Fiscal Eletronica 000002976,2018-04-13,Perfect Paper Informatica LTDA - ME,19857923000192,Copa Interna,43.9
+4,Nota Fiscal Eletronica 201800000001118,2018-04-27,Casa do Grafico LTDA,25527805000119,Cópias xerográficas e similares,539.9
+5,Nota Fiscal Eletronica 000002976,2018-04-13,Perfect Paper Informatica LTDA - ME,19857923000192,Material de expediente,143.3
+6,Comprovante do Cliente 84125519,2018-04-19,ECT - Emp. Bras. de Correios e Telegrafos,34028316553110,Postagem,144.0
+7,Nota Fiscal Eletronica 000002981,2018-04-16,Perfect Paper Informatica LTDA - ME,19857923000192,Suprimentos para equipamentos de informática,75.0
+8,Nota Fiscal de Serviços de Telecomunicação 1700418019588,2018-04-27,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),114.5
+9,,,,,total,6496.83

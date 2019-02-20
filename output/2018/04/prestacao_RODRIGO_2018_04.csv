@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 00008589,2018-04-27,Auto Posto Aeroporto LTDA,00587496000141,200.0
-1,DANFE 000013772,2018-04-27,Posto Romualdo LTDA,66343930000156,200.03
-2,Danfe 00000535,2018-04-27,Posto Universitario de juiz de fora LTDA,10430012000100,200.0
-3,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000000086,2018-04-27,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,1500.0
-4,DANFE 000.001.208,2018-04-26,A Carbonaro Agua Mineral -ME,24488698000102,104.0
-5,Danfe 4963,2018-04-27,Ribeiro de Oliveira & Cia LTDA,21562897000117,157.3
-6,Nota Fiscal Eletônica de Serviços NFS-e 201800000001013,2018-04-30,Real Copias de juiz de fora LTDA,04316977000173,532.92
-7,Danfe 000.009.610,2018-04-17,Casa do Pneu LTDA,17142944000104,946.0
-8,Prestador de Serviços 201800000000358,2018-04-17,Casa do Pneu LTDA,17142944000104,90.0
-9,Nota Fiscal de Serviços Eletônica 201800000001053,2018-04-30,União Artes Graficas LTDA,20741559000180,900.0
-10,Danfe 4963,2018-04-27,Ribeiro de Oliveira & Cia LTDA,21562897000117,170.6
-11,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000000010,2018-04-05,Aloisio Costa Ferreira-ME Infotoner,02017219000129,39.0
-12,Nota Fiscal de Telecomunicações 1700418019588,2018-04-27,OI FIXO,33000118000179,291.8
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 00008589,2018-04-27,Auto Posto Aeroporto LTDA,00587496000141,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),200.0
+1,DANFE 000013772,2018-04-27,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),200.03
+2,Danfe 00000535,2018-04-27,Posto Universitario de juiz de fora LTDA,10430012000100,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),200.0
+3,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000000086,2018-04-27,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,* Consultoria técnica,1500.0
+4,DANFE 000.001.208,2018-04-26,A Carbonaro Agua Mineral -ME,24488698000102,Copa Interna,104.0
+5,Danfe 4963,2018-04-27,Ribeiro de Oliveira & Cia LTDA,21562897000117,Copa Interna,157.3
+6,Nota Fiscal Eletônica de Serviços NFS-e 201800000001013,2018-04-30,Real Copias de juiz de fora LTDA,04316977000173,Cópias xerográficas e similares,532.92
+7,Danfe 000.009.610,2018-04-17,Casa do Pneu LTDA,17142944000104,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),946.0
+8,Prestador de Serviços 201800000000358,2018-04-17,Casa do Pneu LTDA,17142944000104,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),90.0
+9,Nota Fiscal de Serviços Eletônica 201800000001053,2018-04-30,União Artes Graficas LTDA,20741559000180,Impressos,900.0
+10,Danfe 4963,2018-04-27,Ribeiro de Oliveira & Cia LTDA,21562897000117,Material de expediente,170.6
+11,Nota Fiscal Eletrônica de Serviços -NFS-e 201800000000010,2018-04-05,Aloisio Costa Ferreira-ME Infotoner,02017219000129,Suprimentos para equipamentos de informática,39.0
+12,Nota Fiscal de Telecomunicações 1700418019588,2018-04-27,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),291.8
+13,,,,,total,5039.85

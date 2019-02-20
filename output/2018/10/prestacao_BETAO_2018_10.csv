@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Serviços de Telecomunicações 897539,2018-10-19,Telefônica Brasil S/A.,02558157000162,144.88
-1,Boleto Bancário 051,2018-10-30,Condomínio do Edifício Sulacap,26128371000147,950.0
-2,Nota Fiscal Eletrônica 14628,2018-10-30,Posto Romualdo Ltda,66343930000156,1597.31
-3,Nota Fiscal Eletônica 1516,2018-10-23,A Carbonaro Agua Mineral,24488698000102,32.0
-4,Nota Fiscal - Conta de Energia Elétrica 063198922,2018-10-19,Cemig Distribuição S.A.,06981180000116,184.69
-5,Recibo S/Nº,2018-10-31,Condomínio Parking Saggioro,20439212000187,370.0
-6,Fatura de Locação 000019,2018-10-26,Empreiteira Transtech T&D- ME,14496365000163,1393.0
-7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-10-10,Telefônica Brasil S.A.,02558157000162,271.25
-8,Nota Fiscal de Serviços de Telecomunicações 83591,2018-10-15,Claro S/A,40432544011262,41.05
-9,Nota Fiscal de Serviços de Telecomunicações 1700424703821,2018-10-30,Oi Fixo,33000118000179,97.98
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Serviços de Telecomunicações 897539,2018-10-19,Telefônica Brasil S/A.,02558157000162,Acesso a internet de escritório para representação parlamentar,144.88
+1,Boleto Bancário 051,2018-10-30,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+2,Nota Fiscal Eletrônica 14628,2018-10-30,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1597.31
+3,Nota Fiscal Eletônica 1516,2018-10-23,A Carbonaro Agua Mineral,24488698000102,Copa Interna,32.0
+4,Nota Fiscal - Conta de Energia Elétrica 063198922,2018-10-19,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,184.69
+5,Recibo S/Nº,2018-10-31,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+6,Fatura de Locação 000019,2018-10-26,Empreiteira Transtech T&D- ME,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1393.0
+7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-10-10,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,271.25
+8,Nota Fiscal de Serviços de Telecomunicações 83591,2018-10-15,Claro S/A,40432544011262,Telefone para escritório para representação parlamentar,41.05
+9,Nota Fiscal de Serviços de Telecomunicações 1700424703821,2018-10-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),97.98
+10,,,,,total,4984.18

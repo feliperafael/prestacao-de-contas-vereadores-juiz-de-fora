@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 13,2018-02-04,Tendências Comerciais em Imóveis Eireli,07697040000183,850.0
-1,NFe 13496,2018-02-21,Posto Romualdo Ltda,66343930000156,1096.86
-2,Recibo do Pagador 140000000010181178,2018-02-06,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,257.32
-3,NFe 7155,2018-02-06,Teixeira e Chaves Ltda,21339965001902,16.35
-4,NFSe 201800000000242,2018-02-21,Posto Romualdo Ltda,66343930000156,40.0
-5,Nota Fiscal série U1 007557925,2018-02-06,Cemig Distribuição SA,06981180000116,38.43
-6,Fatura de Locação 312,2018-02-28,Locadora Hermon LTDA,04569904000193,2000.0
-7,NFe 7155,2018-02-06,Teixeira e Chaves Ltda,21339965001902,53.85
-8,NFSe 201800000000189,2018-02-06,Ambiente Comunicação Ltda,09662777000196,240.0
-9,Fatura de Registro REG03 28180686,2018-02-20,Nucleo de Informação e Coordenação do Ponto BR - Nic.br,05506560000136,40.0
-10,Nota Fiscal de Serviços de Telecomunicação 1700415674971,2018-02-26,Telemar Norte Leste SA,33000118000179,296.6
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 13,2018-02-04,Tendências Comerciais em Imóveis Eireli,07697040000183,Aluguel de escritório para representação parlamentar,850.0
+1,NFe 13496,2018-02-21,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1096.86
+2,Recibo do Pagador 140000000010181178,2018-02-06,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,257.32
+3,NFe 7155,2018-02-06,Teixeira e Chaves Ltda,21339965001902,Copa Interna,16.35
+4,NFSe 201800000000242,2018-02-21,Posto Romualdo Ltda,66343930000156,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),40.0
+5,Nota Fiscal série U1 007557925,2018-02-06,Cemig Distribuição SA,06981180000116,Energia elétrica para escritório para representação parlamentar,38.43
+6,Fatura de Locação 312,2018-02-28,Locadora Hermon LTDA,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+7,NFe 7155,2018-02-06,Teixeira e Chaves Ltda,21339965001902,Material de expediente,53.85
+8,NFSe 201800000000189,2018-02-06,Ambiente Comunicação Ltda,09662777000196,Publicidade Institucional,240.0
+9,Fatura de Registro REG03 28180686,2018-02-20,Nucleo de Informação e Coordenação do Ponto BR - Nic.br,05506560000136,Publicidade Institucional,40.0
+10,Nota Fiscal de Serviços de Telecomunicação 1700415674971,2018-02-26,Telemar Norte Leste SA,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),296.6
+11,,,,,total,4632.81

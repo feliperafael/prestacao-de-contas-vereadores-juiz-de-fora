@@ -1,7 +1,8 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletrônica 214,2018-12-17,Posto Central LTDA,21549407000142,565.48
-1,Nota Fiscal Eletrônica 2429,2018-12-17,R. A Ribeiro Combustiveis,12941507000129,275.17
-2,Nota Fiscal Eletronica 56,2018-12-10,Freire Papelaria LTDA,07403078000104,19.0
-3,Nota Fiscal Eletrônica de Serviço 201800000001567,2018-12-12,Real Copias de Juiz de Fora LTDA,04316977000173,453.0
-4,Nota Fiscal Eletrônica 56,2018-12-10,Freire Papelaria LTDA,07403078000104,93.3
-5,Nota Fiscal de Serviço de Telecomunicações 0304814216,2018-12-11,Vivo,02558157000162,399.98
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletrônica 214,2018-12-17,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),565.48
+1,Nota Fiscal Eletrônica 2429,2018-12-17,R. A Ribeiro Combustiveis,12941507000129,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),275.17
+2,Nota Fiscal Eletronica 56,2018-12-10,Freire Papelaria LTDA,07403078000104,Copa Interna,19.0
+3,Nota Fiscal Eletrônica de Serviço 201800000001567,2018-12-12,Real Copias de Juiz de Fora LTDA,04316977000173,Impressos,453.0
+4,Nota Fiscal Eletrônica 56,2018-12-10,Freire Papelaria LTDA,07403078000104,Material de expediente,93.3
+5,Nota Fiscal de Serviço de Telecomunicações 0304814216,2018-12-11,Vivo,02558157000162,Telefone Móvel,399.98
+6,,,,,total,1805.93

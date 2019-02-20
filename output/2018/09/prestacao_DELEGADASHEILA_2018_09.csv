@@ -1,6 +1,7 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,nfse 1499,2018-09-12,vizion gestao de negocios empresariais ltda,07979987000187,586.0
-1,danfe 5270,2018-09-27,ribeiro de oliveira & cia ltda,21562897000117,518.07
-2,danfe 5270,2018-09-27,ribeiro de oliveira & cia ltda,21562897000117,12.8
-3,nota fiscal 0321261148,2018-09-12,telefonica brasil s/a,02558157000162,169.45
-4,nota fiscal 1700423613986,2018-09-27,oi fixo,33000118000179,428.48
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,nfse 1499,2018-09-12,vizion gestao de negocios empresariais ltda,07979987000187,Locação de softwares,586.0
+1,danfe 5270,2018-09-27,ribeiro de oliveira & cia ltda,21562897000117,Material de expediente,518.07
+2,danfe 5270,2018-09-27,ribeiro de oliveira & cia ltda,21562897000117,Suprimentos para equipamentos de informática,12.8
+3,nota fiscal 0321261148,2018-09-12,telefonica brasil s/a,02558157000162,Telefone Móvel,169.45
+4,nota fiscal 1700423613986,2018-09-27,oi fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),428.48
+5,,,,,total,1286.32

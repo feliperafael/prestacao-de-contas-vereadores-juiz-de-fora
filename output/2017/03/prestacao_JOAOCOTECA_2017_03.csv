@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 03,2017-03-30,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 9859,2017-03-28,Auto Posto Petrogas LTDA,03862967000170,510.1
-2,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 572,2017-03-21,Carbonaro Agua Mineral - ME,24488698000102,240.0
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4222,2017-03-30,Ribeiro de Oliveira  & Cia LTDA,21562897000117,10.7
-4,Nota Fiscal de Serviços Eletronica 2017/18,2017-03-28,Estacionamento Salve Jorge - LTDA - ME,17509454000195,300.0
-5,Fatura A/518278-93,2017-03-28,Cesama,21572243000174,51.25
-6,Nota Fiscal de Serviços Eletronica 2017/11,2017-03-30,Grafica São Pedro LTDA,10408122000175,445.0
-7,Fatura 115,2017-03-28,Estacionamento Salve Jorge - LTDA -ME,17509454000195,1800.0
-8,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4193,2017-03-20,Ribeiro de Oliveira & Cia LTDA,21562897000117,299.4
-9,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4222,2017-03-30,Ribeiro de Oliverira & Cia LTDA,21562897000117,124.8
-10,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 1863,2017-03-16,Info Toner,02017219000129,55.0
-11,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 1333,2017-03-28,Jf Escrita Artigos Para Escritório LTDA,07316990000110,427.2
-12,Fatura 1700401096287,2017-03-30,Oi Fixo,33000118000179,286.21
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 03,2017-03-30,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 9859,2017-03-28,Auto Posto Petrogas LTDA,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),510.1
+2,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 572,2017-03-21,Carbonaro Agua Mineral - ME,24488698000102,Copa Interna,240.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4222,2017-03-30,Ribeiro de Oliveira  & Cia LTDA,21562897000117,Copa Interna,10.7
+4,Nota Fiscal de Serviços Eletronica 2017/18,2017-03-28,Estacionamento Salve Jorge - LTDA - ME,17509454000195,Estacionamento (uma vaga),300.0
+5,Fatura A/518278-93,2017-03-28,Cesama,21572243000174,Fornecimento de água para escritório para representação parlamentar,51.25
+6,Nota Fiscal de Serviços Eletronica 2017/11,2017-03-30,Grafica São Pedro LTDA,10408122000175,Impressos,445.0
+7,Fatura 115,2017-03-28,Estacionamento Salve Jorge - LTDA -ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+8,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4193,2017-03-20,Ribeiro de Oliveira & Cia LTDA,21562897000117,Material de expediente,299.4
+9,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4222,2017-03-30,Ribeiro de Oliverira & Cia LTDA,21562897000117,Material de expediente,124.8
+10,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 1863,2017-03-16,Info Toner,02017219000129,Suprimentos para equipamentos de informática,55.0
+11,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 1333,2017-03-28,Jf Escrita Artigos Para Escritório LTDA,07316990000110,Suprimentos para equipamentos de informática,427.2
+12,Fatura 1700401096287,2017-03-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),286.21
+13,,,,,total,4863.45

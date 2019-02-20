@@ -1,19 +1,20 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Boleto 051,2017-02-03,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Boleto 051,2017-02-24,Condomínio do Edifício Sulacap,26128371000147,950.0
-2,Nota Fiscal Eletrônica 12126,2017-02-23,Posto Romualdo Ltda.,66343930000156,995.37
-3,Nota Fiscal de Venda a Consumidor 002555,2017-02-09,Tardio Distribuidora de Água Mineral Ltda,10800248000190,20.0
-4,Nota Fiscal de Venda a Consumidor 002568,2017-02-22,Tardio Distribuidora de Água Mineral Ltda,10800248000190,10.0
-5,Nota Fiscal Eletrônica 4163,2017-02-23,Ribeiro de Oliveira & Cia. Ltda,21562897000117,39.0
-6,Nota Fiscal Eletrônica 2017/102,2017-02-24,Real Cópias de juiz de Fora Ltda,04316977000173,200.0
-7,Nota Fiscal - Conta Energia Elétrica 702622,2017-02-17,Cemig Distribuição S.A.,06981180000116,98.19
-8,Recibo S/Nº,2017-02-24,Condomínio Parking Saggioro,20439212000187,370.0
-9,Nota Fiscal eletrônica 2017/76,2017-02-09,União artes Gráficas Ltda,20741559000180,323.0
-10,Nota Fiscal Eletrônica 2017/26,2017-02-21,Ello Gráfica Ltda,97527575000107,68.45
-11,Nota Fiscal Eletrônica 2017/3,2017-02-21,Empreteira Transtech T & D Ltda.,14496365000163,1800.0
-12,Nota Fiscal eletrônica 4163,2017-02-23,Ribeiro de Oliveira & Cia. Ltda,21562897000117,16.1
-13,Nota Fiscal Eletrônica 4163,2017-02-23,Ribeiro de Oliveira & Cia. Ltda,21562897000117,59.0
-14,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-02-17,Telefônica Brasil S/A.,02558157000162,357.46
-15,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-02-17,Telefônica Brasil S.A.,02558157000162,90.99
-16,Nota Fiscal de Serviços de Telecomunicações 751247730,2017-02-17,Telemar Norte Leste S/A.,33000118000330,417.55
-17,Nota Fiscal de Serviços de Telecomunicações 00667233,2017-02-24,Oi Fixo,33000118000179,120.67
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Boleto 051,2017-02-03,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Boleto 051,2017-02-24,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+2,Nota Fiscal Eletrônica 12126,2017-02-23,Posto Romualdo Ltda.,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),995.37
+3,Nota Fiscal de Venda a Consumidor 002555,2017-02-09,Tardio Distribuidora de Água Mineral Ltda,10800248000190,Copa Interna,20.0
+4,Nota Fiscal de Venda a Consumidor 002568,2017-02-22,Tardio Distribuidora de Água Mineral Ltda,10800248000190,Copa Interna,10.0
+5,Nota Fiscal Eletrônica 4163,2017-02-23,Ribeiro de Oliveira & Cia. Ltda,21562897000117,Copa Interna,39.0
+6,Nota Fiscal Eletrônica 2017/102,2017-02-24,Real Cópias de juiz de Fora Ltda,04316977000173,Cópias xerográficas e similares,200.0
+7,Nota Fiscal - Conta Energia Elétrica 702622,2017-02-17,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,98.19
+8,Recibo S/Nº,2017-02-24,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+9,Nota Fiscal eletrônica 2017/76,2017-02-09,União artes Gráficas Ltda,20741559000180,Impressos,323.0
+10,Nota Fiscal Eletrônica 2017/26,2017-02-21,Ello Gráfica Ltda,97527575000107,Impressos,68.45
+11,Nota Fiscal Eletrônica 2017/3,2017-02-21,Empreteira Transtech T & D Ltda.,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+12,Nota Fiscal eletrônica 4163,2017-02-23,Ribeiro de Oliveira & Cia. Ltda,21562897000117,Material de expediente,16.1
+13,Nota Fiscal Eletrônica 4163,2017-02-23,Ribeiro de Oliveira & Cia. Ltda,21562897000117,Suprimentos para equipamentos de informática,59.0
+14,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-02-17,Telefônica Brasil S/A.,02558157000162,Telefone Móvel,357.46
+15,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-02-17,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,90.99
+16,Nota Fiscal de Serviços de Telecomunicações 751247730,2017-02-17,Telemar Norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,417.55
+17,Nota Fiscal de Serviços de Telecomunicações 00667233,2017-02-24,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),120.67
+18,,,,,total,6765.11

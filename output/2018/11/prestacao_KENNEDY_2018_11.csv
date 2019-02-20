@@ -1,15 +1,16 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Serviço de Comunicação - MODELO 21 019903,2018-11-20,VIRTUAL TELECOM - EIRELI,05125915000147,65.03
-1,Recibo do Pagador 12846,2018-11-30,"Local Locação, Corretagem e Adm. Ltda.",17148263000145,925.56
-2,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00000170,2018-11-27,DISTRITO COMERCIO DE COMBUSTIVEIS EIRELI,22578300000195,678.11
-3,Recibo do Sacado 1012121118,2018-11-24,CONDOMINIO DO EDIFICIO CENTRO EMPRESARIAL ALBER GANIMI,26131714000122,403.79
-4,Recibo de Pagamento a Autônomo - RPA 016,2018-11-30,BRUNA MARANGOM DA SILVA,09501322688,2000.0
-5,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000001659,2018-11-22,@ FESTAS EIRELI - EPP,11006568000217,14.76
-6,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000001590,2018-11-26,A CARBONARO AGUA MINERAL,24488698000102,115.0
-7,Nota Fiscal - Conta de Energia Elétrica 070086190,2018-11-22,CEMIG DISTRIBUICAO S.A.,06981180000116,77.5
-8,Recibo do Pagador 12846,2018-11-30,"Local Locação, Corretagem e Adm. Ltda.",17148263000145,115.46
-9,Nota Fiscal Eletronica de Serviços - NFE 004315,2018-11-16,TECNEGÓCIOS SOLUÇÕES EM INFORMÁTICA EIRELI,11521613000190,199.0
-10,Comprovante do Cliente 1564468691,2018-11-30,EMP. BRAS. DE CORREIOS E TELEGRAFOS,42933416000102,71.28
-11,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000231,2018-11-28,ALOISIO COSTA FERREIRA,02017219000129,40.0
-12,Nota Fiscal de Telecomunicação 0304919151,2018-11-22,TELEFONICA BRASIL S.A.,02558157000162,289.99
-13,Nota Fiscal de Serviço de Telecomunicação 1700425769980,2018-11-30,TELEMAR NORTE LESTE S/A,33000118000179,209.18
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Serviço de Comunicação - MODELO 21 019903,2018-11-20,VIRTUAL TELECOM - EIRELI,05125915000147,Acesso a internet de escritório para representação parlamentar,65.03
+1,Recibo do Pagador 12846,2018-11-30,"Local Locação, Corretagem e Adm. Ltda.",17148263000145,Aluguel de escritório para representação parlamentar,925.56
+2,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00000170,2018-11-27,DISTRITO COMERCIO DE COMBUSTIVEIS EIRELI,22578300000195,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),678.11
+3,Recibo do Sacado 1012121118,2018-11-24,CONDOMINIO DO EDIFICIO CENTRO EMPRESARIAL ALBER GANIMI,26131714000122,Condomínio de escritório para representação parlamentar,403.79
+4,Recibo de Pagamento a Autônomo - RPA 016,2018-11-30,BRUNA MARANGOM DA SILVA,09501322688,* Consultoria técnica,2000.0
+5,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000001659,2018-11-22,@ FESTAS EIRELI - EPP,11006568000217,Copa Interna,14.76
+6,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000001590,2018-11-26,A CARBONARO AGUA MINERAL,24488698000102,Copa Interna,115.0
+7,Nota Fiscal - Conta de Energia Elétrica 070086190,2018-11-22,CEMIG DISTRIBUICAO S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,77.5
+8,Recibo do Pagador 12846,2018-11-30,"Local Locação, Corretagem e Adm. Ltda.",17148263000145,IPTU e Taxas de escritório para representação parlamentar,115.46
+9,Nota Fiscal Eletronica de Serviços - NFE 004315,2018-11-16,TECNEGÓCIOS SOLUÇÕES EM INFORMÁTICA EIRELI,11521613000190,Locação de softwares,199.0
+10,Comprovante do Cliente 1564468691,2018-11-30,EMP. BRAS. DE CORREIOS E TELEGRAFOS,42933416000102,Postagem,71.28
+11,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000231,2018-11-28,ALOISIO COSTA FERREIRA,02017219000129,Suprimentos para equipamentos de informática,40.0
+12,Nota Fiscal de Telecomunicação 0304919151,2018-11-22,TELEFONICA BRASIL S.A.,02558157000162,Telefone Móvel,289.99
+13,Nota Fiscal de Serviço de Telecomunicação 1700425769980,2018-11-30,TELEMAR NORTE LESTE S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),209.18
+14,,,,,total,4995.48

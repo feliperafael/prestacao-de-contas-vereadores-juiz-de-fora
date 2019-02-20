@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletrônica 208,2018-11-27,Posto Central LTDA,21549407000142,836.35
-1,Nota Fiscal Eletrônica de Serviço 201800000000044,2018-11-29,Aristides Ribeiro Advogados associados S/C,04504649000109,3000.0
-2,Nota Fiscal Eletrônica 55,2018-11-27,Freire Papelaria LTDA,07403078000104,28.5
-3,Nota Fiscal Eletrônica de Serviço 201800000004727,2018-11-17,Curinga dos Pneus LTDA,00041327002660,74.0
-4,Nota Fiscal Eletrônica 15728,2018-11-20,Curinga dos Pneus LTDA,00041327002660,632.0
-5,Nota Fiscal Eletrônica de Serviço 201800000000174,2018-11-30,Estacionamento Coelho Vale LTDA,41938937000190,215.0
-6,Nota Fiscal Eletrônica 55,2018-11-27,Freire PapelariaLTDA,07403078000104,154.8
-7,Nota Fiscal de Serviço de Telecomunicação 0304814216,2018-11-13,VIVO,02558157000162,399.28
-8,Nota Fiscal de Serviço de Telecomunicações 1700425769980,2018-11-30,OI Fixo,33000118000179,97.36
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletrônica 208,2018-11-27,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),836.35
+1,Nota Fiscal Eletrônica de Serviço 201800000000044,2018-11-29,Aristides Ribeiro Advogados associados S/C,04504649000109,* Consultoria técnica,3000.0
+2,Nota Fiscal Eletrônica 55,2018-11-27,Freire Papelaria LTDA,07403078000104,Copa Interna,28.5
+3,Nota Fiscal Eletrônica de Serviço 201800000004727,2018-11-17,Curinga dos Pneus LTDA,00041327002660,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),74.0
+4,Nota Fiscal Eletrônica 15728,2018-11-20,Curinga dos Pneus LTDA,00041327002660,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),632.0
+5,Nota Fiscal Eletrônica de Serviço 201800000000174,2018-11-30,Estacionamento Coelho Vale LTDA,41938937000190,Estacionamento (uma vaga),215.0
+6,Nota Fiscal Eletrônica 55,2018-11-27,Freire PapelariaLTDA,07403078000104,Material de expediente,154.8
+7,Nota Fiscal de Serviço de Telecomunicação 0304814216,2018-11-13,VIVO,02558157000162,Telefone Móvel,399.28
+8,Nota Fiscal de Serviço de Telecomunicações 1700425769980,2018-11-30,OI Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),97.36
+9,,,,,total,5339.93

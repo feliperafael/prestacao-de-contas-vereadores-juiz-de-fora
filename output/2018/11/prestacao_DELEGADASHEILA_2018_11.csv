@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,nfe 854,2018-11-29,posto centro choferes ltda,21575972000184,1917.63
-1,nfse 201800000000107,2018-11-06,ricardo teixeira de aguiar,66464488000116,290.0
-2,nfse 1524,2018-11-13,vizion gestao de negocios empresariais ltda,07979987000187,586.0
-3,recibo s/ numero,2018-11-05,movida locaçao de veiculos s/a,07976147020609,1407.61
-4,danfe 5333,2018-11-29,ribeiro de oliveira & cia ltda,21562897000117,423.0
-5,danfe 5333,2018-11-29,ribeiro de oliveira & cia ltda,21562897000117,208.7
-6,nota fiscal 0321261148,2018-11-13,telefonica brasil s/a,02558157000162,225.54
-7,nota fiscal 1700425769980,2018-11-30,oi fixo,33000118000179,255.37
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,nfe 854,2018-11-29,posto centro choferes ltda,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1917.63
+1,nfse 201800000000107,2018-11-06,ricardo teixeira de aguiar,66464488000116,Estacionamento (uma vaga),290.0
+2,nfse 1524,2018-11-13,vizion gestao de negocios empresariais ltda,07979987000187,Locação de softwares,586.0
+3,recibo s/ numero,2018-11-05,movida locaçao de veiculos s/a,07976147020609,Locação de veículos utilizados no exercício do mandato legislativo,1407.61
+4,danfe 5333,2018-11-29,ribeiro de oliveira & cia ltda,21562897000117,Material de expediente,423.0
+5,danfe 5333,2018-11-29,ribeiro de oliveira & cia ltda,21562897000117,Suprimentos para equipamentos de informática,208.7
+6,nota fiscal 0321261148,2018-11-13,telefonica brasil s/a,02558157000162,Telefone Móvel,225.54
+7,nota fiscal 1700425769980,2018-11-30,oi fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),255.37
+8,,,,,total,5058.48

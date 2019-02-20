@@ -1,15 +1,16 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE-Documento Auxiliar da Nota fiscal Eletronia 000018925,2018-01-26,Solar Comunicações,21561725000129,258.0
-1,DANFE-Documento auxiliar da nota fiscal eletronica 00005774,2018-01-30,Papagaio Comercio e Derivados de Petroleo ltda,10515414000107,1649.27
-2,DANFE- documento auxiliar da nota fiscal eletronica 000.001.069,2018-01-22,A Carbonao Agua Mineral ME,24488698000102,46.0
-3,DANFE- documento auxiliar da nota fiscal eletronica 4789,2018-01-25,Ribeiro de Oliveira& Cia LTDA,21562897000117,15.6
-4,Nota Fiacal Eletronica de Serviço- NFS-e 201800000000072,2018-01-06,Ricardo Teixeira de Aguiar,66464488000116,260.0
-5,Nota Fiscal Eletronica de Serviço - NFS-e 210800000002022,2018-01-09,Grafica America Comercial Ltda,02282594000104,490.0
-6,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000177,2018-01-18,Ambiente Comunicação Ltda,09662777000196,750.0
-7,DANFE-documento auxiliar da nota fiscal leletronica 4789,2018-01-25,Ribeiro de Oliveira& Cia LTDA,21562897000117,155.15
-8,Nota Fiscal letronicade Serviço- NFS-e 201800000000164,2018-01-26,Interurb serviços postais ltda,42933416000102,26.0
-9,Nota Fiscal Eletronica de Srviço- NFS-e 210800000000043,2018-01-02,Onofre de Matos Guedes,26632032000101,350.0
-10,DANFE- documento auxiliar da nota fiscal eletronica 4789,2018-01-25,Ribeiro de Oliveira & Cia LTDA,21562897000117,98.9
-11,Fatura 0313572750,2018-01-11,Operadora Vivo,02558157000910,269.99
-12,fatura 1700413241416,2018-01-25,Operadora Oi,33000118000179,332.58
-13,fatura 170041473024,2018-01-26,Operadora Oi,33000118000179,179.62
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE-Documento Auxiliar da Nota fiscal Eletronia 000018925,2018-01-26,Solar Comunicações,21561725000129,"Assinatura de jornais, revistas e periódicos",258.0
+1,DANFE-Documento auxiliar da nota fiscal eletronica 00005774,2018-01-30,Papagaio Comercio e Derivados de Petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1649.27
+2,DANFE- documento auxiliar da nota fiscal eletronica 000.001.069,2018-01-22,A Carbonao Agua Mineral ME,24488698000102,Copa Interna,46.0
+3,DANFE- documento auxiliar da nota fiscal eletronica 4789,2018-01-25,Ribeiro de Oliveira& Cia LTDA,21562897000117,Copa Interna,15.6
+4,Nota Fiacal Eletronica de Serviço- NFS-e 201800000000072,2018-01-06,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),260.0
+5,Nota Fiscal Eletronica de Serviço - NFS-e 210800000002022,2018-01-09,Grafica America Comercial Ltda,02282594000104,Impressos,490.0
+6,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000177,2018-01-18,Ambiente Comunicação Ltda,09662777000196,Locação de softwares,750.0
+7,DANFE-documento auxiliar da nota fiscal leletronica 4789,2018-01-25,Ribeiro de Oliveira& Cia LTDA,21562897000117,Material de expediente,155.15
+8,Nota Fiscal letronicade Serviço- NFS-e 201800000000164,2018-01-26,Interurb serviços postais ltda,42933416000102,Postagem,26.0
+9,Nota Fiscal Eletronica de Srviço- NFS-e 210800000000043,2018-01-02,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,350.0
+10,DANFE- documento auxiliar da nota fiscal eletronica 4789,2018-01-25,Ribeiro de Oliveira & Cia LTDA,21562897000117,Suprimentos para equipamentos de informática,98.9
+11,Fatura 0313572750,2018-01-11,Operadora Vivo,02558157000910,Telefone Móvel,269.99
+12,fatura 1700413241416,2018-01-25,Operadora Oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),332.58
+13,fatura 170041473024,2018-01-26,Operadora Oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),179.62
+14,,,,,total,4368.91

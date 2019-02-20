@@ -1,18 +1,19 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Serviço de Telecomunicação - Modelo 21 007497,2017-10-10,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,64.9
-1,Recibo do Pagador 112/61039723-7,2017-10-30,"LOCAL - LOCAÇÃO, CORRETAGEM E ADM. LTDA.",17148263000145,900.0
-2,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00005980,2017-10-27,SEMPRE COMERCIO COMBUSTIVEL LTDA,08111871000780,110.0
-3,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00005979,2017-10-27,SEMPRE COMERCIO COMBUSTIVEL LTDA,08111871000780,411.35
-4,Cupom Fiscal 400332',2017-10-31,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,205.05
-5,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000000547,2017-10-31,POSTO FACIT LTDA,22169455000178,202.07
-6,Recibo do Pagador 1212,2017-10-24,CONDOMINIO ED CENTRO EMPRESARIAL ALBER GANIMI,26131714000122,368.32
-7,Recibo de Pagamento a Autônomo - RPA 003,2017-10-26,BRUNA MARANGOM DA SILVA,09501322688,2000.0
-8,Documento Auxilar da Nota Fiscal Eletrônica - DANFE 000000918,2017-10-25,A CARBONARO AGUA MINERAL ME,24488698000102,89.0
-9,Nota Fical Eletrônica de Serviços - NFS-e 201700000005995,2017-10-11,PLANETA AUTOMOVEIS LTDA,17936762000369,291.6
-10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000027271,2017-10-11,PLANETA AUTOMOVEIS LTDA,17936762000369,432.37
-11,Nota Fiscal - Conta de Energia Elétrica 000406869,2017-10-24,CEMIG DISTRIBUICAO S.A.,06981180000116,59.79
-12,Nota Fiscal Eletrônica de Serviços - NFS-e 201700000000058,2017-10-31,RICARDO TEXEIRA DE AGUIAR,66464488000116,260.0
-13,Recibo do Pagador 112/61039723-7,2017-10-30,"LOCAL - LOCAÇÃO, CORRETAGE E ADM. LTDA.",17148263000145,112.32
-14,Nota Fiscal Eletronica de Serviços - NFE 002473,2017-10-17,TECNEGOCIOS SOLUCOES E I L ME,11521613000190,199.0
-15,Nota Fiscal de Serviço de Telecomunicação 0304919151,2017-10-16,TELEFONICA BRASIL S.A.,02558157000162,249.99
-16,Nota Fiscal de Serviço de Telecomunicação 1700410705412,2017-10-31,TELEMAR NORTE LESTE S/A,33000118000179,226.6
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Serviço de Telecomunicação - Modelo 21 007497,2017-10-10,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,Acesso a internet de escritório para representação parlamentar,64.9
+1,Recibo do Pagador 112/61039723-7,2017-10-30,"LOCAL - LOCAÇÃO, CORRETAGEM E ADM. LTDA.",17148263000145,Aluguel de escritório para representação parlamentar,900.0
+2,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00005980,2017-10-27,SEMPRE COMERCIO COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),110.0
+3,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 00005979,2017-10-27,SEMPRE COMERCIO COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),411.35
+4,Cupom Fiscal 400332',2017-10-31,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),205.05
+5,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000000547,2017-10-31,POSTO FACIT LTDA,22169455000178,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),202.07
+6,Recibo do Pagador 1212,2017-10-24,CONDOMINIO ED CENTRO EMPRESARIAL ALBER GANIMI,26131714000122,Condomínio de escritório para representação parlamentar,368.32
+7,Recibo de Pagamento a Autônomo - RPA 003,2017-10-26,BRUNA MARANGOM DA SILVA,09501322688,* Consultoria técnica,2000.0
+8,Documento Auxilar da Nota Fiscal Eletrônica - DANFE 000000918,2017-10-25,A CARBONARO AGUA MINERAL ME,24488698000102,Copa Interna,89.0
+9,Nota Fical Eletrônica de Serviços - NFS-e 201700000005995,2017-10-11,PLANETA AUTOMOVEIS LTDA,17936762000369,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),291.6
+10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000027271,2017-10-11,PLANETA AUTOMOVEIS LTDA,17936762000369,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),432.37
+11,Nota Fiscal - Conta de Energia Elétrica 000406869,2017-10-24,CEMIG DISTRIBUICAO S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,59.79
+12,Nota Fiscal Eletrônica de Serviços - NFS-e 201700000000058,2017-10-31,RICARDO TEXEIRA DE AGUIAR,66464488000116,Estacionamento (uma vaga),260.0
+13,Recibo do Pagador 112/61039723-7,2017-10-30,"LOCAL - LOCAÇÃO, CORRETAGE E ADM. LTDA.",17148263000145,IPTU e Taxas de escritório para representação parlamentar,112.32
+14,Nota Fiscal Eletronica de Serviços - NFE 002473,2017-10-17,TECNEGOCIOS SOLUCOES E I L ME,11521613000190,Locação de softwares,199.0
+15,Nota Fiscal de Serviço de Telecomunicação 0304919151,2017-10-16,TELEFONICA BRASIL S.A.,02558157000162,Telefone Móvel,249.99
+16,Nota Fiscal de Serviço de Telecomunicação 1700410705412,2017-10-31,TELEMAR NORTE LESTE S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),226.6
+17,,,,,total,5955.76

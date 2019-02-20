@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 15,2018-03-29,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 11534,2018-03-26,Auto Posto Petrogás LTDA,03862967000170,1717.25
-2,RPA - Recibo de Pagamento a Autônomo 09,2018-03-27,Carlos Henrique Bruce João,05036074602,2000.0
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 1148,2018-03-23,A Carbonaro Agua Mineral - ME,24488698000102,130.0
-4,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4910,2018-03-28,Ribeiro de Oliveira & Cia LTDA,21562897000117,24.5
-5,Nota Fiscal - Conta de Energia Eletrica 009431493,2018-03-31,Cemig Distribuição S.A.,06981180000116,38.69
-6,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000096,2018-03-26,Estacionamento Salve Jorge LTDA - ME,17509454000195,300.0
-7,Fatura de Serviços de Saneamento A/518278-93,2018-03-28,CESAMA - Companhia de Saneamento Municipal,21572243000174,49.39
-8,Carnê de Tributos Municipais 2018 033.574/002,2018-03-12,Prefeitua de Juiz de Fora,17783192000152,51.97
-9,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000051,2018-03-28,Grafica São Pedro LTDA,10408122000175,350.0
-10,Fatura 165,2018-03-26,Estacionamento Salve Jorge LTDA - ME,17509454000195,1500.0
-11,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4910,2018-03-28,Ribeiro de Oliveira & Cia LTDA,21562897000117,145.8
-12,Fatura 1700416853428,2018-03-28,Oi Fixo,33000118000179,301.63
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 15,2018-03-29,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 11534,2018-03-26,Auto Posto Petrogás LTDA,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1717.25
+2,RPA - Recibo de Pagamento a Autônomo 09,2018-03-27,Carlos Henrique Bruce João,05036074602,* Consultoria técnica,2000.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 1148,2018-03-23,A Carbonaro Agua Mineral - ME,24488698000102,Copa Interna,130.0
+4,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4910,2018-03-28,Ribeiro de Oliveira & Cia LTDA,21562897000117,Copa Interna,24.5
+5,Nota Fiscal - Conta de Energia Eletrica 009431493,2018-03-31,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,38.69
+6,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000096,2018-03-26,Estacionamento Salve Jorge LTDA - ME,17509454000195,Estacionamento (uma vaga),300.0
+7,Fatura de Serviços de Saneamento A/518278-93,2018-03-28,CESAMA - Companhia de Saneamento Municipal,21572243000174,Fornecimento de água para escritório para representação parlamentar,49.39
+8,Carnê de Tributos Municipais 2018 033.574/002,2018-03-12,Prefeitua de Juiz de Fora,17783192000152,IPTU e Taxas de escritório para representação parlamentar,51.97
+9,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000051,2018-03-28,Grafica São Pedro LTDA,10408122000175,Impressos,350.0
+10,Fatura 165,2018-03-26,Estacionamento Salve Jorge LTDA - ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1500.0
+11,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4910,2018-03-28,Ribeiro de Oliveira & Cia LTDA,21562897000117,Material de expediente,145.8
+12,Fatura 1700416853428,2018-03-28,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),301.63
+13,,,,,total,6907.6

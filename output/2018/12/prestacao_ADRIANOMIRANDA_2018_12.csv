@@ -1,5 +1,6 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,NFe 14875,2018-12-14,Posto Romualdo Ltda,66343930000156,1190.9
-1,NFe 10999,2018-12-10,Teixeira e Chaves Ltda,21339965001902,14.6
-2,Fatura de Locação 624,2018-12-13,Locadora Hermon Ltda,04569904000193,2000.0
-3,NFe 10999,2018-12-10,Teixeira e Chaves Ltda,21339965001902,60.25
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,NFe 14875,2018-12-14,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1190.9
+1,NFe 10999,2018-12-10,Teixeira e Chaves Ltda,21339965001902,Copa Interna,14.6
+2,Fatura de Locação 624,2018-12-13,Locadora Hermon Ltda,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+3,NFe 10999,2018-12-10,Teixeira e Chaves Ltda,21339965001902,Material de expediente,60.25
+4,,,,,total,3265.75

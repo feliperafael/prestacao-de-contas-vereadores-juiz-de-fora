@@ -1,7 +1,8 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,NFe 9559,2018-08-02,Teixeira e Chaves Ltda,21339965001902,16.35
-1,NFSe 201800000000244,2018-08-27,L & M Estacionamento Ltda,18732667000144,40.0
-2,Fatura de Locação/Duplicata 496,2018-08-29,Locadora Hermon Ltda,04569904000193,2000.0
-3,NFe 9559,2018-08-02,Teixeira e Chaves Ltda,21339965001902,19.95
-4,NFe 9559,2018-08-02,Teixeira e Chaves Ltda,21339965001902,34.5
-5,Nota Fiscal de Serviços de Telecomunicação 1700422515815,2018-08-24,Telemar Norte Leste S/A,33000118000179,607.68
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,NFe 9559,2018-08-02,Teixeira e Chaves Ltda,21339965001902,Copa Interna,16.35
+1,NFSe 201800000000244,2018-08-27,L & M Estacionamento Ltda,18732667000144,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),40.0
+2,Fatura de Locação/Duplicata 496,2018-08-29,Locadora Hermon Ltda,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+3,NFe 9559,2018-08-02,Teixeira e Chaves Ltda,21339965001902,Material de expediente,19.95
+4,NFe 9559,2018-08-02,Teixeira e Chaves Ltda,21339965001902,Suprimentos para equipamentos de informática,34.5
+5,Nota Fiscal de Serviços de Telecomunicação 1700422515815,2018-08-24,Telemar Norte Leste S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),607.68
+6,,,,,total,2110.8

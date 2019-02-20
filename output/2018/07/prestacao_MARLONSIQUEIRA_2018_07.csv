@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 000020564,2018-07-09,Solar Comunicações SA,21561725000129,85.83
-1,Nota Fiscal Eletronica 0001923,2018-07-25,Chamonix LTDA,20447074000188,259.73
-2,Nota Fiscal Eletronica 000014206,2018-07-26,Posto Romualdo LTDA,66343930000156,220.01
-3,Nota Fiscal Eletronica 00002264,2018-07-26,R. A.  Ribeiro Combustiveis,12941507000129,168.61
-4,Nota Fiscal Eletronica 000000191,2018-07-26,Posto Central LTDA,21549407000142,670.0
-5,Nota Fiscal Eletronica de Serviço 201800000000035,2018-07-30,Aristides Ribeiro Advogados Associados SC,04504649000109,3000.0
-6,Nota Fiscal Eletronica 44,2018-07-24,Papelaria Tetheo,07403078000104,19.0
-7,Nota Fiscal Eletronica de Serviço 201800000001205,2018-07-25,Real Copias de Juiz de Fora LTDA,04316977000173,234.12
-8,Nota Fiscal Eletronica 44,2018-07-24,Papelaria Tetheo,07403078000104,39.8
-9,Nota Fiscal de Serviços de Telecomunicações 0304814216,2018-07-06,Telefônica Brasil S.A,02558157000162,303.84
-10,Nota Fiscal de Serviços de Telecomunicações 1700421406453,2018-07-30,Oi Fixo,33000118000179,125.47
-11,Nota Fiscal Série D 000439,2018-07-17,Ponto do sabor Lanchote LTDA,27079926000170,16.4
-12,Nota Fiscal de Serviço Eletrônica 2018/16689,2018-07-17,Hotelaria ACCOR Brasil S/A,09967852016392,181.65
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 000020564,2018-07-09,Solar Comunicações SA,21561725000129,"Assinatura de jornais, revistas e periódicos",85.83
+1,Nota Fiscal Eletronica 0001923,2018-07-25,Chamonix LTDA,20447074000188,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),259.73
+2,Nota Fiscal Eletronica 000014206,2018-07-26,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),220.01
+3,Nota Fiscal Eletronica 00002264,2018-07-26,R. A.  Ribeiro Combustiveis,12941507000129,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),168.61
+4,Nota Fiscal Eletronica 000000191,2018-07-26,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),670.0
+5,Nota Fiscal Eletronica de Serviço 201800000000035,2018-07-30,Aristides Ribeiro Advogados Associados SC,04504649000109,* Consultoria técnica,3000.0
+6,Nota Fiscal Eletronica 44,2018-07-24,Papelaria Tetheo,07403078000104,Copa Interna,19.0
+7,Nota Fiscal Eletronica de Serviço 201800000001205,2018-07-25,Real Copias de Juiz de Fora LTDA,04316977000173,Cópias xerográficas e similares,234.12
+8,Nota Fiscal Eletronica 44,2018-07-24,Papelaria Tetheo,07403078000104,Material de expediente,39.8
+9,Nota Fiscal de Serviços de Telecomunicações 0304814216,2018-07-06,Telefônica Brasil S.A,02558157000162,Telefone Móvel,303.84
+10,Nota Fiscal de Serviços de Telecomunicações 1700421406453,2018-07-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),125.47
+11,Nota Fiscal Série D 000439,2018-07-17,Ponto do sabor Lanchote LTDA,27079926000170,"Viagens em função do exercício do mandato legislativo (passagens, locomoção urbana ou estacionamento, hospedagem e alimentação)",16.4
+12,Nota Fiscal de Serviço Eletrônica 2018/16689,2018-07-17,Hotelaria ACCOR Brasil S/A,09967852016392,"Viagens em função do exercício do mandato legislativo (passagens, locomoção urbana ou estacionamento, hospedagem e alimentação)",181.65
+13,,,,,total,5198.99

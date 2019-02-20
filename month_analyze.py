@@ -20,8 +20,8 @@ vereadores_lista = pd.read_csv(output_path+'lista_vereadores.csv')
 n_groups = len(vereadores_lista)
 df = []
 month_spending = []
-years = ['2017']
-months = ['04']
+years = ['2018']
+months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
     
 
 for year in years:
@@ -35,12 +35,11 @@ for year in years:
             nome_valor['nome'].append(vereador['nome'])
             #nome_valor['valor'].append(df[len(df)-1]['valor'].sum())
             nome_valor['valor'].append(df[len(df)-1]['valor'][len(df[len(df)-1]['valor'])-1])
-            print(vereador['nome'], vereador['nome_link'], df[len(df)-1]['valor'][len(df[len(df)-1]['valor'])-1])
+            #print(vereador['nome'], vereador['nome_link'], df[len(df)-1]['valor'][len(df[len(df)-1]['valor'])-1])
         
         nome_valor = pd.DataFrame.from_dict(nome_valor)
         nome_valor = nome_valor.sort_values(by=['valor'])
-        #print(nome_valor)
-        
+    
         
         ''' Plot '''
         index = np.arange(n_groups)
@@ -71,9 +70,9 @@ for year in years:
         plt.text(0,-2000, 'Fonte: www.camarajf.mg.gov.br')
         plt.text(-1500,-2600, 'Verba indenizatória por despesas realizadas, mediante requerimento e comprovação, nos termos da Resolução nº 1.122 de 15 de')
         plt.text(-1500, -3100, 'dezembro de 1999, com suas alterações e Atos da Mesa Diretora 54/05, 60/05, 103/09, 160/12, no limite mensal de R$ 8.000,00.')
-        plt.text(0, -3500, '')
+        plt.text(5800, 400, 'Juiz de Fora Transparente', color=(.9,.9,.9,1), fontsize=18)
         plt.legend()
         
         plt.barh(index, nome_valor['valor'], bar_width, alpha=0.8)
-        plt.savefig(output_path+'image/prestacao_'+year+'_'+month+'.svg', bbox_inches="tight")
+        plt.savefig(output_path+'image/prestacao_'+year+'_'+month+'.png', bbox_inches="tight", dpi=300)
         plt.show()

@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo de Aluguel 24,2018-12-10,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Danfe - Documento de Auxiliar de Nota Fiscal Eletrônica 00012750,2018-12-11,Auto Posto Petrogas Ltda,03862967000170,1295.12
-2,Recibo de Pagamento a Autônomo - RPA 01,2018-12-10,Carlos Henrique Bruce João,05036074602,2000.0
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 000.001.630,2018-12-11,A Carbonaro Agua Mineral,24488698000102,130.0
-4,Nota Fiscal - Conta de Energia Elétrica 072584027,2018-12-05,Cemig Distribuição S.A.,06981180000116,49.64
-5,Nota Fiscal de Eletrõnica de Serviço - NFS-e 201800000000140,2018-12-11,Estacionamento Salve Jorge,17509454000195,300.0
-6,Fatura de Serviços de Saneamento Municipal A/518278-93,2018-12-05,Cesama - Companhia de Saneamento Municipal,21572243000174,50.69
-7,Documento de Lançamento e Arrecadação de IPTU e TX Coleta de Resíduos Sólidos 033574002,2018-12-05,Prefeitura de Juiz de Fora,17783192000152,51.97
-8,Fatura 106,2018-12-11,Estacionamento Salve Jorge,17509454000195,1500.0
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo de Aluguel 24,2018-12-10,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Danfe - Documento de Auxiliar de Nota Fiscal Eletrônica 00012750,2018-12-11,Auto Posto Petrogas Ltda,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1295.12
+2,Recibo de Pagamento a Autônomo - RPA 01,2018-12-10,Carlos Henrique Bruce João,05036074602,* Consultoria técnica,2000.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 000.001.630,2018-12-11,A Carbonaro Agua Mineral,24488698000102,Copa Interna,130.0
+4,Nota Fiscal - Conta de Energia Elétrica 072584027,2018-12-05,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,49.64
+5,Nota Fiscal de Eletrõnica de Serviço - NFS-e 201800000000140,2018-12-11,Estacionamento Salve Jorge,17509454000195,Estacionamento (uma vaga),300.0
+6,Fatura de Serviços de Saneamento Municipal A/518278-93,2018-12-05,Cesama - Companhia de Saneamento Municipal,21572243000174,Fornecimento de água para escritório para representação parlamentar,50.69
+7,Documento de Lançamento e Arrecadação de IPTU e TX Coleta de Resíduos Sólidos 033574002,2018-12-05,Prefeitura de Juiz de Fora,17783192000152,IPTU e Taxas de escritório para representação parlamentar,51.97
+8,Fatura 106,2018-12-11,Estacionamento Salve Jorge,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1500.0
+9,,,,,total,5977.42

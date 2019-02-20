@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,danfe-documentoauxiliar da nota fiscal eletronica 00005218,2017-03-01,papagaiocom e derivados de petroleo ltda,10515414000107,698.81
-1,danfe- documento auxiliar da nota fiscal eletronica 00005256,2017-03-31,papagaio com e derivados de petroleo ltda,10515414000107,867.4
-2,rpa- recibo de pagamento a autonomo 01,2017-03-31,geraldo maximiano da silva,45350825615,3000.0
-3,danfe-documento auxiliar da nota fical eletronica 000000551,2017-03-01,a carbonaro agua mineral me,24488698000102,16.0
-4,danfe-documento auxiliar da nota fiscal eletronica 000000.585,2017-03-29,a carbonaro agua mineral me,24488698000102,39.0
-5,danfe- documento auxiliar de nota fiscal eletronica 4221,2017-03-30,ribeiro de oliveira & cia ltda,21562897000117,17.6
-6,danfe- documento auxiliar da nota fiscal eletronica 00005256,2017-03-31,papagaio com e derivados de petroleo ltda,10515414000107,18.0
-7,nota fiscal de serviços eletronicos 2017/22,2017-03-10,ricardo texeira de aguiar,66464488000116,260.0
-8,danfe-documento auxiliar da nota fiscal eletronica 4221,2017-03-30,ribeiro de oliveira & cia ltda,21562897000117,389.6
-9,nota fiscal de serviços eletronicos 2017/6,2017-03-03,onofre de matos guedes,26632032000101,300.0
-10,fatura 1700401096287,2017-03-30,oi fixo,33000118000179,225.32
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,danfe-documentoauxiliar da nota fiscal eletronica 00005218,2017-03-01,papagaiocom e derivados de petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),698.81
+1,danfe- documento auxiliar da nota fiscal eletronica 00005256,2017-03-31,papagaio com e derivados de petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),867.4
+2,rpa- recibo de pagamento a autonomo 01,2017-03-31,geraldo maximiano da silva,45350825615,* Consultoria técnica,3000.0
+3,danfe-documento auxiliar da nota fical eletronica 000000551,2017-03-01,a carbonaro agua mineral me,24488698000102,Copa Interna,16.0
+4,danfe-documento auxiliar da nota fiscal eletronica 000000.585,2017-03-29,a carbonaro agua mineral me,24488698000102,Copa Interna,39.0
+5,danfe- documento auxiliar de nota fiscal eletronica 4221,2017-03-30,ribeiro de oliveira & cia ltda,21562897000117,Copa Interna,17.6
+6,danfe- documento auxiliar da nota fiscal eletronica 00005256,2017-03-31,papagaio com e derivados de petroleo ltda,10515414000107,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),18.0
+7,nota fiscal de serviços eletronicos 2017/22,2017-03-10,ricardo texeira de aguiar,66464488000116,Estacionamento (uma vaga),260.0
+8,danfe-documento auxiliar da nota fiscal eletronica 4221,2017-03-30,ribeiro de oliveira & cia ltda,21562897000117,Material de expediente,389.6
+9,nota fiscal de serviços eletronicos 2017/6,2017-03-03,onofre de matos guedes,26632032000101,Publicidade Institucional,300.0
+10,fatura 1700401096287,2017-03-30,oi fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),225.32
+11,,,,,total,5606.41

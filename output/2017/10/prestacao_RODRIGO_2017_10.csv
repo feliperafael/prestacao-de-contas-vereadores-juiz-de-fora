@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 000013053,2017-10-27,Posto Romualdo LTDA,66343930000156,1682.0
-1,Nota Fiscal Eletrônica  de Serviços 201700000000052,2017-10-26,"Alvim Soares,Junqueira Advogados Associados",03853408000102,1500.0
-2,DANFE 000.000.920,2017-10-25,A Carbonaro Agua Mineral,24488698000102,104.0
-3,Danfe 4598,2017-10-27,Ribeiro de Oliveira e CIA LTDA,21562897000117,78.0
-4,Nota Fiscal Eletrônica de Serviços 201700000000646,2017-10-27,Real Copias de juiz de fora LTDA,04316977000173,491.0
-5,DANFE 000.013.302,2017-10-05,Thema Veiculos LTDA,21550231000572,273.72
-6,Nota Fiscal Eletrônica de Serviço - NFS-e 201700000001313,2017-10-05,Thema Veiculos LTDA,21550231000572,241.0
-7,Fatura de Locação FL 19871,2017-10-30,Themauto Veiculos LTDA,01957100000173,1900.0
-8,DANFE 4598,2017-10-27,Ribeiro de Oliveira & Cia LTDA,21562897000117,250.1
-9,DANFE 0000001970,2017-10-26,Aloisio Costa Ferreira- ME Infotoner,02017219000129,100.0
-10,Nota Fiscal de Telecomunicações 1700410705412,2017-10-30,OI FIXO,33000118000179,351.09
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 000013053,2017-10-27,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1682.0
+1,Nota Fiscal Eletrônica  de Serviços 201700000000052,2017-10-26,"Alvim Soares,Junqueira Advogados Associados",03853408000102,* Consultoria técnica,1500.0
+2,DANFE 000.000.920,2017-10-25,A Carbonaro Agua Mineral,24488698000102,Copa Interna,104.0
+3,Danfe 4598,2017-10-27,Ribeiro de Oliveira e CIA LTDA,21562897000117,Copa Interna,78.0
+4,Nota Fiscal Eletrônica de Serviços 201700000000646,2017-10-27,Real Copias de juiz de fora LTDA,04316977000173,Cópias xerográficas e similares,491.0
+5,DANFE 000.013.302,2017-10-05,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),273.72
+6,Nota Fiscal Eletrônica de Serviço - NFS-e 201700000001313,2017-10-05,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),241.0
+7,Fatura de Locação FL 19871,2017-10-30,Themauto Veiculos LTDA,01957100000173,Locação de veículos utilizados no exercício do mandato legislativo,1900.0
+8,DANFE 4598,2017-10-27,Ribeiro de Oliveira & Cia LTDA,21562897000117,Material de expediente,250.1
+9,DANFE 0000001970,2017-10-26,Aloisio Costa Ferreira- ME Infotoner,02017219000129,Suprimentos para equipamentos de informática,100.0
+10,Nota Fiscal de Telecomunicações 1700410705412,2017-10-30,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),351.09
+11,,,,,total,6619.82

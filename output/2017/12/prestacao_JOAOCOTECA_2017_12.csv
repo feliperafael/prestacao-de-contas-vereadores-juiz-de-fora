@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 12,2017-12-14,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 11102,2017-12-12,Auto Posto Petrogas - LTDA,03862967000170,1010.44
-2,RPA - Recibo de Pagamento Autônomo 07,2017-12-15,Carlos Henrique Bruce João,05036074602,2000.0
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 000.001.012,2017-12-12,A Carbonaro Agua Mineral - ME,24488698000102,111.0
-4,Nota Fiscal - Conta de Energia Eletrica NF 002712928,2017-12-14,Cemig Distribuição - S A,06981180000116,44.08
-5,NFS-e  Nota Fiscal Eletrônica de Serviço 201700000000072,2017-12-12,Estacionamento Salve Jorge LTDA - ME,17509454000195,300.0
-6,Fatura de Serviços de Saneamento A/51027093,2017-12-14,Cesama,21572243000174,49.39
-7,Fatura 000155,2017-12-12,Estacionamento Salve Jorge - LTDA,17509454000195,1800.0
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 12,2017-12-14,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 11102,2017-12-12,Auto Posto Petrogas - LTDA,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1010.44
+2,RPA - Recibo de Pagamento Autônomo 07,2017-12-15,Carlos Henrique Bruce João,05036074602,* Consultoria técnica,2000.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 000.001.012,2017-12-12,A Carbonaro Agua Mineral - ME,24488698000102,Copa Interna,111.0
+4,Nota Fiscal - Conta de Energia Eletrica NF 002712928,2017-12-14,Cemig Distribuição - S A,06981180000116,Energia elétrica para escritório para representação parlamentar,44.08
+5,NFS-e  Nota Fiscal Eletrônica de Serviço 201700000000072,2017-12-12,Estacionamento Salve Jorge LTDA - ME,17509454000195,Estacionamento (uma vaga),300.0
+6,Fatura de Serviços de Saneamento A/51027093,2017-12-14,Cesama,21572243000174,Fornecimento de água para escritório para representação parlamentar,49.39
+7,Fatura 000155,2017-12-12,Estacionamento Salve Jorge - LTDA,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+8,,,,,total,5914.91

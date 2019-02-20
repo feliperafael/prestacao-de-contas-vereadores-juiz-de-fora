@@ -1,8 +1,9 @@
 ,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
-0,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 00002823,2017-03-29,Posto Joquei Clube Ltda,41660648000171,,638.54
-1,RPA - RECIBO DE PAGAMENTO AUTÔNOMO 014,2017-03-28,Edina Gomes da Silva,83044990610,['* Consultoria técnica'],2400.0
-2,DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRONICA 4219,2017-03-30,RIBEIRO DE OLIVEIRA & CIA,21562897000117,['Copa Interna'],14.7
-3,NFS - Nota Fiscal de Serviços Eletrônica 2017/17,2017-03-28,Estacionamento Salve Jorge Ltda,17509454000195,['Estacionamento (uma vaga)'],300.0
-4,Fatura 000114,2017-03-28,Estacionamento Salve Jorge Ltda,17509454000195,['Locação de veículos utilizados no exercício do mandato legislativo'],2300.0
-5,DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELTRONICA 4219,2017-03-30,RIBEIRO DE OLIVEIRA &CIA LTDA,21562897000117,['Material de expediente'],216.8
-6,Nota Fiscal de Serviços de Telecomunicações 1700401096287,2017-03-29,Telemar Norte leste S/A,33000118000179,['* Telefone(s) em nome da Câmara(local e interurbano) (³)'],248.32
+0,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 00002823,2017-03-29,Posto Joquei Clube Ltda,41660648000171,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),638.54
+1,RPA - RECIBO DE PAGAMENTO AUTÔNOMO 014,2017-03-28,Edina Gomes da Silva,83044990610,* Consultoria técnica,2400.0
+2,DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRONICA 4219,2017-03-30,RIBEIRO DE OLIVEIRA & CIA,21562897000117,Copa Interna,14.7
+3,NFS - Nota Fiscal de Serviços Eletrônica 2017/17,2017-03-28,Estacionamento Salve Jorge Ltda,17509454000195,Estacionamento (uma vaga),300.0
+4,Fatura 000114,2017-03-28,Estacionamento Salve Jorge Ltda,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+5,DANFE - DOCUMENTO AUXILIAR DA NOTA FISCAL ELTRONICA 4219,2017-03-30,RIBEIRO DE OLIVEIRA &CIA LTDA,21562897000117,Material de expediente,216.8
+6,Nota Fiscal de Serviços de Telecomunicações 1700401096287,2017-03-29,Telemar Norte leste S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),248.32
+7,,,,,total,5870.04

@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 5900344,2017-07-28,Infoglobo Comunicações e Partic S/A,60452752002916,103.9
-1,DANFE 000012700,2017-07-31,Posto Romualdo LTDA,66343930000156,1009.0
-2,Nota Fiscal  Eletrônica de Serviços 201700000000036,2017-07-28,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,1500.0
-3,Nota Fiscal de Serviços Eletrônica 201700000000420,2017-07-31,Real Copias de Juiz de Fora LTDA,04316977000173,476.88
-4,DANFE 000.011.880,2017-07-17,Thema Veiculos LTDA,21550231000572,357.77
-5,Prestador de Serviços 201700000000488,2017-07-17,Thema Veiculos LTDA,21550231000572,171.33
-6,Nota Fiscal de Serviços Eletrônica 201700000000448,2017-07-31,União Artes Graficas LTDA,20741559000180,1050.0
-7,DANFE 4427,2017-07-31,Ribeiro de Oliveira & Cia LTDA,21562897000117,436.2
-8,Nota Fiscal de Telecomunicações 1700405526945,2017-07-31,OI FIXO,33000118000179,250.81
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 5900344,2017-07-28,Infoglobo Comunicações e Partic S/A,60452752002916,"Assinatura de jornais, revistas e periódicos",103.9
+1,DANFE 000012700,2017-07-31,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1009.0
+2,Nota Fiscal  Eletrônica de Serviços 201700000000036,2017-07-28,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,* Consultoria técnica,1500.0
+3,Nota Fiscal de Serviços Eletrônica 201700000000420,2017-07-31,Real Copias de Juiz de Fora LTDA,04316977000173,Cópias xerográficas e similares,476.88
+4,DANFE 000.011.880,2017-07-17,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),357.77
+5,Prestador de Serviços 201700000000488,2017-07-17,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),171.33
+6,Nota Fiscal de Serviços Eletrônica 201700000000448,2017-07-31,União Artes Graficas LTDA,20741559000180,Impressos,1050.0
+7,DANFE 4427,2017-07-31,Ribeiro de Oliveira & Cia LTDA,21562897000117,Material de expediente,436.2
+8,Nota Fiscal de Telecomunicações 1700405526945,2017-07-31,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),250.81
+9,,,,,total,5105.08

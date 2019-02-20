@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 000018194,2018-02-06,Solar Comunicação S/A,21561725000129,35.6
-1,Nota Fiscal Eletronica 00001832,2018-02-27,Chamonix LTDA,20447074000188,188.0
-2,Nota Fiscal Eletronica 000013522,2018-02-27,Posto Rumualdo LTDA,66343930000156,255.15
-3,Nota Fiscal Eletronica 000000158,2018-02-27,Posto Central LTDA,21549407000142,55.0
-4,Nota Fiscal Eletronica de Serviço 201800000000878,2018-02-27,Real Copias de Juiz de Fora LTDA,04316977000173,51.6
-5,Nota Fiscal Eletronica 140712,2018-02-28,Imperial Veículos LTDA,64286420000169,680.0
-6,Nota Fiscal Eltronica de Serviço 201800000018816,2018-02-28,Imperial Veiculos LTDA,64286420000169,192.0
-7,Nota Fiscal Eletronica 201800000002046,2018-02-06,GA Comercial LTDA- EPP,02282594000104,578.0
-8,Nota Fiscal Eletronica 0000002060,2018-02-28,Aloisio Costa Ferreira-ME Infotoner,02017219000129,57.0
-9,Nota Fiscal de Serviços de Telecomunicações 0304814216,2018-02-06,Vivo,02558157000162,390.26
-10,Nota Fiscal de Serviços de Telecomunicações 1700415674971,2018-02-27,Oi Fixo,33000118000179,120.35
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 000018194,2018-02-06,Solar Comunicação S/A,21561725000129,"Assinatura de jornais, revistas e periódicos",35.6
+1,Nota Fiscal Eletronica 00001832,2018-02-27,Chamonix LTDA,20447074000188,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),188.0
+2,Nota Fiscal Eletronica 000013522,2018-02-27,Posto Rumualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),255.15
+3,Nota Fiscal Eletronica 000000158,2018-02-27,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),55.0
+4,Nota Fiscal Eletronica de Serviço 201800000000878,2018-02-27,Real Copias de Juiz de Fora LTDA,04316977000173,Cópias xerográficas e similares,51.6
+5,Nota Fiscal Eletronica 140712,2018-02-28,Imperial Veículos LTDA,64286420000169,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),680.0
+6,Nota Fiscal Eltronica de Serviço 201800000018816,2018-02-28,Imperial Veiculos LTDA,64286420000169,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),192.0
+7,Nota Fiscal Eletronica 201800000002046,2018-02-06,GA Comercial LTDA- EPP,02282594000104,Impressos,578.0
+8,Nota Fiscal Eletronica 0000002060,2018-02-28,Aloisio Costa Ferreira-ME Infotoner,02017219000129,Suprimentos para equipamentos de informática,57.0
+9,Nota Fiscal de Serviços de Telecomunicações 0304814216,2018-02-06,Vivo,02558157000162,Telefone Móvel,390.26
+10,Nota Fiscal de Serviços de Telecomunicações 1700415674971,2018-02-27,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),120.35
+11,,,,,total,2482.61

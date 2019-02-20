@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 00005716,2017-12-18,Papagaio Comercio e Derivado de Petroleo ltda,10515414000107,1220.18
-1,RPA/ Recibo de Pagamento a Autonomo 08,2017-12-20,Marilene de Almeida Rachel,99861356649,3300.0
-2,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000067,2017-12-05,Ricardo Teixeira de Aguiar,66464488000116,260.0
-3,Nota Fiscal  Eletronica de Serviço- NFS-e 201700000000162,2017-12-19,Ambiente Comunicação ltda,09662777000196,750.0
-4,DANFE-Documento Auxiliar da Nota Fiscal Eletrônica 4704,2017-12-18,Ribeiro de Oliveira & CIA Ltda,21562897000117,66.8
-5,Nota Fiscal Eletronica de Serviço- NFS-e 201700000000144,2017-12-19,Interurb Serviços Postais Ltda,42933416000102,840.0
-6,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000038,2017-12-01,Onofre de Matos Guedes,26632032000101,350.0
-7,Fatura 0313572750,2017-12-13,Telefônica Brasil S.A.,02558157000910,269.99
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 00005716,2017-12-18,Papagaio Comercio e Derivado de Petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1220.18
+1,RPA/ Recibo de Pagamento a Autonomo 08,2017-12-20,Marilene de Almeida Rachel,99861356649,* Consultoria técnica,3300.0
+2,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000067,2017-12-05,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),260.0
+3,Nota Fiscal  Eletronica de Serviço- NFS-e 201700000000162,2017-12-19,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+4,DANFE-Documento Auxiliar da Nota Fiscal Eletrônica 4704,2017-12-18,Ribeiro de Oliveira & CIA Ltda,21562897000117,Material de expediente,66.8
+5,Nota Fiscal Eletronica de Serviço- NFS-e 201700000000144,2017-12-19,Interurb Serviços Postais Ltda,42933416000102,Postagem,840.0
+6,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000038,2017-12-01,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,350.0
+7,Fatura 0313572750,2017-12-13,Telefônica Brasil S.A.,02558157000910,Telefone Móvel,269.99
+8,,,,,total,7056.97

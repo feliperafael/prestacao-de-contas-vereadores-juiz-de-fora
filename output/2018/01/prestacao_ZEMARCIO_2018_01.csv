@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 00001866,2018-01-30,Auto Posto Valentina LTDA,17817687000155,789.92
-1,Recibo de Pagamento Autonomo 001,2018-01-31,Paulo Sergio Gomes Aroni,52148270672,2500.0
-2,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,40.2
-3,Nota Fiscal Eletronica 201800000000936,2018-01-31,Casa do Grafica LTDA,25527805000119,579.4
-4,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,158.6
-5,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,88.7
-6,Nota Fiscal de Serviço de Telecomunicação 1700413241416,2018-01-31,Oi Fixo,33000118000179,66.56
-7,Nota Fiscal de Serviços de Telecomunicação 170041473024,2018-01-31,Oi Fixo,33000118000179,56.7
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 00001866,2018-01-30,Auto Posto Valentina LTDA,17817687000155,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),789.92
+1,Recibo de Pagamento Autonomo 001,2018-01-31,Paulo Sergio Gomes Aroni,52148270672,* Consultoria técnica,2500.0
+2,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,Copa Interna,40.2
+3,Nota Fiscal Eletronica 201800000000936,2018-01-31,Casa do Grafica LTDA,25527805000119,Cópias xerográficas e similares,579.4
+4,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,Material de expediente,158.6
+5,Nota Fiscal Eletronica 000002601,2018-01-18,Perfect Paper Informatica LTDA - ME,19857923000192,Suprimentos para equipamentos de informática,88.7
+6,Nota Fiscal de Serviço de Telecomunicação 1700413241416,2018-01-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),66.56
+7,Nota Fiscal de Serviços de Telecomunicação 170041473024,2018-01-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),56.7
+8,,,,,total,4156.82

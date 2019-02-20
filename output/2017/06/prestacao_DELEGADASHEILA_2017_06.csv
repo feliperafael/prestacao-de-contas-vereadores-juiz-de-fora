@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,danfe 759,2017-06-30,posto centro choferes ltda,21575972000184,2115.17
-1,rpa 004,2017-06-28,maria tereza lamego genevam,10147971608,1500.0
-2,nfse 201700000000036,2017-06-06,ricardo teixeira de aguiar,66464488000116,260.0
-3,nfse 201700000000233,2017-06-14,w. collor editora grafica ltda,05033125000131,380.0
-4,nfse 1278,2017-06-19,vizion gestao de negocios empresariais ltda epp,07979987000187,586.0
-5,recibo 3577822/1,2017-06-01,movida locaçao de veiculos s/a,07976147020609,2118.0
-6,cupom fiscal 283562,2017-06-06,parco papelaria ltda,05214053001109,21.0
-7,cupom 1312158976,2017-06-06,emp brasileira de correios e telegrafos,07840632000102,10.8
-8,danfe 3386,2017-06-20,teixeira e chaves ltda,21339965001902,42.9
-9,nota fiscal serviços de telecomunicações 1700405266697,2017-06-30,oi fixo,33000118000179,345.76
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,danfe 759,2017-06-30,posto centro choferes ltda,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),2115.17
+1,rpa 004,2017-06-28,maria tereza lamego genevam,10147971608,* Consultoria técnica,1500.0
+2,nfse 201700000000036,2017-06-06,ricardo teixeira de aguiar,66464488000116,Estacionamento (uma vaga),260.0
+3,nfse 201700000000233,2017-06-14,w. collor editora grafica ltda,05033125000131,Impressos,380.0
+4,nfse 1278,2017-06-19,vizion gestao de negocios empresariais ltda epp,07979987000187,Locação de softwares,586.0
+5,recibo 3577822/1,2017-06-01,movida locaçao de veiculos s/a,07976147020609,Locação de veículos utilizados no exercício do mandato legislativo,2118.0
+6,cupom fiscal 283562,2017-06-06,parco papelaria ltda,05214053001109,Material de expediente,21.0
+7,cupom 1312158976,2017-06-06,emp brasileira de correios e telegrafos,07840632000102,Postagem,10.8
+8,danfe 3386,2017-06-20,teixeira e chaves ltda,21339965001902,Suprimentos para equipamentos de informática,42.9
+9,nota fiscal serviços de telecomunicações 1700405266697,2017-06-30,oi fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),345.76
+10,,,,,total,6918.7

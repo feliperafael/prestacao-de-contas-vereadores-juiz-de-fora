@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Serviço de Comunicação Modelo 21 000747930,2017-05-03,Infoline Comunicações e Informações,00958288000101,26.76
-1,Recibo/Fatura 000114221,2017-05-03,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
-2,Recibo do Sacado 58072,2017-05-30,Diretrans Ltda,19490812000190,720.0
-3,Danfe 00003392,2017-05-30,Auto Posto Bandeirantes Ltda,21058508000110,400.0
-4,Recibo do Pagador 2400000000805432-4,2017-05-03,Condomínio Edifício Rossi Rio Branco Corparate,20291262000160,292.23
-5,Nota Fiscal eletrônica de Serviços 201700000000006,2017-05-31,Insight Consultoria Ped Eireli,24547262000139,1600.0
-6,Cupom Fiscal 074949,2017-05-15,Papelaria Fazza Ltda,01953452000150,5.6
-7,Nota Fiscal 000770409,2017-05-10,Cemig Distribuição S.A.,06981180000116,38.96
-8,Nota Fiscal eletrônica de Serviço 201700000000056,2017-05-10,Gráfica Vicentini de Juiz de Fora Ltda,09197073000190,230.0
-9,Nota Fiscal Eletrônica de Serviço 201700000000068,2017-05-29,Gráfica Vicentini de Juiz de Fora Ltda,09197073000190,898.0
-10,Fatura 000124,2017-05-26,Estacionamento Salve Jorge Ltda.-ME,17509454000195,2300.0
-11,Cupom Fiscal 074948,2017-05-15,Papelaria Fazza Ltda,01953452000150,89.1
-12,Fatura 1700403894827,2017-05-30,Telemar Norte Leste S/A,33000118000179,325.51
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Serviço de Comunicação Modelo 21 000747930,2017-05-03,Infoline Comunicações e Informações,00958288000101,Acesso a internet de escritório para representação parlamentar,26.76
+1,Recibo/Fatura 000114221,2017-05-03,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,40.14
+2,Recibo do Sacado 58072,2017-05-30,Diretrans Ltda,19490812000190,Aluguel de escritório para representação parlamentar,720.0
+3,Danfe 00003392,2017-05-30,Auto Posto Bandeirantes Ltda,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),400.0
+4,Recibo do Pagador 2400000000805432-4,2017-05-03,Condomínio Edifício Rossi Rio Branco Corparate,20291262000160,Condomínio de escritório para representação parlamentar,292.23
+5,Nota Fiscal eletrônica de Serviços 201700000000006,2017-05-31,Insight Consultoria Ped Eireli,24547262000139,* Consultoria técnica,1600.0
+6,Cupom Fiscal 074949,2017-05-15,Papelaria Fazza Ltda,01953452000150,Copa Interna,5.6
+7,Nota Fiscal 000770409,2017-05-10,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,38.96
+8,Nota Fiscal eletrônica de Serviço 201700000000056,2017-05-10,Gráfica Vicentini de Juiz de Fora Ltda,09197073000190,Impressos,230.0
+9,Nota Fiscal Eletrônica de Serviço 201700000000068,2017-05-29,Gráfica Vicentini de Juiz de Fora Ltda,09197073000190,Impressos,898.0
+10,Fatura 000124,2017-05-26,Estacionamento Salve Jorge Ltda.-ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+11,Cupom Fiscal 074948,2017-05-15,Papelaria Fazza Ltda,01953452000150,Material de expediente,89.1
+12,Fatura 1700403894827,2017-05-30,Telemar Norte Leste S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),325.51
+13,,,,,total,6640.79

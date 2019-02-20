@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 002,2017-02-28,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 9718,2017-02-28,Auto Posto Petrogas LTDA,03862967000170,1015.13
-2,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira & Cia Ltda,21562897000117,18.5
-3,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 530,2017-02-22,A Carbonaro Agua Mineral - ME,24488698000102,120.0
-4,Nota Fiscal de Serviços Eletronica 2017/14,2017-02-22,Estacionamento Salve Jorge Ltda-ME,17509454000195,300.0
-5,Fatura 111,2017-02-22,Estacionamento Salve Jorge Ltda-ME,17509454000195,1800.0
-6,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira &Cia Ltda,21562897000117,743.2
-7,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira & Cia Ltda,21562897000117,89.3
-8,Danfe 1857,2017-02-23,Aloisio Costa Ferreira - ME - Infotoner,02017219000129,55.0
-9,Nota Fiscal de Serviços de Telecomunicações 667233,2017-02-24,Telemar Norte Leste S/A,33000118000179,649.99
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 002,2017-02-28,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 9718,2017-02-28,Auto Posto Petrogas LTDA,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1015.13
+2,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira & Cia Ltda,21562897000117,Copa Interna,18.5
+3,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 530,2017-02-22,A Carbonaro Agua Mineral - ME,24488698000102,Copa Interna,120.0
+4,Nota Fiscal de Serviços Eletronica 2017/14,2017-02-22,Estacionamento Salve Jorge Ltda-ME,17509454000195,Estacionamento (uma vaga),300.0
+5,Fatura 111,2017-02-22,Estacionamento Salve Jorge Ltda-ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+6,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira &Cia Ltda,21562897000117,Material de expediente,743.2
+7,Documento Auxiliar da Nota Fiscal Eletronica - Danfe 4160,2017-02-21,Ribeiro De Oliveira & Cia Ltda,21562897000117,Suprimentos para equipamentos de informática,89.3
+8,Danfe 1857,2017-02-23,Aloisio Costa Ferreira - ME - Infotoner,02017219000129,Suprimentos para equipamentos de informática,55.0
+9,Nota Fiscal de Serviços de Telecomunicações 667233,2017-02-24,Telemar Norte Leste S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),649.99
+10,,,,,total,4741.13

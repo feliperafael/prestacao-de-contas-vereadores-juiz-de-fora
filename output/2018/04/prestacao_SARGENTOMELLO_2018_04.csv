@@ -1,16 +1,17 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo de ALUGUEL 03/2018,2018-04-01,Leonardo Gudziki Hábel,62819313604,800.0
-1,DANFE- documento auxiliar da nota fiscal eletronica 00005944,2018-04-30,Papagaio Comercio e Derivados de Petroleo ltda,10515414000107,1324.87
-2,Recibo do pagador 04/2018,2018-04-16,Condominio do edificio Top Center,20439162000138,240.0
-3,DANFE-documento auxiliar da nota fiscal eletronica 000.001.202,2018-04-26,A Carbonaro Agua Mineral ME,24488698000102,54.0
-4,DANFE- documento auxiliar da nota fiscal 4967,2018-04-27,Ribeiro de Oliveira & Cia ltda,21562897000117,23.4
-5,DANFE-documento auxiliar da nota fiscal eletronica 000.168.560,2018-04-04,Thema Veiculos ltda,21550231000149,344.0
-6,Nota Fiscal de Serviço -NFS-e 201800000005671,2018-04-04,Thema Veiculos Ltda,21550231000149,319.0
-7,Nota Fiscal Eletronica de Serviço -NFS-e 201800000000085,2018-04-04,Ricardo Teixeira de Aguiar,66464488000116,260.0
-8,Documento de arrecadação do imposto predial e territorial urbano IPTU/TCRS 002.668/206,2018-04-10,Prefeitura de Juiz de Fora,18338178000102,41.25
-9,Nota Fiscal Eletronica de Serviço -NFS-e 201800000000246,2018-04-20,Ambiente Comunicação ltda,09662777000196,750.0
-10,DANFE-documento auxiliar da nota fiscal eletronica 4967,2018-04-27,Ribeiro de Oliveira & Cia ltda,21562897000117,89.4
-11,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000054,2018-04-03,Onofre de Matos Guedes,26632032000101,700.0
-12,DANFE- documento auxiliar da nota fiscal eletronica 112342,2018-04-26,Set Serviços tecnicos em Informatica ltda,23393267000787,65.0
-13,Fatura 0313572750,2018-04-11,Operadora VIVO,02558157000910,269.99
-14,FATURA 1700418019588,2018-04-30,OPERADORA OI,33000118000179,423.0
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo de ALUGUEL 03/2018,2018-04-01,Leonardo Gudziki Hábel,62819313604,Aluguel de escritório para representação parlamentar,800.0
+1,DANFE- documento auxiliar da nota fiscal eletronica 00005944,2018-04-30,Papagaio Comercio e Derivados de Petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1324.87
+2,Recibo do pagador 04/2018,2018-04-16,Condominio do edificio Top Center,20439162000138,Condomínio de escritório para representação parlamentar,240.0
+3,DANFE-documento auxiliar da nota fiscal eletronica 000.001.202,2018-04-26,A Carbonaro Agua Mineral ME,24488698000102,Copa Interna,54.0
+4,DANFE- documento auxiliar da nota fiscal 4967,2018-04-27,Ribeiro de Oliveira & Cia ltda,21562897000117,Copa Interna,23.4
+5,DANFE-documento auxiliar da nota fiscal eletronica 000.168.560,2018-04-04,Thema Veiculos ltda,21550231000149,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),344.0
+6,Nota Fiscal de Serviço -NFS-e 201800000005671,2018-04-04,Thema Veiculos Ltda,21550231000149,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),319.0
+7,Nota Fiscal Eletronica de Serviço -NFS-e 201800000000085,2018-04-04,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),260.0
+8,Documento de arrecadação do imposto predial e territorial urbano IPTU/TCRS 002.668/206,2018-04-10,Prefeitura de Juiz de Fora,18338178000102,IPTU e Taxas de escritório para representação parlamentar,41.25
+9,Nota Fiscal Eletronica de Serviço -NFS-e 201800000000246,2018-04-20,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+10,DANFE-documento auxiliar da nota fiscal eletronica 4967,2018-04-27,Ribeiro de Oliveira & Cia ltda,21562897000117,Material de expediente,89.4
+11,Nota Fiscal Eletronica de Serviço-NFS-e 201800000000054,2018-04-03,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,700.0
+12,DANFE- documento auxiliar da nota fiscal eletronica 112342,2018-04-26,Set Serviços tecnicos em Informatica ltda,23393267000787,Suprimentos para equipamentos de informática,65.0
+13,Fatura 0313572750,2018-04-11,Operadora VIVO,02558157000910,Telefone Móvel,269.99
+14,FATURA 1700418019588,2018-04-30,OPERADORA OI,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),423.0
+15,,,,,total,5280.91

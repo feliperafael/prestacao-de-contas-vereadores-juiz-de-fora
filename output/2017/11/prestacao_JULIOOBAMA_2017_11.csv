@@ -1,15 +1,16 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo/Fatura Numerada 000288446,2017-11-13,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
-1,Nota Fiscal de Comunicações Modelo 21 921861,2017-11-13,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
-2,Recibo do Sacado 60112,2017-11-29,Diretrans Ltda,19490812000190,720.0
-3,DANFE 00003730,2017-11-29,Auto Posto Bandeirantes Ltda,21058508000110,700.0
-4,Recibo do Pagador 14000000000865609-7,2017-11-10,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,295.82
-5,Recibo de Pagamento a Autônomo 10,2017-11-30,Elaine Araújo Gonzaga,05499740674,1600.0
-6,Cupom Fiscal 063299,2017-11-28,Teixeira e Chaves Ltda,21339965001902,14.2
-7,Nota Fiscal 000822682,2017-11-24,Cemig Distribuição S/A,06981180000116,42.68
-8,Fatura 000151,2017-11-28,Estacionamento Salve Jorge Ltda.-ME,17509454000195,2300.0
-9,Cupom fiscal 060844,2017-11-16,Teixeira e Chaves Ltda,21339965001902,44.75
-10,Cupom fiscal 068851,2017-11-16,Teixeira e Chaves Ltda,21339965001902,46.5
-11,Cupom Fiscal 063299,2017-11-28,Teixeira e Chaves Ltda,21339965001902,14.0
-12,Nota Fiscal Série D 016816,2017-11-10,MP3 Papelaria e Presentes Ltda,07700435000198,74.0
-13,Fatura 1700411982602,2017-11-30,Oi Fixo,33000118000179,815.01
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo/Fatura Numerada 000288446,2017-11-13,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,40.14
+1,Nota Fiscal de Comunicações Modelo 21 921861,2017-11-13,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,26.76
+2,Recibo do Sacado 60112,2017-11-29,Diretrans Ltda,19490812000190,Aluguel de escritório para representação parlamentar,720.0
+3,DANFE 00003730,2017-11-29,Auto Posto Bandeirantes Ltda,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),700.0
+4,Recibo do Pagador 14000000000865609-7,2017-11-10,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,295.82
+5,Recibo de Pagamento a Autônomo 10,2017-11-30,Elaine Araújo Gonzaga,05499740674,* Consultoria técnica,1600.0
+6,Cupom Fiscal 063299,2017-11-28,Teixeira e Chaves Ltda,21339965001902,Copa Interna,14.2
+7,Nota Fiscal 000822682,2017-11-24,Cemig Distribuição S/A,06981180000116,Energia elétrica para escritório para representação parlamentar,42.68
+8,Fatura 000151,2017-11-28,Estacionamento Salve Jorge Ltda.-ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+9,Cupom fiscal 060844,2017-11-16,Teixeira e Chaves Ltda,21339965001902,Material de expediente,44.75
+10,Cupom fiscal 068851,2017-11-16,Teixeira e Chaves Ltda,21339965001902,Material de expediente,46.5
+11,Cupom Fiscal 063299,2017-11-28,Teixeira e Chaves Ltda,21339965001902,Material de expediente,14.0
+12,Nota Fiscal Série D 016816,2017-11-10,MP3 Papelaria e Presentes Ltda,07700435000198,Suprimentos para equipamentos de informática,74.0
+13,Fatura 1700411982602,2017-11-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),815.01
+14,,,,,total,5918.85

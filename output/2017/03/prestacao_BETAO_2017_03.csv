@@ -1,16 +1,17 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Boleto 051,2017-03-29,Condomínio do Edifícil Sulacap,26128371000147,950.0
-1,Nota Fiscal Eletrônica 15147,2017-03-30,Solar Comunicações S.A.,21561725000129,491.63
-2,Nota Fiscal Eletrônica 12240,2017-03-30,Posto Romualdo Ltda.,66343930000156,1546.87
-3,Nota Fiscal Eletrônica 583,2017-03-29,A Carbonaro Agua Mineral ME,24488698000102,32.0
-4,Nota Fiscal - Conta de Energia Elétrica 703977,2017-03-27,Cemig Distribuição S.A.,06981180000116,118.43
-5,Recibo S/Nº,2017-03-31,Condomínio Parking Saggioro,20439212000187,370.0
-6,Nota Fiscal Eletrônica 2017/181,2017-03-31,União Artes Gráficas Ltda.,20741559000180,587.0
-7,Nota Fiscal Eletrônica 2017/5,2017-03-29,Empreiteira Transtech T & D Ltda,14496365000163,1800.0
-8,Nota Fiscal Eletrônica 4223,2017-03-30,Ribeiro de Oliveira & Cia Ltda,21562897000117,188.9
-9,Nota Fiscal Eletrônica 1879,2017-03-30,Aloisio Costa Ferreira - ME -Infotoner,02017219000129,110.0
-10,Nota Fiscal Eletrônica 4223,2017-03-30,Ribeiro de Oliveira & Cia. Ltda,21562897000117,110.9
-11,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-03-16,Telefônica Brasil S.A.,02558157000162,90.99
-12,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-03-16,Telefônica Brasil S.A.,02558157000162,462.11
-13,Nota Fiscal de Serviços de Telecomunicações 762263718,2017-03-27,Telemar Norte Leste S/A.,33000118000330,440.6
-14,Nota Fiscal de Serviços de Telecomunicações 1700401096287,2017-03-31,Oi Fixo,33000118000179,120.83
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Boleto 051,2017-03-29,Condomínio do Edifícil Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal Eletrônica 15147,2017-03-30,Solar Comunicações S.A.,21561725000129,"Assinatura de jornais, revistas e periódicos",491.63
+2,Nota Fiscal Eletrônica 12240,2017-03-30,Posto Romualdo Ltda.,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1546.87
+3,Nota Fiscal Eletrônica 583,2017-03-29,A Carbonaro Agua Mineral ME,24488698000102,Copa Interna,32.0
+4,Nota Fiscal - Conta de Energia Elétrica 703977,2017-03-27,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,118.43
+5,Recibo S/Nº,2017-03-31,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+6,Nota Fiscal Eletrônica 2017/181,2017-03-31,União Artes Gráficas Ltda.,20741559000180,Impressos,587.0
+7,Nota Fiscal Eletrônica 2017/5,2017-03-29,Empreiteira Transtech T & D Ltda,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+8,Nota Fiscal Eletrônica 4223,2017-03-30,Ribeiro de Oliveira & Cia Ltda,21562897000117,Material de expediente,188.9
+9,Nota Fiscal Eletrônica 1879,2017-03-30,Aloisio Costa Ferreira - ME -Infotoner,02017219000129,Suprimentos para equipamentos de informática,110.0
+10,Nota Fiscal Eletrônica 4223,2017-03-30,Ribeiro de Oliveira & Cia. Ltda,21562897000117,Suprimentos para equipamentos de informática,110.9
+11,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-03-16,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,90.99
+12,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-03-16,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,462.11
+13,Nota Fiscal de Serviços de Telecomunicações 762263718,2017-03-27,Telemar Norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,440.6
+14,Nota Fiscal de Serviços de Telecomunicações 1700401096287,2017-03-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),120.83
+15,,,,,total,7299.43

@@ -1,8 +1,9 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 000000119,2017-09-29,Posto Central LTDA,21549407000142,499.04
-1,Nota Fiscal Eletronica 000012949,2017-09-29,Posto Rumualdo LTDA,66343930000156,364.54
-2,Nota Fiscal Eletronica de Serviço 201700000000017,2017-09-29,Aristides Ribeiro Advogados Associados S/C,04504649000109,3000.0
-3,Nota Fiscal Eletronica de Serviços 201700000000572,2017-09-28,Real Copias de Juiz de Fora LTDA,04316977000173,67.32
-4,Comprovante do Cliente 064293,2017-09-22,EMP Bras Correios e telegrafos,86529443000190,142.1
-5,Nota Fiscal de Telecomunicação 0304814216,2017-09-13,Telefônica Brasil S.A,02558157000910,498.09
-6,Nota Fiscal de Telecomunicação 1700409330654,2017-09-29,Oi Fixo,33000118000179,148.61
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 000000119,2017-09-29,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),499.04
+1,Nota Fiscal Eletronica 000012949,2017-09-29,Posto Rumualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),364.54
+2,Nota Fiscal Eletronica de Serviço 201700000000017,2017-09-29,Aristides Ribeiro Advogados Associados S/C,04504649000109,* Consultoria técnica,3000.0
+3,Nota Fiscal Eletronica de Serviços 201700000000572,2017-09-28,Real Copias de Juiz de Fora LTDA,04316977000173,Cópias xerográficas e similares,67.32
+4,Comprovante do Cliente 064293,2017-09-22,EMP Bras Correios e telegrafos,86529443000190,Postagem,142.1
+5,Nota Fiscal de Telecomunicação 0304814216,2017-09-13,Telefônica Brasil S.A,02558157000910,Telefone Móvel,498.09
+6,Nota Fiscal de Telecomunicação 1700409330654,2017-09-29,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),148.61
+7,,,,,total,4571.09

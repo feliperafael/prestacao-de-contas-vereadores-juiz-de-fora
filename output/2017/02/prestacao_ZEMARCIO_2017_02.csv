@@ -1,9 +1,10 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 00001459,2017-02-23,Auto Posto Valentina LTDA,17817687000155,1205.58
-1,Recibo de Pagamento Autonomo 002,2017-02-24,Danielle Barros Possa,90798783672,2000.0
-2,Nota Fiscal Eletronica 0000002897,2017-02-24,Papelaria Fazza Ltda - ME - Anapel,01953452000150,44.7
-3,Nota Fiscal Eletronica 2017/119,2017-02-21,Casa do Grafico LTDA,25527805000119,520.1
-4,Nota Fiscal Eletronica 2017.00000000069,2017-02-24,W. Collor Editora Grafica LTDA,05033125000131,1200.0
-5,Nota Fiscal Eletronica 0000002897,2017-02-24,Papelaria Fazza Ltda - ME - Anapel,01953452000150,190.4
-6,Nota Fiscal Eletronica 000022210,2017-02-03,Perfect Print Rec. E Informatica LTDA,11149140000142,150.0
-7,Nota Fiscal Serviço de Telecomunicação 100300667233,2017-02-24,Oi Fixo,33000118000179,237.32
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 00001459,2017-02-23,Auto Posto Valentina LTDA,17817687000155,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1205.58
+1,Recibo de Pagamento Autonomo 002,2017-02-24,Danielle Barros Possa,90798783672,* Consultoria técnica,2000.0
+2,Nota Fiscal Eletronica 0000002897,2017-02-24,Papelaria Fazza Ltda - ME - Anapel,01953452000150,Copa Interna,44.7
+3,Nota Fiscal Eletronica 2017/119,2017-02-21,Casa do Grafico LTDA,25527805000119,Cópias xerográficas e similares,520.1
+4,Nota Fiscal Eletronica 2017.00000000069,2017-02-24,W. Collor Editora Grafica LTDA,05033125000131,Impressos,1200.0
+5,Nota Fiscal Eletronica 0000002897,2017-02-24,Papelaria Fazza Ltda - ME - Anapel,01953452000150,Material de expediente,190.4
+6,Nota Fiscal Eletronica 000022210,2017-02-03,Perfect Print Rec. E Informatica LTDA,11149140000142,Suprimentos para equipamentos de informática,150.0
+7,Nota Fiscal Serviço de Telecomunicação 100300667233,2017-02-24,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),237.32
+8,,,,,total,5310.78

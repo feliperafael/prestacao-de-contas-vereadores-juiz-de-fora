@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Comunicações Modelo 21 1255184,2018-09-14,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
-1,Recibo/Fatura Numerada 000622389,2018-09-14,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
-2,Recibo do Sacado 63117,2018-09-26,Diretrans Ltda,19490812000190,720.0
-3,DANFE 00004157,2018-09-28,Auto Posto Bandeirantes LTDA,21058508000110,540.0
-4,Recibo do Pagador 14000000001084315-4,2018-09-11,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,274.42
-5,Recibo de Pagamento a Autônomo 22,2018-09-28,Elaine Araújo Gonzaga,05499740674,1600.0
-6,Nota Fiscal Eletrônica de Serviço 201800000000201,2018-09-17,Gráfica e Copiadora Ferreira Rodrigues Ltda,13045649000170,82.1
-7,Nota Fiscal 056004441,2018-09-25,Cemig Distribuição S.A.,06981180000116,48.23
-8,Fatura 000193,2018-09-27,Estacionamento Salve Jorge Ltda.- ME,17509454000195,2300.0
-9,Cupom Fiscal 031204,2018-09-25,Parco Papelaria Ltda,05214053001109,25.55
-10,Cupom Fiscal 031205,2018-09-25,Parco Papelaria LTDA,05214053001109,89.0
-11,Cupom Fiscal 031206,2018-09-25,Parco Papelaria LTDA,05214053001109,48.67
-12,Fatura 1700423613986,2018-09-28,Oi Fixo,33000118000179,258.27
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Comunicações Modelo 21 1255184,2018-09-14,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,26.76
+1,Recibo/Fatura Numerada 000622389,2018-09-14,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,40.14
+2,Recibo do Sacado 63117,2018-09-26,Diretrans Ltda,19490812000190,Aluguel de escritório para representação parlamentar,720.0
+3,DANFE 00004157,2018-09-28,Auto Posto Bandeirantes LTDA,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),540.0
+4,Recibo do Pagador 14000000001084315-4,2018-09-11,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,274.42
+5,Recibo de Pagamento a Autônomo 22,2018-09-28,Elaine Araújo Gonzaga,05499740674,* Consultoria técnica,1600.0
+6,Nota Fiscal Eletrônica de Serviço 201800000000201,2018-09-17,Gráfica e Copiadora Ferreira Rodrigues Ltda,13045649000170,Cópias xerográficas e similares,82.1
+7,Nota Fiscal 056004441,2018-09-25,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,48.23
+8,Fatura 000193,2018-09-27,Estacionamento Salve Jorge Ltda.- ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+9,Cupom Fiscal 031204,2018-09-25,Parco Papelaria Ltda,05214053001109,Material de expediente,25.55
+10,Cupom Fiscal 031205,2018-09-25,Parco Papelaria LTDA,05214053001109,Material de expediente,89.0
+11,Cupom Fiscal 031206,2018-09-25,Parco Papelaria LTDA,05214053001109,Suprimentos para equipamentos de informática,48.67
+12,Fatura 1700423613986,2018-09-28,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),258.27
+13,,,,,total,5794.87

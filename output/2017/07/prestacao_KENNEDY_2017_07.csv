@@ -1,23 +1,24 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal de Comunicação - Modelo 21 004674,2017-07-10,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,64.9
-1,Recibo do Pagador 112/36819918-1,2017-07-31,"Local - Locação, Corretagem e Adm Ltda",17148263000145,850.0
-2,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000016739,2017-07-20,SOLAR COMUNICACOES SA,21561725000129,219.3
-3,Cupom Fiscal 228579,2017-07-03,POSTO ECO LTDA,03845434000180,164.99
-4,Cupom Fiscal 349233,2017-07-13,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,170.03
-5,Cupom Fiscal 352914,2017-07-21,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,105.09
-6,Cupom Fiscal 013555,2017-07-26,POSTO UNIPAC LTDA,24909500000109,191.03
-7,Cupom Fiscal 357574,2017-07-30,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,100.0
-8,Recibo do Sacado 1212,2017-07-24,COND ED CENTRO EMP ALBER GANIMI,26131714000122,373.72
-9,Recibo de Pagamento a Autônomo - RPA 007,2017-07-20,RICARDO GONÇALVES FRANCISCO,01280080671,2000.0
-10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000010698,2017-07-21,DESCARTAVEIS SANTA RITA LTDA - EPP,17559832000145,11.2
-11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000000763,2017-07-27,A CARBONARO AGUA MINERAL ME,24488698000102,100.0
-12,Nota Fiscal Eletrônica de Serviço - NFS-e 201700000001014,2017-07-03,CASA DA GRAFICA LTDA,15037053000154,18.99
-13,Nota Fiscal Eletrônica de Serviço - NFS-e 201700000001024,2017-07-04,CASA DA GRAFICA LTDA,15037053000154,5.4
-14,Nota Fiscal - Conta de Energia Elétrica 000434804,2017-07-22,CEMIG DISTRIBUICAO SA,06981180000116,69.56
-15,Nota fiscal Eletrônica de Serviço - NFS-e 201700000000043,2017-07-31,RICARDO TEIXEIRA DE AGUIAR,66464488000116,260.0
-16,Recibo do Pagador 112/36819918-1,2017-07-31,"Local - Locação, Corretagem e Adm Ltda",17148263000145,112.32
-17,Nota Fiscal de Serviços - NFE 002136,2017-07-18,TECNEGOCIOS SOLUCOES EM INFORMATICA LTDA - ME,11521613000190,199.0
-18,Documento Auxiliar Da Nota Fiscal Eletronica - DANFE 138842,2017-07-12,PARCO PAPELARIA LTDA,05214053001109,169.0
-19,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 3819,2017-07-18,Teixeira e Chaves Ltda - Filial 21,21339965001902,22.85
-20,Nota Fiscal Serviços de Telecomunicação 0304919151,2017-07-21,TELEFONICA BRASIL SA,02558157000162,249.99
-21,Nota Fiscal de Serviço de Telecomunicação 1700405526945,2017-07-31,TELEMAR NORTE LESTE S/A,33000118000179,197.2
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal de Comunicação - Modelo 21 004674,2017-07-10,INFORWAVE INTERNET JF LTDA - EPP,05125915000147,Acesso a internet de escritório para representação parlamentar,64.9
+1,Recibo do Pagador 112/36819918-1,2017-07-31,"Local - Locação, Corretagem e Adm Ltda",17148263000145,Aluguel de escritório para representação parlamentar,850.0
+2,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000016739,2017-07-20,SOLAR COMUNICACOES SA,21561725000129,"Assinatura de jornais, revistas e periódicos",219.3
+3,Cupom Fiscal 228579,2017-07-03,POSTO ECO LTDA,03845434000180,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),164.99
+4,Cupom Fiscal 349233,2017-07-13,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),170.03
+5,Cupom Fiscal 352914,2017-07-21,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),105.09
+6,Cupom Fiscal 013555,2017-07-26,POSTO UNIPAC LTDA,24909500000109,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),191.03
+7,Cupom Fiscal 357574,2017-07-30,SEMPRE COMERCIO DE COMBUSTIVEL LTDA,08111871000780,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),100.0
+8,Recibo do Sacado 1212,2017-07-24,COND ED CENTRO EMP ALBER GANIMI,26131714000122,Condomínio de escritório para representação parlamentar,373.72
+9,Recibo de Pagamento a Autônomo - RPA 007,2017-07-20,RICARDO GONÇALVES FRANCISCO,01280080671,* Consultoria técnica,2000.0
+10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000010698,2017-07-21,DESCARTAVEIS SANTA RITA LTDA - EPP,17559832000145,Copa Interna,11.2
+11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 000000763,2017-07-27,A CARBONARO AGUA MINERAL ME,24488698000102,Copa Interna,100.0
+12,Nota Fiscal Eletrônica de Serviço - NFS-e 201700000001014,2017-07-03,CASA DA GRAFICA LTDA,15037053000154,Cópias xerográficas e similares,18.99
+13,Nota Fiscal Eletrônica de Serviço - NFS-e 201700000001024,2017-07-04,CASA DA GRAFICA LTDA,15037053000154,Cópias xerográficas e similares,5.4
+14,Nota Fiscal - Conta de Energia Elétrica 000434804,2017-07-22,CEMIG DISTRIBUICAO SA,06981180000116,Energia elétrica para escritório para representação parlamentar,69.56
+15,Nota fiscal Eletrônica de Serviço - NFS-e 201700000000043,2017-07-31,RICARDO TEIXEIRA DE AGUIAR,66464488000116,Estacionamento (uma vaga),260.0
+16,Recibo do Pagador 112/36819918-1,2017-07-31,"Local - Locação, Corretagem e Adm Ltda",17148263000145,IPTU e Taxas de escritório para representação parlamentar,112.32
+17,Nota Fiscal de Serviços - NFE 002136,2017-07-18,TECNEGOCIOS SOLUCOES EM INFORMATICA LTDA - ME,11521613000190,Locação de softwares,199.0
+18,Documento Auxiliar Da Nota Fiscal Eletronica - DANFE 138842,2017-07-12,PARCO PAPELARIA LTDA,05214053001109,Material de expediente,169.0
+19,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 3819,2017-07-18,Teixeira e Chaves Ltda - Filial 21,21339965001902,Material de expediente,22.85
+20,Nota Fiscal Serviços de Telecomunicação 0304919151,2017-07-21,TELEFONICA BRASIL SA,02558157000162,Telefone Móvel,249.99
+21,Nota Fiscal de Serviço de Telecomunicação 1700405526945,2017-07-31,TELEMAR NORTE LESTE S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),197.2
+22,,,,,total,5457.37

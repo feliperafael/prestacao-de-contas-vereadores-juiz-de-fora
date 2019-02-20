@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo de Aluguel 02/2018,2018-03-01,Leonardo Gudziki Hábel,62819313604,800.0
-1,DANFE-documento auxiliar da nota fiscal eletronica 00005883,2018-03-28,Papagaio e derivados de petroleo ltda,10515414000107,994.81
-2,Recibo do Pagador 03/2018,2018-03-20,Condominio do Edificio Top Center,20439162000138,240.0
-3,DANFE-documento auxiliar da nota fiscal eletronica 1149,2018-03-23,Acarbonaro agua mineral ME,24488698000102,31.0
-4,DANFE-documento auxiliar da nota fiscal 4908,2018-03-28,Ribeiro de Oliveira & Cia ltda,21562897000117,27.4
-5,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000081,2018-03-13,Ricardo Teixeira de Aguiar,66464488000116,260.0
-6,Documento de Artrecadação do Impsto Predial e Territorial Urbano IPTU/TCRS 002668/206,2018-03-15,Prefeitura de Juiz de Fora,18338178000102,41.25
-7,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000221,2018-03-28,Ambiente Comunicação ltda,09662777000196,750.0
-8,DANFE-documento auxiliar da nota fiscal 4908,2018-03-28,Ribeiro de Oliveira & Cia ltda,21562897000117,191.8
-9,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000050,2018-03-01,Onofre de Matos Guedes,26632032000101,350.0
-10,DANFE-documento auxiliar da nota fiscal eletronica 7843,2018-03-20,Teixeira e Chaves ltda,21339965001902,31.0
-11,Nota Fiscal Serviço de Telecomunicação 0313572750,2018-03-26,Operadora Vivo,02558157000910,274.56
-12,Nota Fiscal Serviço de Telecomunicação 1700416853428,2018-03-28,Operadora oi,33000118000179,424.77
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo de Aluguel 02/2018,2018-03-01,Leonardo Gudziki Hábel,62819313604,Aluguel de escritório para representação parlamentar,800.0
+1,DANFE-documento auxiliar da nota fiscal eletronica 00005883,2018-03-28,Papagaio e derivados de petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),994.81
+2,Recibo do Pagador 03/2018,2018-03-20,Condominio do Edificio Top Center,20439162000138,Condomínio de escritório para representação parlamentar,240.0
+3,DANFE-documento auxiliar da nota fiscal eletronica 1149,2018-03-23,Acarbonaro agua mineral ME,24488698000102,Copa Interna,31.0
+4,DANFE-documento auxiliar da nota fiscal 4908,2018-03-28,Ribeiro de Oliveira & Cia ltda,21562897000117,Copa Interna,27.4
+5,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000081,2018-03-13,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),260.0
+6,Documento de Artrecadação do Impsto Predial e Territorial Urbano IPTU/TCRS 002668/206,2018-03-15,Prefeitura de Juiz de Fora,18338178000102,IPTU e Taxas de escritório para representação parlamentar,41.25
+7,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000221,2018-03-28,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+8,DANFE-documento auxiliar da nota fiscal 4908,2018-03-28,Ribeiro de Oliveira & Cia ltda,21562897000117,Material de expediente,191.8
+9,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000050,2018-03-01,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,350.0
+10,DANFE-documento auxiliar da nota fiscal eletronica 7843,2018-03-20,Teixeira e Chaves ltda,21339965001902,Suprimentos para equipamentos de informática,31.0
+11,Nota Fiscal Serviço de Telecomunicação 0313572750,2018-03-26,Operadora Vivo,02558157000910,Telefone Móvel,274.56
+12,Nota Fiscal Serviço de Telecomunicação 1700416853428,2018-03-28,Operadora oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),424.77
+13,,,,,total,3991.82

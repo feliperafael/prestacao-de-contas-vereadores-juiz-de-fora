@@ -1,8 +1,9 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal 00002033,2018-07-25,Auto Posto Valentina Ltda,17817687000155,891.73
-1,Nota Fiscal Eletrônica ltda 201800000000666,2018-07-31,Ato Interativo Ltda.,07793203000121,1900.0
-2,Recibo de Pagamento Autônomo -RPA 007,2018-07-31,Paulo Sérgio Gomes Aroni,52148270672,2500.0
-3,Nota Fiscal Eletrônica 000003292,2018-07-11,Perfect Paper Informática Ltda-ME,19857923000192,24.4
-4,Recibo 7020894,2018-07-23,Movida Locação de Veículos S.A.,07976147020609,1435.85
-5,Nota Fiscal Eletrônica 000003292,2018-07-11,Perfect Paper Informática Ltda. -ME,19857923000192,102.7
-6,Nota Fiscal de Serviço de Telecomunicações 1700421406453,2018-07-31,OI FIXO,33000118000179,84.23
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal 00002033,2018-07-25,Auto Posto Valentina Ltda,17817687000155,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),891.73
+1,Nota Fiscal Eletrônica ltda 201800000000666,2018-07-31,Ato Interativo Ltda.,07793203000121,* Consultoria técnica,1900.0
+2,Recibo de Pagamento Autônomo -RPA 007,2018-07-31,Paulo Sérgio Gomes Aroni,52148270672,* Consultoria técnica,2500.0
+3,Nota Fiscal Eletrônica 000003292,2018-07-11,Perfect Paper Informática Ltda-ME,19857923000192,Copa Interna,24.4
+4,Recibo 7020894,2018-07-23,Movida Locação de Veículos S.A.,07976147020609,Locação de veículos utilizados no exercício do mandato legislativo,1435.85
+5,Nota Fiscal Eletrônica 000003292,2018-07-11,Perfect Paper Informática Ltda. -ME,19857923000192,Material de expediente,102.7
+6,Nota Fiscal de Serviço de Telecomunicações 1700421406453,2018-07-31,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),84.23
+7,,,,,total,6854.68

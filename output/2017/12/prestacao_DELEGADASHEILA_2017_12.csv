@@ -1,6 +1,7 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,nfs-e 201700000000168,2017-12-22,house criaçao estrategica ltda -me,23471850000173,2000.0
-1,nfse 201700000000065,2017-12-04,ricardo teixeira de aguiar,66464488000116,260.0
-2,nfse 1376,2017-12-22,vizion gestao de negocios empresariais ltda,07979987000187,586.0
-3,recibo s/ numero,2017-12-01,movida locaçao de veiculos s/a,07976147020609,1425.74
-4,nota fiscal 0321261148,2017-12-11,telefonica do brasil s/a,02558157000162,204.55
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,nfs-e 201700000000168,2017-12-22,house criaçao estrategica ltda -me,23471850000173,* Consultoria técnica,2000.0
+1,nfse 201700000000065,2017-12-04,ricardo teixeira de aguiar,66464488000116,Estacionamento (uma vaga),260.0
+2,nfse 1376,2017-12-22,vizion gestao de negocios empresariais ltda,07979987000187,Locação de softwares,586.0
+3,recibo s/ numero,2017-12-01,movida locaçao de veiculos s/a,07976147020609,Locação de veículos utilizados no exercício do mandato legislativo,1425.74
+4,nota fiscal 0321261148,2017-12-11,telefonica do brasil s/a,02558157000162,Telefone Móvel,204.55
+5,,,,,total,4476.29

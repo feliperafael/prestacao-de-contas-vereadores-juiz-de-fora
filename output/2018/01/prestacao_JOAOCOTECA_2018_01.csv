@@ -1,13 +1,14 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 13,2018-01-31,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 11269,2018-01-30,Auto Posto Petrogás LTDA,03862967000170,1823.71
-2,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 000.001.067,2018-01-18,A Carbonaro Agua Mineral - ME,24488698000102,130.0
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4790,2018-01-25,Ribeiro de Oliveira & CIA LTDA,21562897000117,23.4
-4,Nota Fiscal - Energia Eletrica 002722541,2018-01-31,Cemig Distribuição S.A.,06981180000116,43.18
-5,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000085,2018-01-26,Estacionamento Salve Jorge LTDA - ME,17509454000195,300.0
-6,Fatura 000158,2018-01-26,Estacionamento Salve Jorge - LTDA -ME,17509454000195,1500.0
-7,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4790,2018-01-25,Ribeiro de Oliveira & CIA - LTDA,21562897000117,134.0
-8,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4790,2018-01-25,Ribeiro de Oliveira & CIA LTDA,21562897000117,547.9
-9,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 1878,2018-01-29,Da Matta Informatica LTDA - Ponto da Mídia,08813197000190,99.0
-10,Fatura 1700413241416,2018-01-31,Oi Fixo,33000118000179,161.92
-11,Fatura 170041473024,2018-01-31,Oi Fixo,33000118000179,230.36
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 13,2018-01-31,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 11269,2018-01-30,Auto Posto Petrogás LTDA,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1823.71
+2,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 000.001.067,2018-01-18,A Carbonaro Agua Mineral - ME,24488698000102,Copa Interna,130.0
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4790,2018-01-25,Ribeiro de Oliveira & CIA LTDA,21562897000117,Copa Interna,23.4
+4,Nota Fiscal - Energia Eletrica 002722541,2018-01-31,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,43.18
+5,Nota Fiscal Eletrônica de Serviço - NFS-e 201800000000085,2018-01-26,Estacionamento Salve Jorge LTDA - ME,17509454000195,Estacionamento (uma vaga),300.0
+6,Fatura 000158,2018-01-26,Estacionamento Salve Jorge - LTDA -ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1500.0
+7,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4790,2018-01-25,Ribeiro de Oliveira & CIA - LTDA,21562897000117,Material de expediente,134.0
+8,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 4790,2018-01-25,Ribeiro de Oliveira & CIA LTDA,21562897000117,Suprimentos para equipamentos de informática,547.9
+9,Danfe - Documento Auxiliar da Nota Fiscal Eletrônica 1878,2018-01-29,Da Matta Informatica LTDA - Ponto da Mídia,08813197000190,Suprimentos para equipamentos de informática,99.0
+10,Fatura 1700413241416,2018-01-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),161.92
+11,Fatura 170041473024,2018-01-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),230.36
+12,,,,,total,5201.19

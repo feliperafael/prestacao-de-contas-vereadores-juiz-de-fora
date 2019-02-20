@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Danfe- documento auxiliar da nota fiscal eletronica 000016742,2017-07-26,Solar Comunicações s/a,21561725000129,213.6
-1,Danfe- Documento auxiliar da not fiscal eletronica 00005466-fl1/1,2017-07-28,Papagaio com e derivados de petroleo ltda,10515414000107,1303.65
-2,Recibo de Pagamento a Autonomo (RPA) 03,2017-07-31,Marilene de Almeida Rachel,99861356649,2250.0
-3,DANFE-documento auxiliar da nota fiscal eletronica 000000761,2017-07-27,A CARBONARO AGUA MINERAL - ME,24488698000102,54.0
-4,DANFE-documento auxiliar da nota fiscal eletronica 4425,2017-07-27,Ribeiro de Oliveira & Cia Ltda,21562897000117,9.8
-5,Danfe- Documento Auxiliar da Nota Fiscal eletronica 4425,2017-07-27,Ribeiro de Oliveira & Cia Ltda,21562897000117,188.0
-6,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000042,2017-07-06,Ricardo Teixeira de Aguiar,66464488000116,260.0
-7,nota fiscal eletronica de serviço- NFS-e 201700000000086,2017-07-27,ambiente comunicação,09662777000196,750.0
-8,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000019,2017-07-03,Onofre de Matos Guedes,26632032000101,300.0
-9,fatura 0313572750,2017-07-14,telefonia vivo,02558157000910,149.98
-10,fatura 1700405526945,2017-07-28,Oi,33000118000179,284.45
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Danfe- documento auxiliar da nota fiscal eletronica 000016742,2017-07-26,Solar Comunicações s/a,21561725000129,"Assinatura de jornais, revistas e periódicos",213.6
+1,Danfe- Documento auxiliar da not fiscal eletronica 00005466-fl1/1,2017-07-28,Papagaio com e derivados de petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1303.65
+2,Recibo de Pagamento a Autonomo (RPA) 03,2017-07-31,Marilene de Almeida Rachel,99861356649,* Consultoria técnica,2250.0
+3,DANFE-documento auxiliar da nota fiscal eletronica 000000761,2017-07-27,A CARBONARO AGUA MINERAL - ME,24488698000102,Copa Interna,54.0
+4,DANFE-documento auxiliar da nota fiscal eletronica 4425,2017-07-27,Ribeiro de Oliveira & Cia Ltda,21562897000117,Copa Interna,9.8
+5,Danfe- Documento Auxiliar da Nota Fiscal eletronica 4425,2017-07-27,Ribeiro de Oliveira & Cia Ltda,21562897000117,Copa Interna,188.0
+6,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000042,2017-07-06,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),260.0
+7,nota fiscal eletronica de serviço- NFS-e 201700000000086,2017-07-27,ambiente comunicação,09662777000196,Locação de softwares,750.0
+8,Nota Fiscal Eletronica de Serviço-NFS-e 201700000000019,2017-07-03,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,300.0
+9,fatura 0313572750,2017-07-14,telefonia vivo,02558157000910,Telefone Móvel,149.98
+10,fatura 1700405526945,2017-07-28,Oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),284.45
+11,,,,,total,5479.03

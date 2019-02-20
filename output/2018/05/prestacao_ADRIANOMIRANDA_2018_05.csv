@@ -1,7 +1,8 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,NFe 13887,2018-05-22,Posto Romualdo Ltda,66343930000156,1737.83
-1,NFAe 015285620,2018-05-14,Bruno Flavio de Souza Marinho,13763707000100,50.0
-2,Fatura de Locação/Duplicata 389,2018-05-28,Locadora Hermon Ltda,04569904000193,2000.0
-3,NFSe 201800000001013,2018-05-07,W Collor Editora Gráfica Ltda,05033125000131,1385.0
-4,NFe 000.001.390,2018-05-22,Corte Especial Industria de Facas e Cartonagem,26208553000128,760.0
-5,Nota Fiscal de Serviços de Telecomunicação 1700419157952,2018-05-23,Telemar Norte Leste S/A,33000118000179,379.69
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,NFe 13887,2018-05-22,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1737.83
+1,NFAe 015285620,2018-05-14,Bruno Flavio de Souza Marinho,13763707000100,Impressos,50.0
+2,Fatura de Locação/Duplicata 389,2018-05-28,Locadora Hermon Ltda,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+3,NFSe 201800000001013,2018-05-07,W Collor Editora Gráfica Ltda,05033125000131,Publicidade Institucional,1385.0
+4,NFe 000.001.390,2018-05-22,Corte Especial Industria de Facas e Cartonagem,26208553000128,Publicidade Institucional,760.0
+5,Nota Fiscal de Serviços de Telecomunicação 1700419157952,2018-05-23,Telemar Norte Leste S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),379.69
+6,,,,,total,5932.83

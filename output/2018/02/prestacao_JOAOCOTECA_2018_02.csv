@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 14,2018-02-28,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 11395,2018-02-26,Auto Posto Petrogas LTDA,03862967000170,763.66
-2,Recibo de Pagamento a Autônomo - RPA 08,2018-02-23,Carlos Henrique Bruce João,05036074602,2000.0
-3,Documento Auxiliar da Nota Fiscal Eletrônica 4851,2018-02-28,Ribeiro de Oliveira & CIA - LTDA,21562897000117,19.6
-4,Nota Fiscal - Conta de Energia Eletrica 002727989,2018-02-28,Cemig Distribuição S.A.,06981180000116,39.94
-5,Nota Fiscal Eletrônica de Serviço -NFS-e 201800000000089,2018-02-23,Estacionamento Salve Jorge - LTDA - ME,17509454000195,300.0
-6,Fatura de Serviços de Saneamento A/518278-93,2018-02-28,CESAMA,21572243000174,49.39
-7,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 014.488.703,2018-02-27,Daniel Rogério Magela Meirelles,19086676000178,456.0
-8,Fatura 162,2018-02-23,Estacionamento Salve Jorge LTDA - ME,17509454000195,1500.0
-9,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 4851,2018-02-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,461.99
-10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 1500,2018-02-28,JF Escrita Artigos p/ Escritório LTDA,07316990000110,255.2
-11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 2054,2018-02-22,Infotoner,02017219000129,39.0
-12,Fatura 1700415674971,2018-02-28,Oi Fixo,33000118000179,323.76
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 14,2018-02-28,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 11395,2018-02-26,Auto Posto Petrogas LTDA,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),763.66
+2,Recibo de Pagamento a Autônomo - RPA 08,2018-02-23,Carlos Henrique Bruce João,05036074602,* Consultoria técnica,2000.0
+3,Documento Auxiliar da Nota Fiscal Eletrônica 4851,2018-02-28,Ribeiro de Oliveira & CIA - LTDA,21562897000117,Copa Interna,19.6
+4,Nota Fiscal - Conta de Energia Eletrica 002727989,2018-02-28,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,39.94
+5,Nota Fiscal Eletrônica de Serviço -NFS-e 201800000000089,2018-02-23,Estacionamento Salve Jorge - LTDA - ME,17509454000195,Estacionamento (uma vaga),300.0
+6,Fatura de Serviços de Saneamento A/518278-93,2018-02-28,CESAMA,21572243000174,Fornecimento de água para escritório para representação parlamentar,49.39
+7,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 014.488.703,2018-02-27,Daniel Rogério Magela Meirelles,19086676000178,Impressos,456.0
+8,Fatura 162,2018-02-23,Estacionamento Salve Jorge LTDA - ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1500.0
+9,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 4851,2018-02-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,Material de expediente,461.99
+10,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 1500,2018-02-28,JF Escrita Artigos p/ Escritório LTDA,07316990000110,Material de expediente,255.2
+11,Documento Auxiliar da Nota Fiscal Eletrônica - DANFE 2054,2018-02-22,Infotoner,02017219000129,Suprimentos para equipamentos de informática,39.0
+12,Fatura 1700415674971,2018-02-28,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),323.76
+13,,,,,total,6484.78

@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 000013178,2017-11-29,Posto Romualdo LTDA,66343930000156,1045.0
-1,Nota Fiscal Eletrônica de Serviços 201700000000057,2017-11-28,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,1500.0
-2,DANFE 000.000.976,2017-11-27,A Carbonaro Agua Mineral,24488698000102,104.0
-3,DANFE 4652,2017-11-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,78.0
-4,Nota Fiscal Eletrônica de Serviços-NFS-e 201700000000700,2017-11-29,Real Copias de juiz de fora LTDA,04316977000173,393.0
-5,DANFE 000.013.302,2017-11-09,Thema Veiculos LTDA,21550231000572,273.72
-6,Prestador de Serviços 201700000001313,2017-11-09,Thema Veiculos LTDA,21550231000572,241.0
-7,Nota Fiscal de Serviços Eletrônica 201700000000743,2017-11-29,União Artes Graficas LTDA,20741559000180,1100.0
-8,DANFE 4652,2017-11-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,350.9
-9,DANFE 5636,2017-11-09,Teixeira e Chaves LTDA -Filial 21,21339965001902,32.0
-10,Nota Fiscal de Telecomunicações 1700411982602,2017-11-30,OI FIXO,33000118000179,279.67
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 000013178,2017-11-29,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1045.0
+1,Nota Fiscal Eletrônica de Serviços 201700000000057,2017-11-28,"Alvim Soares,Junqueira e Advogados Associados",03853408000102,* Consultoria técnica,1500.0
+2,DANFE 000.000.976,2017-11-27,A Carbonaro Agua Mineral,24488698000102,Copa Interna,104.0
+3,DANFE 4652,2017-11-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,Copa Interna,78.0
+4,Nota Fiscal Eletrônica de Serviços-NFS-e 201700000000700,2017-11-29,Real Copias de juiz de fora LTDA,04316977000173,Cópias xerográficas e similares,393.0
+5,DANFE 000.013.302,2017-11-09,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),273.72
+6,Prestador de Serviços 201700000001313,2017-11-09,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),241.0
+7,Nota Fiscal de Serviços Eletrônica 201700000000743,2017-11-29,União Artes Graficas LTDA,20741559000180,Impressos,1100.0
+8,DANFE 4652,2017-11-28,Ribeiro de Oliveira & CIA LTDA,21562897000117,Material de expediente,350.9
+9,DANFE 5636,2017-11-09,Teixeira e Chaves LTDA -Filial 21,21339965001902,Suprimentos para equipamentos de informática,32.0
+10,Nota Fiscal de Telecomunicações 1700411982602,2017-11-30,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),279.67
+11,,,,,total,5117.62

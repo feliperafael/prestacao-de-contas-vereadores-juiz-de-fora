@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,danfe-documento auxiliar da nota fiscal eletronica 00005413,2017-06-30,Papagaio com e derivados de petroleo ltda,10515414000107,1185.17
-1,RPA- Recibo de Pagamento a Autonomo 02,2017-06-30,marilene de almeida rachel,99861356649,2250.0
-2,DANFE-documento auxiliar da nota fiscal 4360,2017-06-29,ribeiro de oliveira & cia ltda,21562897000117,14.7
-3,Nota fiscal eletronica de serviço- nfs-e 201700000000038,2017-06-06,ricardo teixeira de aguiar,66464488000116,260.0
-4,nota fiscal eletronica de serviço-nfs-e 201700000000022,2017-06-29,wander luiz de souza senra,19371304000193,295.0
-5,nota fiscal eletronica de serviço - nfs-e 201700000000066,2017-06-05,ambiente comunicação ltda,09662777000196,750.0
-6,nota fiscal eletronica de serviço- nfs-e 201700000000074,2017-06-30,ambiente comunicação ltda,09662777000196,750.0
-7,DANFE-documento auxiliar da nota fiscal eletronica 4360,2017-06-29,ribeiro de oliveira & cia ltda,21562897000117,131.4
-8,nota fiscal eletronica de serviço-nfs-e 201700000000016,2017-06-01,onofre de matos guedes,26632032000101,300.0
-9,fatura 1700405266697,2017-06-30,oi fixo,33000118000179,302.73
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,danfe-documento auxiliar da nota fiscal eletronica 00005413,2017-06-30,Papagaio com e derivados de petroleo ltda,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1185.17
+1,RPA- Recibo de Pagamento a Autonomo 02,2017-06-30,marilene de almeida rachel,99861356649,* Consultoria técnica,2250.0
+2,DANFE-documento auxiliar da nota fiscal 4360,2017-06-29,ribeiro de oliveira & cia ltda,21562897000117,Copa Interna,14.7
+3,Nota fiscal eletronica de serviço- nfs-e 201700000000038,2017-06-06,ricardo teixeira de aguiar,66464488000116,Estacionamento (uma vaga),260.0
+4,nota fiscal eletronica de serviço-nfs-e 201700000000022,2017-06-29,wander luiz de souza senra,19371304000193,Impressos,295.0
+5,nota fiscal eletronica de serviço - nfs-e 201700000000066,2017-06-05,ambiente comunicação ltda,09662777000196,Locação de softwares,750.0
+6,nota fiscal eletronica de serviço- nfs-e 201700000000074,2017-06-30,ambiente comunicação ltda,09662777000196,Locação de softwares,750.0
+7,DANFE-documento auxiliar da nota fiscal eletronica 4360,2017-06-29,ribeiro de oliveira & cia ltda,21562897000117,Material de expediente,131.4
+8,nota fiscal eletronica de serviço-nfs-e 201700000000016,2017-06-01,onofre de matos guedes,26632032000101,Publicidade Institucional,300.0
+9,fatura 1700405266697,2017-06-30,oi fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),302.73
+10,,,,,total,5936.27

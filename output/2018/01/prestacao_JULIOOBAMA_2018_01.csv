@@ -1,18 +1,19 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo/Fatura Numerada 000341673,2018-01-08,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,40.14
-1,Nota Fiscal de Serviço de Comunicação 000974942,2018-01-08,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,26.76
-2,Recibo do Sacado 60729,2018-01-31,Diretrans Ltda,19490812000190,720.0
-3,DANFE 00003820,2018-01-31,Auto posto Bandeirantes Ltda,21058508000110,250.0
-4,Recibo do Pagador 14000000001009714-2,2018-01-04,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,240.25
-5,Recibo do Pagador 14000000001018070-8,2018-01-31,Cond. Ed. Rossi Rio Branco Corparete,20291262000160,251.07
-6,RPA Recibo de Pagamento a Autônomo 13,2018-01-31,Elaine Araújo Gonzaga,05499740674,1600.0
-7,Nota Fiscal Eletrônica de Serviço 201800000000279,2018-01-03,A R Nardy Copiadora,07954245000105,265.0
-8,Nota Fiscal 000822562,2018-01-31,Cemig Distribuição S.A.,06981180000116,39.32
-9,Doc de Lançamento e Arrecadação do Imposto Predial e Territorial 002.644/097,2018-01-04,Prefeitura De Juiz de Fora,18338178000102,951.03
-10,Nota Fiscal Eletrônica de Serviço 201800000000167,2018-01-22,Gráfica Vicentini de Juiz de Fora Ltda,09197073000190,270.0
-11,Fatura 000159,2018-01-26,Estacionamento Salve Jorge Ltda.,17509454000195,2300.0
-12,Cupom Fiscal 000718,2018-01-02,Parco Papelaria Ltda,05214053001109,86.83
-13,Cupom Fiscal 000718,2018-01-02,Parco Papelaria Ltda,05214053001109,52.05
-14,Nota Fiscal - Série D 000415,2018-01-16,Doutor Cell - Jorge Luis Guimarães Pereira de Sá,25078681000131,60.0
-15,Fatura 1700413241416,2018-01-31,Oi Fixo,33000118000179,150.59
-16,Fatura 170041473024,2018-01-31,Oi Fixo,33000118000179,104.32
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo/Fatura Numerada 000341673,2018-01-08,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,40.14
+1,Nota Fiscal de Serviço de Comunicação 000974942,2018-01-08,Infoline Comunicações e Informações Eletrônicas Ltda,00958288000101,Acesso a internet de escritório para representação parlamentar,26.76
+2,Recibo do Sacado 60729,2018-01-31,Diretrans Ltda,19490812000190,Aluguel de escritório para representação parlamentar,720.0
+3,DANFE 00003820,2018-01-31,Auto posto Bandeirantes Ltda,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),250.0
+4,Recibo do Pagador 14000000001009714-2,2018-01-04,Cond. Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,240.25
+5,Recibo do Pagador 14000000001018070-8,2018-01-31,Cond. Ed. Rossi Rio Branco Corparete,20291262000160,Condomínio de escritório para representação parlamentar,251.07
+6,RPA Recibo de Pagamento a Autônomo 13,2018-01-31,Elaine Araújo Gonzaga,05499740674,* Consultoria técnica,1600.0
+7,Nota Fiscal Eletrônica de Serviço 201800000000279,2018-01-03,A R Nardy Copiadora,07954245000105,Cópias xerográficas e similares,265.0
+8,Nota Fiscal 000822562,2018-01-31,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,39.32
+9,Doc de Lançamento e Arrecadação do Imposto Predial e Territorial 002.644/097,2018-01-04,Prefeitura De Juiz de Fora,18338178000102,IPTU e Taxas de escritório para representação parlamentar,951.03
+10,Nota Fiscal Eletrônica de Serviço 201800000000167,2018-01-22,Gráfica Vicentini de Juiz de Fora Ltda,09197073000190,Impressos,270.0
+11,Fatura 000159,2018-01-26,Estacionamento Salve Jorge Ltda.,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+12,Cupom Fiscal 000718,2018-01-02,Parco Papelaria Ltda,05214053001109,Material de expediente,86.83
+13,Cupom Fiscal 000718,2018-01-02,Parco Papelaria Ltda,05214053001109,Suprimentos para equipamentos de informática,52.05
+14,Nota Fiscal - Série D 000415,2018-01-16,Doutor Cell - Jorge Luis Guimarães Pereira de Sá,25078681000131,Suprimentos para equipamentos de informática,60.0
+15,Fatura 1700413241416,2018-01-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),150.59
+16,Fatura 170041473024,2018-01-31,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),104.32
+17,,,,,total,7152.45

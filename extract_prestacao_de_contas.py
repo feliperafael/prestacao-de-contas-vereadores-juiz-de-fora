@@ -87,8 +87,8 @@ if __name__ == "__main__":
 
     df = pd.read_csv('output/lista_vereadores.csv')
     mkdir_output_folders() # cria os diretorios 
-    years = ['2017']
-    months = ['04']
+    years = ['2017', '2018']
+    months =  ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
     
     for vereador in df['nome_link']:
         for year in years:

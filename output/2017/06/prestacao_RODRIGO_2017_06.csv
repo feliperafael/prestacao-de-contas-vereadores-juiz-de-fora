@@ -1,14 +1,15 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 5543019,2017-06-23,Infoglobo Comunicações e Partic S/A,60452752002916,103.9
-1,DANFE 000012580,2017-06-29,Posto Romualdo LTDA,66343930000156,973.0
-2,Nota Fiscal Eletrônica de Serviços 201700000000031,2017-06-27,"Alvim Soares, Junqueirae  Advogados Associados",03853408000102,1500.0
-3,DANFE 000.000.717,2017-06-28,A Carbonaro Agua Mineral LTDA,24488698000102,104.0
-4,DANFE 4364,2017-06-30,Ribeiro de Oliveira & Cia Ltda,21562897000117,31.5
-5,Nota Fiscal  de Serviços Eletrônica 201700000000342,2017-06-27,Real Copias de juiz de fora LTDA,04316977000173,387.0
-6,Prestador de Serviços 201700000000488,2017-06-21,Thema Veiculos LTDA,21550231000572,171.33
-7,DANFE 000.011.880,2017-06-21,Thema Veiculos LTDA,21550231000572,357.62
-8,Nota Fiscal de Serviços Eletrônica de Serviços 201700000000024,2017-06-28,JS Martelinho de ouro Serviçõs de Funilaria Ltda,12248564000127,1400.0
-9,Nota Fiscal de Serviços Eletrônica 2017/381,2017-06-29,União Artes Graficas LTDA,20741559000180,700.0
-10,DANFE 4364,2017-06-30,Ribeiro de Oliveira & CIA LTDA,21562897000117,164.6
-11,DANFE 0000001915,2017-06-26,Aloisio Costa Ferreira-ME Infotoner,02017219000129,55.0
-12,Nota Fiscal de Telecomunicações 1700405266697,2017-06-30,OI FIXO,33000118000179,208.63
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 5543019,2017-06-23,Infoglobo Comunicações e Partic S/A,60452752002916,"Assinatura de jornais, revistas e periódicos",103.9
+1,DANFE 000012580,2017-06-29,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),973.0
+2,Nota Fiscal Eletrônica de Serviços 201700000000031,2017-06-27,"Alvim Soares, Junqueirae  Advogados Associados",03853408000102,* Consultoria técnica,1500.0
+3,DANFE 000.000.717,2017-06-28,A Carbonaro Agua Mineral LTDA,24488698000102,Copa Interna,104.0
+4,DANFE 4364,2017-06-30,Ribeiro de Oliveira & Cia Ltda,21562897000117,Copa Interna,31.5
+5,Nota Fiscal  de Serviços Eletrônica 201700000000342,2017-06-27,Real Copias de juiz de fora LTDA,04316977000173,Cópias xerográficas e similares,387.0
+6,Prestador de Serviços 201700000000488,2017-06-21,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),171.33
+7,DANFE 000.011.880,2017-06-21,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),357.62
+8,Nota Fiscal de Serviços Eletrônica de Serviços 201700000000024,2017-06-28,JS Martelinho de ouro Serviçõs de Funilaria Ltda,12248564000127,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),1400.0
+9,Nota Fiscal de Serviços Eletrônica 2017/381,2017-06-29,União Artes Graficas LTDA,20741559000180,Impressos,700.0
+10,DANFE 4364,2017-06-30,Ribeiro de Oliveira & CIA LTDA,21562897000117,Material de expediente,164.6
+11,DANFE 0000001915,2017-06-26,Aloisio Costa Ferreira-ME Infotoner,02017219000129,Suprimentos para equipamentos de informática,55.0
+12,Nota Fiscal de Telecomunicações 1700405266697,2017-06-30,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),208.63
+13,,,,,total,5947.95

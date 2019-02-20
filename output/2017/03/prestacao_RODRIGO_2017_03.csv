@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,DANFE 4455315,2017-03-07,Infoglobo Comunicação e Partic S/A,60452752002916,93.9
-1,DANFE 000012239,2017-03-30,Posto Romualdo,66343930000156,912.0
-2,RPA 01,2017-03-31,Rodrigo Alexandre Homem de Faria,99495082668,1500.0
-3,DANFE 000.000.584,2017-03-29,A Carbonaro Agua Mineral ME,24488698000102,96.0
-4,Nota Fiscal de Serviçõs Eletrônica 2017/167,2017-03-30,Real Copias de Juiz de Fora LTDA,04316977000173,311.8
-5,Nota Fiscal de Serviços Eletrônica 2017/192,2017-03-30,União Artes Graficas LTDA,20741559000180,900.0
-6,DANFE 4224,2017-03-31,Ribeiro de Oliveira &Cia LTDA,21562897000117,532.05
-7,Recibo de Vendas Produtos 294448,2017-03-17,ECT-EMP.Bras.Correios e Telegrafos,07840632000102,243.1
-8,Recibo de Vendas de Produtos 007580000,2017-03-28,ECT-EMP.Bras.Correios e Telegrafos,07840632000102,19.7
-9,DANFE 0000001880,2017-03-30,Aloisio Costa Ferreira-ME Infotoner,02017219000129,55.0
-10,Nota Fiscal de Telecomunicações 1700401096287,2017-03-30,OI FIXO,33000118000179,456.45
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,DANFE 4455315,2017-03-07,Infoglobo Comunicação e Partic S/A,60452752002916,"Assinatura de jornais, revistas e periódicos",93.9
+1,DANFE 000012239,2017-03-30,Posto Romualdo,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),912.0
+2,RPA 01,2017-03-31,Rodrigo Alexandre Homem de Faria,99495082668,* Consultoria técnica,1500.0
+3,DANFE 000.000.584,2017-03-29,A Carbonaro Agua Mineral ME,24488698000102,Copa Interna,96.0
+4,Nota Fiscal de Serviçõs Eletrônica 2017/167,2017-03-30,Real Copias de Juiz de Fora LTDA,04316977000173,Cópias xerográficas e similares,311.8
+5,Nota Fiscal de Serviços Eletrônica 2017/192,2017-03-30,União Artes Graficas LTDA,20741559000180,Impressos,900.0
+6,DANFE 4224,2017-03-31,Ribeiro de Oliveira &Cia LTDA,21562897000117,Material de expediente,532.05
+7,Recibo de Vendas Produtos 294448,2017-03-17,ECT-EMP.Bras.Correios e Telegrafos,07840632000102,Postagem,243.1
+8,Recibo de Vendas de Produtos 007580000,2017-03-28,ECT-EMP.Bras.Correios e Telegrafos,07840632000102,Postagem,19.7
+9,DANFE 0000001880,2017-03-30,Aloisio Costa Ferreira-ME Infotoner,02017219000129,Suprimentos para equipamentos de informática,55.0
+10,Nota Fiscal de Telecomunicações 1700401096287,2017-03-30,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),456.45
+11,,,,,total,4663.55

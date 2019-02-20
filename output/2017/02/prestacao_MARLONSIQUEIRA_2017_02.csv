@@ -1,8 +1,9 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 726,2017-02-27,Posto Centro Choferes LTDA,21575972000184,800.02
-1,Nota Fiscal Eletronica 3320,2017-02-22,Getline Protudos de Informatica LTDA - Jetline Cartuchos,03785499000188,22.6
-2,Nota Fiscal Eletronica 3319,2017-02-22,Getline Produtos de Informatica LTDA - Jetline Cartuchos,03785499000188,21.0
-3,Nota Fiscal Eletronica 3319,2017-02-22,Getline Produtos de Informatica LTDA - Jetline Cartuchos,03785499000188,124.0
-4,Nota fiscal Eletronica 3321,2017-02-24,Getline Produtos de Informatica LTDA - Jetline Cartuchos,03785499000188,65.0
-5,Nota fiscal de Servoços de Telecominicações 89694896,2017-02-21,Claro,40432544000147,293.04
-6,Nota fiscal de Serviço de Telecomunicação 00667233,2017-02-24,OI Fixo,33000118000179,414.9
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 726,2017-02-27,Posto Centro Choferes LTDA,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),800.02
+1,Nota Fiscal Eletronica 3320,2017-02-22,Getline Protudos de Informatica LTDA - Jetline Cartuchos,03785499000188,Copa Interna,22.6
+2,Nota Fiscal Eletronica 3319,2017-02-22,Getline Produtos de Informatica LTDA - Jetline Cartuchos,03785499000188,Material de expediente,21.0
+3,Nota Fiscal Eletronica 3319,2017-02-22,Getline Produtos de Informatica LTDA - Jetline Cartuchos,03785499000188,Suprimentos para equipamentos de informática,124.0
+4,Nota fiscal Eletronica 3321,2017-02-24,Getline Produtos de Informatica LTDA - Jetline Cartuchos,03785499000188,Suprimentos para equipamentos de informática,65.0
+5,Nota fiscal de Servoços de Telecominicações 89694896,2017-02-21,Claro,40432544000147,Telefone Móvel,293.04
+6,Nota fiscal de Serviço de Telecomunicação 00667233,2017-02-24,OI Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),414.9
+7,,,,,total,1325.66

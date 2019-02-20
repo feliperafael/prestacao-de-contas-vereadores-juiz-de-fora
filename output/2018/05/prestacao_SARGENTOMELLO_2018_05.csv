@@ -1,15 +1,16 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo de Aluguel 04,2018-05-01,Leonardo Gudziki Hábel,62819313604,800.0
-1,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 00006005,2018-05-30,Papagaio Comercio e Derivados de Petroleo LTDA,10515414000107,1247.7
-2,recibo do pagador 05/2018,2018-05-30,Condominio do edificio top center,20439162000138,245.6
-3,DANFE - Documento Auxiliar da Nota Fiscal Eletronica 5013,2018-05-28,Ribeiro de Oliveira & Cia ltda,21562897000117,9.8
-4,Nota Fiscal 005536061,2018-05-08,CEMIG,06981180000116,39.81
-5,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000089,2018-05-08,Ricardo Teixeira de Aguiar,66464488000116,290.0
-6,Documento de Arrecadação do  Imposto Predial e Territorial Urbano 002668/206,2018-05-08,Prefeitura de Juiz de Fora,18338178000102,41.25
-7,Nota Fiscal Elentronica de Serviço- NFS-e 201800000000047,2018-05-30,Wander Luiz de Souza Senra,19371304000193,200.0
-8,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000269,2018-05-22,Ambiente Comunicação ltda,09662777000196,750.0
-9,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 5013,2018-05-28,Ribeiro de Oliveira & Cia ltda,21562897000117,67.1
-10,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000215,2018-05-30,Interurb Serviços Postais Ltda,42933416000102,87.22
-11,Nota Fiscal Eletronica de Serviço NFS-e 201800000000059,2018-05-02,Onofre de Matos Guedes,26632032000101,700.0
-12,Fatura 0313572750,2018-05-11,Operadora Vivo,02558157000910,270.37
-13,Fatura 1700419157952,2018-05-30,Operadora Oi,33000118000179,520.94
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo de Aluguel 04,2018-05-01,Leonardo Gudziki Hábel,62819313604,Aluguel de escritório para representação parlamentar,800.0
+1,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 00006005,2018-05-30,Papagaio Comercio e Derivados de Petroleo LTDA,10515414000107,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1247.7
+2,recibo do pagador 05/2018,2018-05-30,Condominio do edificio top center,20439162000138,Condomínio de escritório para representação parlamentar,245.6
+3,DANFE - Documento Auxiliar da Nota Fiscal Eletronica 5013,2018-05-28,Ribeiro de Oliveira & Cia ltda,21562897000117,Copa Interna,9.8
+4,Nota Fiscal 005536061,2018-05-08,CEMIG,06981180000116,Energia elétrica para escritório para representação parlamentar,39.81
+5,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000089,2018-05-08,Ricardo Teixeira de Aguiar,66464488000116,Estacionamento (uma vaga),290.0
+6,Documento de Arrecadação do  Imposto Predial e Territorial Urbano 002668/206,2018-05-08,Prefeitura de Juiz de Fora,18338178000102,IPTU e Taxas de escritório para representação parlamentar,41.25
+7,Nota Fiscal Elentronica de Serviço- NFS-e 201800000000047,2018-05-30,Wander Luiz de Souza Senra,19371304000193,Impressos,200.0
+8,Nota Fiscal Eletronica de Serviço - NFS-e 201800000000269,2018-05-22,Ambiente Comunicação ltda,09662777000196,Locação de softwares,750.0
+9,DANFE- Documento Auxiliar da Nota Fiscal Eletronica 5013,2018-05-28,Ribeiro de Oliveira & Cia ltda,21562897000117,Material de expediente,67.1
+10,Nota Fiscal Eletronica de Serviço- NFS-e 201800000000215,2018-05-30,Interurb Serviços Postais Ltda,42933416000102,Postagem,87.22
+11,Nota Fiscal Eletronica de Serviço NFS-e 201800000000059,2018-05-02,Onofre de Matos Guedes,26632032000101,Publicidade Institucional,700.0
+12,Fatura 0313572750,2018-05-11,Operadora Vivo,02558157000910,Telefone Móvel,270.37
+13,Fatura 1700419157952,2018-05-30,Operadora Oi,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),520.94
+14,,,,,total,4748.85

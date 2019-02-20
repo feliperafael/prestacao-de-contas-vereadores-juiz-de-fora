@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,nfe 817,2018-05-29,posto centro choferes ltda,21575972000184,1991.99
-1,nfse 20180000000088,2018-05-15,ricardo teixeira de aguiar,66464488000116,290.0
-2,nfse 201800000000868,2018-05-15,w collor editora grafica ltda,05033125000131,890.0
-3,nfse 1437,2018-05-15,vizion gestao de negocios empresariais ltda,07979987000187,586.0
-4,recibo s/numero,2018-05-08,movida locação de veiculos s/a,07976147020609,1359.71
-5,nfse 4968,2018-05-28,ribeiro de oliveira & cia ltda,21562897000117,538.1
-6,nfe 4968,2018-05-28,ribeirode de oliveira & cia ltda,21562897000117,59.0
-7,nota fiscal 0321261148,2018-05-14,telefonica brasil s/a,02558157000162,182.91
-8,nota fiscal serviços de telecomunicação 1700419157952,2018-05-30,oi fixo,33000118000179,562.65
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,nfe 817,2018-05-29,posto centro choferes ltda,21575972000184,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1991.99
+1,nfse 20180000000088,2018-05-15,ricardo teixeira de aguiar,66464488000116,Estacionamento (uma vaga),290.0
+2,nfse 201800000000868,2018-05-15,w collor editora grafica ltda,05033125000131,Impressos,890.0
+3,nfse 1437,2018-05-15,vizion gestao de negocios empresariais ltda,07979987000187,Locação de softwares,586.0
+4,recibo s/numero,2018-05-08,movida locação de veiculos s/a,07976147020609,Locação de veículos utilizados no exercício do mandato legislativo,1359.71
+5,nfse 4968,2018-05-28,ribeiro de oliveira & cia ltda,21562897000117,Material de expediente,538.1
+6,nfe 4968,2018-05-28,ribeirode de oliveira & cia ltda,21562897000117,Suprimentos para equipamentos de informática,59.0
+7,nota fiscal 0321261148,2018-05-14,telefonica brasil s/a,02558157000162,Telefone Móvel,182.91
+8,nota fiscal serviços de telecomunicação 1700419157952,2018-05-30,oi fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),562.65
+9,,,,,total,5897.71

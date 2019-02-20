@@ -1,11 +1,12 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Cobrança Bancária 051,2017-06-29,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Nota Fiscal Eletrônica 12581,2017-06-29,Posto Romualdo Ltda,66343930000156,845.01
-2,Nota Fiscal - Conta de Energia Elétrica 815589,2017-06-21,Cemig Distribuição S.A.,06981180000116,85.56
-3,Recibo S/Nº,2017-06-30,Condomínio Parking Saggioro,20439212000187,370.0
-4,Nota Fiscal Eletrônica 201700000000089,2017-06-06,Ello Gráfica Ltda.,97527575000107,2958.38
-5,Fatura de Locação 3,2017-06-28,Empreiteira Transtech T&D Ltda.,14496365000163,1800.0
-6,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-06-21,Telefônica Brasil S.A.,02558157000162,109.99
-7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-06-21,Telefônica Brasil S.A.,02558157000162,310.57
-8,Nota Fiscal de Serviços de Telecomunicações 785817155,2017-06-21,Telemar norte Leste S/A.,33000118000330,425.7
-9,Nota Fiscal de Serviços de Telecomunicações 1700405266697,2017-06-30,Oi Fixo,33000118000179,104.49
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Cobrança Bancária 051,2017-06-29,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal Eletrônica 12581,2017-06-29,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),845.01
+2,Nota Fiscal - Conta de Energia Elétrica 815589,2017-06-21,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,85.56
+3,Recibo S/Nº,2017-06-30,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+4,Nota Fiscal Eletrônica 201700000000089,2017-06-06,Ello Gráfica Ltda.,97527575000107,Impressos,2958.38
+5,Fatura de Locação 3,2017-06-28,Empreiteira Transtech T&D Ltda.,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+6,Nota Fiscal de Serviços de Telecomunicações 0237763334,2017-06-21,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,109.99
+7,Nota Fiscal de Serviços de Telecomunicações 0237757587,2017-06-21,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,310.57
+8,Nota Fiscal de Serviços de Telecomunicações 785817155,2017-06-21,Telemar norte Leste S/A.,33000118000330,Telefone para escritório para representação parlamentar,425.7
+9,Nota Fiscal de Serviços de Telecomunicações 1700405266697,2017-06-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),104.49
+10,,,,,total,7855.21

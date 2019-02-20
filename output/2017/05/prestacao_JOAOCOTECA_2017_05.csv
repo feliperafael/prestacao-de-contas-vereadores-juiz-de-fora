@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 005,2017-05-31,Geraldo Laudelino de Castilho,04308381665,600.0
-1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 00010166,2017-05-29,Auto Posto Petrogas LTDA,03862967000170,1109.36
-2,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4313,2017-05-29,Ribeiro de Oliveira & Cia LTDA,21562897000117,35.2
-3,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 000.000.672,2017-05-29,A Carbonaro Agua Mineral ME,24488698000102,485.0
-4,Nota Fiscal - Conta de Energia Eletrica 002438618,2017-05-30,Cemig Distribuição S.A.,06981180000116,42.69
-5,Fatura de Serviços de Saneamento 51827893,2017-05-30,Cesama,21572243000174,49.39
-6,Fatura 000123,2017-05-26,Estacionamento Salve Jorge LTDA -ME,17509454000195,1800.0
-7,danfe - Documento Auxiliar da Nota Fiscal Eletronica 4313,2017-05-29,Ribeiro de Oliveira & Cia LTDA,21562897000117,191.65
-8,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4313,2017-05-29,Ribeiro de Oliveira & Cia LTDA,21562897000117,36.5
-9,Nota Fiscal Eletronica de Serviço - NFS-e 368,2017-05-30,Altino Rodrigues Procopio,17351788000183,292.0
-10,Fatura 1700403894827,2017-05-31,OI Fixo,33000118000179,323.54
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 005,2017-05-31,Geraldo Laudelino de Castilho,04308381665,Aluguel de escritório para representação parlamentar,600.0
+1,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 00010166,2017-05-29,Auto Posto Petrogas LTDA,03862967000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1109.36
+2,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4313,2017-05-29,Ribeiro de Oliveira & Cia LTDA,21562897000117,Copa Interna,35.2
+3,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 000.000.672,2017-05-29,A Carbonaro Agua Mineral ME,24488698000102,Copa Interna,485.0
+4,Nota Fiscal - Conta de Energia Eletrica 002438618,2017-05-30,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,42.69
+5,Fatura de Serviços de Saneamento 51827893,2017-05-30,Cesama,21572243000174,Fornecimento de água para escritório para representação parlamentar,49.39
+6,Fatura 000123,2017-05-26,Estacionamento Salve Jorge LTDA -ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+7,danfe - Documento Auxiliar da Nota Fiscal Eletronica 4313,2017-05-29,Ribeiro de Oliveira & Cia LTDA,21562897000117,Material de expediente,191.65
+8,Danfe - Documento Auxiliar da Nota Fiscal Eletronica 4313,2017-05-29,Ribeiro de Oliveira & Cia LTDA,21562897000117,Suprimentos para equipamentos de informática,36.5
+9,Nota Fiscal Eletronica de Serviço - NFS-e 368,2017-05-30,Altino Rodrigues Procopio,17351788000183,Suprimentos para equipamentos de informática,292.0
+10,Fatura 1700403894827,2017-05-31,OI Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),323.54
+11,,,,,total,4641.79

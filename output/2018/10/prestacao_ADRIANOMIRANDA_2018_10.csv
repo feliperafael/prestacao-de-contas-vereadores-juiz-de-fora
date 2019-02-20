@@ -1,5 +1,6 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,NFe 10526,2018-10-26,Teixeira e Chaves Ltda,21339965001902,10.9
-1,NFe 10526,2018-10-26,Teizeira e Chaves Ltda,21339965001902,39.9
-2,NFe 10526,2018-10-26,Teixeira e Chaves Ltda,21339965001902,37.5
-3,Nota Fiscal de Serviços de Telecomunicação 1700424703821,2018-10-25,Telemar Norte Leste S/A,33000118000179,523.24
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,NFe 10526,2018-10-26,Teixeira e Chaves Ltda,21339965001902,Copa Interna,10.9
+1,NFe 10526,2018-10-26,Teizeira e Chaves Ltda,21339965001902,Material de expediente,39.9
+2,NFe 10526,2018-10-26,Teixeira e Chaves Ltda,21339965001902,Suprimentos para equipamentos de informática,37.5
+3,Nota Fiscal de Serviços de Telecomunicação 1700424703821,2018-10-25,Telemar Norte Leste S/A,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),523.24
+4,,,,,total,88.3

@@ -1,13 +1,14 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Cobrança Bancária 051,2018-02-28,Condomínio do Edifício Sulacap,26128371000147,950.0
-1,Nota Fiscal Eletrônica 13524,2018-02-27,Posto Romualdo Ltda.,66343930000156,935.66
-2,Nota Fiscal Eletrônica 1108,2018-02-22,A Carbonaro Agua Mineral ME,24488698000102,24.0
-3,Nota Fiscal Eletrônica 201800000000882,2018-02-28,Real Cópias de juiz de Fora Ltda,04316977000173,100.0
-4,Nota Fiscal - Conta de Energia Elétrica 7501121,2018-02-20,Cemig Distribuição S.A.,06981180000116,78.48
-5,Recibo S/Nº,2018-02-28,Condomínio Parking Saggioro,20439212000187,370.0
-6,Nota Fiscal Eletrônica 2018/2593,2018-02-28,Delta Design Ltda.,02651656000108,75.0
-7,Fatura de Locação 000011,2018-02-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,1800.0
-8,Comprovante do Cliente 00062,2018-02-28,Empresa Brasileira de Correios e Telégrafos,34028316221037,1000.0
-9,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-02-20,Telefônica Brasil S.A.,02558157000162,269.99
-10,Nota Fiscal de Serviços de Telecomunicações 883426621,2018-02-20,Telemar Norte Leste S/A,33000118000330,462.37
-11,Nota Fiscal de Serviços de Telecomunições 1700415674971,2018-02-28,Oi Fixo,33000118000179,91.27
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Cobrança Bancária 051,2018-02-28,Condomínio do Edifício Sulacap,26128371000147,Aluguel de escritório para representação parlamentar,950.0
+1,Nota Fiscal Eletrônica 13524,2018-02-27,Posto Romualdo Ltda.,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),935.66
+2,Nota Fiscal Eletrônica 1108,2018-02-22,A Carbonaro Agua Mineral ME,24488698000102,Copa Interna,24.0
+3,Nota Fiscal Eletrônica 201800000000882,2018-02-28,Real Cópias de juiz de Fora Ltda,04316977000173,Cópias xerográficas e similares,100.0
+4,Nota Fiscal - Conta de Energia Elétrica 7501121,2018-02-20,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,78.48
+5,Recibo S/Nº,2018-02-28,Condomínio Parking Saggioro,20439212000187,Estacionamento (uma vaga),370.0
+6,Nota Fiscal Eletrônica 2018/2593,2018-02-28,Delta Design Ltda.,02651656000108,Impressos,75.0
+7,Fatura de Locação 000011,2018-02-26,Empreiteira Transtech T&D Ltda - ME,14496365000163,Locação de veículos utilizados no exercício do mandato legislativo,1800.0
+8,Comprovante do Cliente 00062,2018-02-28,Empresa Brasileira de Correios e Telégrafos,34028316221037,Postagem,1000.0
+9,Nota Fiscal de Serviços de Telecomunicações 0237757587,2018-02-20,Telefônica Brasil S.A.,02558157000162,Telefone Móvel,269.99
+10,Nota Fiscal de Serviços de Telecomunicações 883426621,2018-02-20,Telemar Norte Leste S/A,33000118000330,Telefone para escritório para representação parlamentar,462.37
+11,Nota Fiscal de Serviços de Telecomunições 1700415674971,2018-02-28,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),91.27
+12,,,,,total,6065.5

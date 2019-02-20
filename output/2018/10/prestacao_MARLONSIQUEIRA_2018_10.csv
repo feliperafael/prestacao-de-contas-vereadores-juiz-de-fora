@@ -1,10 +1,11 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Nota Fiscal Eletronica 000020564,2018-10-19,Solar Comunicações S/A,21561725000129,85.85
-1,Nota Fiscal Eletronica 00002362,2018-10-25,R.A Ribeiro Combustiveis,12941507000129,285.02
-2,Nota Fiscal Eletronica 00002364,2018-10-29,R.A Combustiveis,12941507000129,295.02
-3,Nota Fiscal Eletronica 000000204,2018-10-29,Posto Central LTDA,21549407000142,250.0
-4,Nota Fiscal Eletronica de Serviço 201800000000042,2018-10-29,Aristides Ribeiro Advogados Associados S/A,04504649000109,3000.0
-5,Nota Fiscal Eletronica 52,2018-10-29,Freire Papelaria LTDA,07403078000104,19.0
-6,Nota Fiscal Eletronica 52,2018-10-29,Freire Papelaria LTDA,07403078000104,39.8
-7,Nota Fiscal de Serviço de Telecomunicação 0304814216,2018-10-19,Vivo,02558157000162,353.83
-8,Nota fiscal de Serviços de Telecomunicação 1700424703821,2018-10-29,Oi Fixo,33000118000179,88.44
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Nota Fiscal Eletronica 000020564,2018-10-19,Solar Comunicações S/A,21561725000129,"Assinatura de jornais, revistas e periódicos",85.85
+1,Nota Fiscal Eletronica 00002362,2018-10-25,R.A Ribeiro Combustiveis,12941507000129,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),285.02
+2,Nota Fiscal Eletronica 00002364,2018-10-29,R.A Combustiveis,12941507000129,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),295.02
+3,Nota Fiscal Eletronica 000000204,2018-10-29,Posto Central LTDA,21549407000142,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),250.0
+4,Nota Fiscal Eletronica de Serviço 201800000000042,2018-10-29,Aristides Ribeiro Advogados Associados S/A,04504649000109,* Consultoria técnica,3000.0
+5,Nota Fiscal Eletronica 52,2018-10-29,Freire Papelaria LTDA,07403078000104,Copa Interna,19.0
+6,Nota Fiscal Eletronica 52,2018-10-29,Freire Papelaria LTDA,07403078000104,Material de expediente,39.8
+7,Nota Fiscal de Serviço de Telecomunicação 0304814216,2018-10-19,Vivo,02558157000162,Telefone Móvel,353.83
+8,Nota fiscal de Serviços de Telecomunicação 1700424703821,2018-10-29,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),88.44
+9,,,,,total,4328.52

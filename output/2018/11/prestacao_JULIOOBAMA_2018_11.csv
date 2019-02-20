@@ -1,12 +1,13 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo do Sacado 63868,2018-11-30,Diretrans Ltda,19490812000190,720.0
-1,DANFE 00004237,2018-11-28,Auto Posto Bandeirantes LTDA,21058508000110,720.0
-2,Recibo do Pagador 14000000001102904-3,2018-11-09,Cond. Ed. Rossi Rio Branco,20291262000160,261.98
-3,Recibo de pagamento a autônomo - RPA 24,2018-11-30,Elaine Araújo Gonzaga,05499740674,1600.0
-4,Cupom Fiscal 153571,2018-11-19,Teixeira e Chaves Ltda,21339965001902,19.65
-5,Nota Fiscal 070504546,2018-11-26,Cemig Distribuição S.A.,06981180000116,48.9
-6,Fatura 000101,2018-11-23,Estacionamento salve Jorge Ltda - ME,17509454000195,2300.0
-7,Cupom Fiscal 153568,2018-11-19,Teixeira e Chaves Ltda,21339965001902,106.32
-8,Cupom fiscal 011830,2018-11-26,Parco Papelaria Ltda,05214053001109,4.7
-9,Cupom Fiscal 011830,2018-11-26,Parco Papelaria Ltda,05214053001109,48.67
-10,Fatura 1700425769980,2018-11-30,Oi Fixo,33000118000179,174.01
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo do Sacado 63868,2018-11-30,Diretrans Ltda,19490812000190,Aluguel de escritório para representação parlamentar,720.0
+1,DANFE 00004237,2018-11-28,Auto Posto Bandeirantes LTDA,21058508000110,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),720.0
+2,Recibo do Pagador 14000000001102904-3,2018-11-09,Cond. Ed. Rossi Rio Branco,20291262000160,Condomínio de escritório para representação parlamentar,261.98
+3,Recibo de pagamento a autônomo - RPA 24,2018-11-30,Elaine Araújo Gonzaga,05499740674,* Consultoria técnica,1600.0
+4,Cupom Fiscal 153571,2018-11-19,Teixeira e Chaves Ltda,21339965001902,Copa Interna,19.65
+5,Nota Fiscal 070504546,2018-11-26,Cemig Distribuição S.A.,06981180000116,Energia elétrica para escritório para representação parlamentar,48.9
+6,Fatura 000101,2018-11-23,Estacionamento salve Jorge Ltda - ME,17509454000195,Locação de veículos utilizados no exercício do mandato legislativo,2300.0
+7,Cupom Fiscal 153568,2018-11-19,Teixeira e Chaves Ltda,21339965001902,Material de expediente,106.32
+8,Cupom fiscal 011830,2018-11-26,Parco Papelaria Ltda,05214053001109,Material de expediente,4.7
+9,Cupom Fiscal 011830,2018-11-26,Parco Papelaria Ltda,05214053001109,Suprimentos para equipamentos de informática,48.67
+10,Fatura 1700425769980,2018-11-30,Oi Fixo,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),174.01
+11,,,,,total,5830.22

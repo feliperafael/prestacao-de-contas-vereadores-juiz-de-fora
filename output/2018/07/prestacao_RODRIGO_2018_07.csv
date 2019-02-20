@@ -1,20 +1,21 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,cupom Fiscal 388603,2018-07-05,Posto Romualdo ltda,66343930000156,245.01
-1,Cupom Fiscal 390908,2018-07-09,Posto Romualdo LTDA,66343930000156,120.01
-2,Cupom fiscal 393090,2018-07-13,Posto Romualdo LTDA,66343930000156,240.02
-3,Cupom Fiscal 220849,2018-07-18,Auto posto energia juiz de fora LTDA,20040107000170,221.98
-4,Cupom Fiscal 190093,2018-07-19,Auto posto  Aeroporto LTDA,00587496000141,104.34
-5,DANFE 000014219,2018-07-31,Posto Romualdo Ltda,66343930000156,259.9
-6,Nota fiscal Eletrônica de serviços -NFS-e 201800000000103,2018-07-30,"Alvim soares,junqueira e Advogados associados",03853408000102,1500.0
-7,DANFE 000.001.337,2018-07-24,A carbonaro Agua Mineral,24488698000102,104.0
-8,DANFE 5127,2018-07-30,Ribeiro de oliveira & CIA LTDA,21562897000117,147.3
-9,Nota Fiscal Eletrônica de serviços NFS-e 201800000001218,2018-07-30,Real copias de juiz de fora LTDA,04316977000173,517.92
-10,DANFE 000.015.657,2018-07-04,Thema Veiculos LTDA,21550231000572,157.64
-11,Prestação de Serviços 201800000002538,2018-07-04,Thema Veiculos,21550231000572,175.66
-12,Prestaçao de serviços 000.015.657,2018-07-31,Thema  veiculos,21550231000572,157.64
-13,Prestador de serviços 201800000002538,2018-07-31,Thema veiculos,21550231000572,175.76
-14,DANFE 000.002.426,2018-07-31,Auto mais centro automotivo LTDA,19026483000121,903.5
-15,Prestador de Serviços 201800000000411,2018-07-31,Auto mais centro Automotivo LTDA,19026483000121,399.5
-16,Nota fiscal de serviços Eletrônica 201800000001228,2018-07-30,União Artes Graficas LTDA,20741559000180,500.0
-17,DANFE 5127,2018-07-30,Ribeiro de oliveira & CIA LTDA,21562897000117,111.2
-18,Nota fiscal de Telecomunicaçôes 1700421406453,2018-07-30,OI FIXO,33000118000179,398.35
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,cupom Fiscal 388603,2018-07-05,Posto Romualdo ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),245.01
+1,Cupom Fiscal 390908,2018-07-09,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),120.01
+2,Cupom fiscal 393090,2018-07-13,Posto Romualdo LTDA,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),240.02
+3,Cupom Fiscal 220849,2018-07-18,Auto posto energia juiz de fora LTDA,20040107000170,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),221.98
+4,Cupom Fiscal 190093,2018-07-19,Auto posto  Aeroporto LTDA,00587496000141,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),104.34
+5,DANFE 000014219,2018-07-31,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),259.9
+6,Nota fiscal Eletrônica de serviços -NFS-e 201800000000103,2018-07-30,"Alvim soares,junqueira e Advogados associados",03853408000102,* Consultoria técnica,1500.0
+7,DANFE 000.001.337,2018-07-24,A carbonaro Agua Mineral,24488698000102,Copa Interna,104.0
+8,DANFE 5127,2018-07-30,Ribeiro de oliveira & CIA LTDA,21562897000117,Copa Interna,147.3
+9,Nota Fiscal Eletrônica de serviços NFS-e 201800000001218,2018-07-30,Real copias de juiz de fora LTDA,04316977000173,Cópias xerográficas e similares,517.92
+10,DANFE 000.015.657,2018-07-04,Thema Veiculos LTDA,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),157.64
+11,Prestação de Serviços 201800000002538,2018-07-04,Thema Veiculos,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),175.66
+12,Prestaçao de serviços 000.015.657,2018-07-31,Thema  veiculos,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),157.64
+13,Prestador de serviços 201800000002538,2018-07-31,Thema veiculos,21550231000572,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),175.76
+14,DANFE 000.002.426,2018-07-31,Auto mais centro automotivo LTDA,19026483000121,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),903.5
+15,Prestador de Serviços 201800000000411,2018-07-31,Auto mais centro Automotivo LTDA,19026483000121,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),399.5
+16,Nota fiscal de serviços Eletrônica 201800000001228,2018-07-30,União Artes Graficas LTDA,20741559000180,Impressos,500.0
+17,DANFE 5127,2018-07-30,Ribeiro de oliveira & CIA LTDA,21562897000117,Material de expediente,111.2
+18,Nota fiscal de Telecomunicaçôes 1700421406453,2018-07-30,OI FIXO,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),398.35
+19,,,,,total,6041.38

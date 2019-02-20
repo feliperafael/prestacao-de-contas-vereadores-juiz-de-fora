@@ -1,16 +1,17 @@
-,documento,data_emissao,emitente,cpf_cnpj,valor
-0,Recibo 2,2017-03-02,Tendências Comerciais em Imoveis Eireli,07697040000183,800.0
-1,Danfe 12234,2017-03-28,Posto Romualdo Ltda,66343930000156,1910.4
-2,Recibo do Pagador 240000000007875162,2017-03-07,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,301.42
-3,NFe 2055,2017-03-22,Teixeira e Chaves Ltda,21339965001902,12.65
-4,NFSe 2017/196,2017-03-02,Comercial Supercópia Ltda,21560131000101,23.6
-5,NFSe 2017/60,2017-03-14,A R Nardy Copiadora,07954245000105,50.0
-6,NFSe 2017/38,2017-03-28,Posto Romualdo Ltda,66343930000156,80.0
-7,Nota Fiscal Série U1 NF 000748682,2017-03-13,Cemig distribuição SA,06981180000116,43.29
-8,Documento de Lançamento e Arrecadação do Imposto Predial e Territorial Urbano 002644144,2017-03-07,Prefeitura de Juiz de Fora,17783192000152,107.92
-9,NFSe 201700000000088,2017-03-08,W.Collor Editora Grafica Ltda,05033125000131,100.0
-10,Fatura de Locação 162,2017-03-24,Locadora Hermon Ltda-ME,04569904000193,2000.0
-11,Danfe 000000143,2017-03-02,Marcia Alve da SIlva Ramos ME,23603008000148,25.0
-12,NFe 1776,2017-03-09,Teixeira e Chaves Ltda,21339965001902,37.9
-13,NFe 2055,2017-03-22,Teixeira e Chaves Ltda,21339965001902,37.9
-14,Nota Fiscal de Serviços de Telecomunicação 1700401096287,2017-03-28,Telemar Norte Leste SA,33000118000179,420.13
+,documento,data_emissao,emitente,cpf_cnpj,categoria,valor
+0,Recibo 2,2017-03-02,Tendências Comerciais em Imoveis Eireli,07697040000183,Aluguel de escritório para representação parlamentar,800.0
+1,Danfe 12234,2017-03-28,Posto Romualdo Ltda,66343930000156,* Combustíveis e lubrificantes de veículos utilizados no exercício do mandato legislativo (¹),1910.4
+2,Recibo do Pagador 240000000007875162,2017-03-07,Cond.Ed. Rossi Rio Branco Corporate,20291262000160,Condomínio de escritório para representação parlamentar,301.42
+3,NFe 2055,2017-03-22,Teixeira e Chaves Ltda,21339965001902,Copa Interna,12.65
+4,NFSe 2017/196,2017-03-02,Comercial Supercópia Ltda,21560131000101,Cópias xerográficas e similares,23.6
+5,NFSe 2017/60,2017-03-14,A R Nardy Copiadora,07954245000105,Cópias xerográficas e similares,50.0
+6,NFSe 2017/38,2017-03-28,Posto Romualdo Ltda,66343930000156,* Despesas gerais com veículos utilizados no exercício do mandato legislativo (²),80.0
+7,Nota Fiscal Série U1 NF 000748682,2017-03-13,Cemig distribuição SA,06981180000116,Energia elétrica para escritório para representação parlamentar,43.29
+8,Documento de Lançamento e Arrecadação do Imposto Predial e Territorial Urbano 002644144,2017-03-07,Prefeitura de Juiz de Fora,17783192000152,IPTU e Taxas de escritório para representação parlamentar,107.92
+9,NFSe 201700000000088,2017-03-08,W.Collor Editora Grafica Ltda,05033125000131,Impressos,100.0
+10,Fatura de Locação 162,2017-03-24,Locadora Hermon Ltda-ME,04569904000193,Locação de veículos utilizados no exercício do mandato legislativo,2000.0
+11,Danfe 000000143,2017-03-02,Marcia Alve da SIlva Ramos ME,23603008000148,Material de expediente,25.0
+12,NFe 1776,2017-03-09,Teixeira e Chaves Ltda,21339965001902,Material de expediente,37.9
+13,NFe 2055,2017-03-22,Teixeira e Chaves Ltda,21339965001902,Material de expediente,37.9
+14,Nota Fiscal de Serviços de Telecomunicação 1700401096287,2017-03-28,Telemar Norte Leste SA,33000118000179,* Telefone(s) em nome da Câmara(local e interurbano) (³),420.13
+15,,,,,total,5530.08
